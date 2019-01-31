@@ -4,7 +4,7 @@ export default [
         list: [
             {
                 name: 'Blue Goblin',
-                size: 0.8,
+                size: 0.87,
                 folder: 'blue_goblin'
             },
             {

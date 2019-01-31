@@ -6,11 +6,6 @@ export default [
                 name: 'Hood Pirate',
                 size: 1,
                 folder: 'hood_pirate'
-            },
-            {
-                name: 'Castle Assassin',
-                size: 1,
-                folder: 'castle_assassin'
             }
         ]
     },
@@ -59,7 +54,7 @@ export default [
         list: [
             {
                 name: 'Hood Master',
-                size: 1.03,
+                size: 1.05,
                 folder: 'hood_master'
             }
         ]

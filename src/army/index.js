@@ -24,7 +24,6 @@ import titan_universe from "./titan_universe";
 import council_system from "./council_system";
 import wei_dynasty from "./wei_dynasty";
 import griffon_order from "./griffon_order";
-import nifheim_land from "./nifheim_land";
 import hood_guild from "./hood_guild";
 import abdullah_caliph from "./abdullah_caliph";
 import virus_darkness from "./virus_darkness";
@@ -61,11 +60,8 @@ import ancient_nature from "./ancient_nature";
 import ancient_beastman from "./ancient_beastman";
 import cathay_empire from "./cathay_empire";
 import iathires_town from "./iathires_town";
-import hrings_town from "./hrings_town";
 import eyle_realm from "./eyle_realm";
 import okamoto_clan from "./okamoto_clan";
-import inverfost_town from "./inverfost_town";
-import jugement_order from "./jugement_order";
 
 const army = {
     jommut_realm,
@@ -96,7 +92,6 @@ const army = {
     council_system,
     wei_dynasty,
     griffon_order,
-    nifheim_land,
     hood_guild,
     abdullah_caliph,
     virus_darkness,
@@ -132,11 +127,8 @@ const army = {
     ancient_beastman,
     cathay_empire,
     iathires_town,
-    hrings_town,
     eyle_realm,
-    okamoto_clan,
-    inverfost_town,
-    jugement_order
+    okamoto_clan
 }
 
 export default army;

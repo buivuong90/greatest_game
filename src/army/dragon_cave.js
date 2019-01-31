@@ -14,11 +14,6 @@ export default [
                 folder: 'gold_wyvern'
             },
             {
-                name: 'Red Wyvern',
-                size: 1.2,
-                folder: 'red_wyvern'
-            },
-            {
                 name: 'Skeleton Dragon',
                 size: 1.2,
                 folder: 'skeleton_dragon'

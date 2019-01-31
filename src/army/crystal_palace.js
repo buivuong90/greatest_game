@@ -10,19 +10,9 @@ export default [
                 folder: 'western_witch'
             },
             {
-                name: 'Western Mage',
-                size: 1.08,
-                folder: 'western_mage'
-            },
-            {
                 name: 'Nature Sorceress',
                 size: 0.98,
                 folder: 'nature_sorceress'
-            },
-            {
-                name: 'Eastern Sage',
-                size: 1,
-                folder: 'eastern_sage'
             }
         ]
     },
