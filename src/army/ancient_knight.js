@@ -39,7 +39,11 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Timid Knight',
+                size: 1.2,
+                folder: 'timid_knight'
+            }
         ]
     },
     {

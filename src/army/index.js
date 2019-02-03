@@ -62,6 +62,8 @@ import cathay_empire from "./cathay_empire";
 import iathires_town from "./iathires_town";
 import eyle_realm from "./eyle_realm";
 import okamoto_clan from "./okamoto_clan";
+import borba_tribe from "./borba_tribe";
+import olaf_empire from "./olaf_empire";
 
 const army = {
     jommut_realm,
@@ -128,7 +130,9 @@ const army = {
     cathay_empire,
     iathires_town,
     eyle_realm,
-    okamoto_clan
+    okamoto_clan,
+    borba_tribe,
+    olaf_empire
 }
 
 export default army;

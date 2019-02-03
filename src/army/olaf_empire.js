@@ -17,19 +17,19 @@ export default [
         name: 'Level 3',
         list: [
             {
-                name: 'Princess Mage',
-                size: 0.97,
-                folder: 'princess_mage'
+                name: 'Prince Skald',
+                size: 1.01,
+                folder: 'prince_skald'
             },
             {
-                name: 'Princess Paladin',
-                size: 0.97,
-                folder: 'princess_paladin'
+                name: 'Prince Viking',
+                size: 1.01,
+                folder: 'prince_viking'
             },
             {
-                name: 'Princess Warrior',
-                size: 0.97,
-                folder: 'princess_warrior'
+                name: 'Prince Mage',
+                size: 1.01,
+                folder: 'prince_mage'
             }
         ]
     },

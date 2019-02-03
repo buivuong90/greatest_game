@@ -13,6 +13,16 @@ export default [
                 name: 'Halfangel_soldier',
                 size: 1.74,
                 folder: 'halfangel_soldier'
+            },
+            {
+                name: 'Legion I',
+                size: 1.25,
+                folder: 'legion_i'
+            },
+            {
+                name: 'Legion II',
+                size: 1.22,
+                folder: 'legion_ii'
             }
         ]
     },

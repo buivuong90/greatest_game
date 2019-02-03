@@ -34,13 +34,21 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Chaos Dragoneater',
+                size: 1.23,
+                folder: 'chaos_dragoneater'
+            }
         ]
     },
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Chaos Legion',
+                size: 1.5,
+                folder: 'chaos_legion'
+            }
         ]
     }
 ]

@@ -60,7 +60,16 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Paladin Sword',
+                size: 1.01,
+                folder: 'paladin_sword'
+            },
+            {
+                name: 'Paladin Lance',
+                size: 1.17,
+                folder: 'paladin_lance'
+            }
         ]
     },
     {
