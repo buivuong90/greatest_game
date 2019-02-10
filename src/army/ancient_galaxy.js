@@ -8,6 +8,11 @@ export default [
                 name: 'Pilot Allacaris',
                 size: 1.27,
                 folder: 'pilot_allacaris'
+            },
+            {
+                name: 'Pilot Catherine',
+                size: 1.05,
+                folder: 'pilot_catherine'
             }
         ]
     },
@@ -34,7 +39,11 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Ship Boar',
+                size: 1.5,
+                folder: 'ship_boar'
+            }
         ]
     },
     {

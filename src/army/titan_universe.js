@@ -17,11 +17,7 @@ export default [
     {
         name: 'Level 2',
         list: [
-            {
-                name: 'Titan Smoke',
-                size: 1.6,
-                folder: 'titan_smoke'
-            }
+            
         ]
     },
     {

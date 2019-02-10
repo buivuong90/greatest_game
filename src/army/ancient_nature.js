@@ -5,14 +5,9 @@ export default [
         name: 'Level 1',
         list: [
             {
-                name: 'Shadow Minion',
+                name: 'Shadow Boar',
                 size: 1,
-                folder: 'shadow_minion'
-            },
-            {
-                name: 'Shadow Shaman',
-                size: 1.2,
-                folder: 'shadow_shaman'
+                folder: 'shadow_boar'
             }
         ]
     },
@@ -23,37 +18,39 @@ export default [
                 name: 'Forest Spider',
                 size: 1.2,
                 folder: 'forest_spider'
+            },
+            {
+                name: 'Forest Runner',
+                size: 1.08,
+                folder: 'forest_runner'
             }
         ]
     },
     {
         name: 'Level 3',
         list: [
-            {
-                name: 'Shadow Sorcerer',
-                size: 1.05,
-                folder: 'shadow_sorcerer'
-            }
+            
         ]
     },
     {
         name: 'Level 4',
         list: [
             {
-                name: 'Shadow Knight',
-                size: 1.2,
-                folder: 'shadow_knight'
+                name: 'Forest Huntress',
+                size: 1.04,
+                folder: 'forest_huntress'
+            },
+            {
+                name: 'Forest Sharpshooter',
+                size: 1.1,
+                folder: 'forest_sharpshooter'
             }
         ]
     },
     {
         name: 'Level 5',
         list: [
-            {
-                name: 'Shadow Dragon Knight',
-                size: 1.6,
-                folder: 'shadow_dragon_knight'
-            }
+            
         ]
     }
 ]

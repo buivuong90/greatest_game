@@ -23,9 +23,14 @@ export default [
         name: 'Level 2',
         list: [
             {
-                name: 'Nature Fairy',
+                name: 'Fairy Soldier',
                 size: 1.05,
-                folder: 'nature_fairy'
+                folder: 'fairy_soldier'
+            },
+            {
+                name: 'Fairy Forest',
+                size: 0.9,
+                folder: 'fairy_forest'
             }
         ]
     },
@@ -33,14 +38,14 @@ export default [
         name: 'Level 3',
         list: [
             {
-                name: 'Flower Fairy',
+                name: 'Fairy Flower',
                 size: 1.03,
-                folder: 'flower_fairy'
+                folder: 'fairy_flower'
             },
             {
-                name: 'Spider Fairy',
+                name: 'Fairy Spider',
                 size: 1,
-                folder: 'spider_fairy'
+                folder: 'fairy_spider'
             }
         ]
     },

@@ -22,7 +22,11 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Unicorn Shadow',
+                size: 1.1,
+                folder: 'unicorn_shadow'
+            }
         ]
     },
     {

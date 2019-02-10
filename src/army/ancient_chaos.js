@@ -8,6 +8,11 @@ export default [
                 name: 'Chaos Nighthunter',
                 size: 1.15,
                 folder: 'chaos_nighthunter'
+            },
+            {
+                name: 'Chaos Wildhunter',
+                size: 1.05,
+                folder: 'chaos_wildhunter'
             }
         ]
     },

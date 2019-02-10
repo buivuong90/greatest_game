@@ -25,7 +25,6 @@ import council_system from "./council_system";
 import wei_dynasty from "./wei_dynasty";
 import griffon_order from "./griffon_order";
 import hood_guild from "./hood_guild";
-import abdullah_caliph from "./abdullah_caliph";
 import virus_darkness from "./virus_darkness";
 import insect_empire from "./insect_empire";
 import marcel_empire from "./marcel_empire";
@@ -45,7 +44,6 @@ import amber_realm from "./amber_realm";
 import rekadius_castle from "./rekadius_castle";
 import lady_castle from "./lady_castle";
 import valiant_heaven from "./valiant_heaven";
-import zalzas_kingdom from "./zalzas_kingdom";
 import mine_underground from "./mine_underground";
 import ares_sons from "./ares_sons";
 import sanskrit_universe from "./sanskrit_universe";
@@ -59,11 +57,20 @@ import ancient_knight from "./ancient_knight";
 import ancient_nature from "./ancient_nature";
 import ancient_beastman from "./ancient_beastman";
 import cathay_empire from "./cathay_empire";
-import iathires_town from "./iathires_town";
 import eyle_realm from "./eyle_realm";
 import okamoto_clan from "./okamoto_clan";
 import borba_tribe from "./borba_tribe";
 import olaf_empire from "./olaf_empire";
+import zug_tribe from "./zug_tribe";
+import nucnotzo_clan from "./nucnotzo_clan";
+import qomzol_castle from "./qomzol_castle";
+import thurber_guild from "./thurber_guild";
+import elemental_world from "./elemental_world";
+import zhong_mountain from "./zhong_mountain";
+import shizi_mystic from "./shizi_mystic";
+import ancient_shadow from "./ancient_shadow";
+import wyvern_underground from "./wyvern_underground";
+import kathos_clan from "./kathos_clan";
 
 const army = {
     jommut_realm,
@@ -95,7 +102,6 @@ const army = {
     wei_dynasty,
     griffon_order,
     hood_guild,
-    abdullah_caliph,
     virus_darkness,
     insect_empire,
     sizon_cave,
@@ -114,7 +120,6 @@ const army = {
     rekadius_castle,
     lady_castle,
     valiant_heaven,
-    zalzas_kingdom,
     mine_underground,
     ares_sons,
     sanskrit_universe,
@@ -128,11 +133,20 @@ const army = {
     ancient_nature,
     ancient_beastman,
     cathay_empire,
-    iathires_town,
     eyle_realm,
     okamoto_clan,
     borba_tribe,
-    olaf_empire
+    olaf_empire,
+    zug_tribe,
+    nucnotzo_clan,
+    qomzol_castle,
+    thurber_guild,
+    elemental_world,
+    zhong_mountain,
+    shizi_mystic,
+    ancient_shadow,
+    wyvern_underground,
+    kathos_clan
 }
 
 export default army;

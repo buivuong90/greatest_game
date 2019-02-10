@@ -10,7 +10,16 @@ export default [
     {
         name: 'Level 2',
         list: [
-            
+            {
+                name: 'Naga Priestess',
+                size: 1.1,
+                folder: 'naga_priestess'
+            },
+            {
+                name: 'Naga Priestess Elite',
+                size: 1.13,
+                folder: 'naga_priestess_elite'
+            }
         ]
     },
     {
@@ -23,9 +32,9 @@ export default [
         name: 'Level 4',
         list: [
             {
-                name: 'Champion',
+                name: 'Human Champion',
                 size: 1.04,
-                folder: 'champion'
+                folder: 'human_champion'
             }
         ]
     },

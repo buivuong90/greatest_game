@@ -13,6 +13,11 @@ export default [
                 name: 'Guerin Knight',
                 size: 1.22,
                 folder: 'guerin_knight'
+            },
+            {
+                name: 'Isabel Noble',
+                size: 1.03,
+                folder: 'isabel_noble'
             }
         ]
     },
