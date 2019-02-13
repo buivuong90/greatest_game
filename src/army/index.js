@@ -1,152 +1,41 @@
-import laifigon_empire from "./laifigon_empire";
-import xensor_territory from "./xensor_territory";
-import hot_barrens from "./hot_barrens";
-import jommut_realm from "./jommut_realm";
-import acallaris_system from "./acallaris_system";
-import proxima_cloud from "./proxima_cloud";
-import ragfu_horde from "./ragfu_horde";
-import fagrland_realm from "./fagrland_realm";
-import zephyr_world from "./zephyr_world";
-import xultart_horde from "./xultart_horde";
-import ratmen_underground from "./ratmen_underground";
-import garanan_void from "./garanan_void";
-import union_empire from "./union_empire";
-import dragon_cave from "./dragon_cave";
-import lily_realm from "./lily_realm";
-import battlefeet_ground from "./battlefeet_ground";
-import bone_plague from "./bone_plague";
-import helete_kingdom from "./helete_kingdom";
-import jaghatai_horde from "./jaghatai_horde";
-import log_horde from "./log_horde";
-import kobold_kingdom from "./kobold_kingdom";
-import coyote_realm from "./coyote_realm";
-import titan_universe from "./titan_universe";
-import council_system from "./council_system";
-import wei_dynasty from "./wei_dynasty";
-import griffon_order from "./griffon_order";
-import hood_guild from "./hood_guild";
-import virus_darkness from "./virus_darkness";
-import insect_empire from "./insect_empire";
-import marcel_empire from "./marcel_empire";
-import sizon_cave from "./sizon_cave";
-import angel_kingdom from "./angel_kingdom";
-import crystal_palace from "./crystal_palace";
-import taneda_house from "./taneda_house";
-import dimam_realm from "./dimam_realm";
-import jelriz_empire from "./jelriz_empire";
-import harding_order from "./harding_order";
-import raven_empire from "./raven_empire";
-import griheia_kingdom from "./griheia_kingdom";
-import mavred_shadow from "./mavred_shadow";
-import hayward_shadow from "./hayward_shadow";
-import berrodell_shadow from "./berrodell_shadow";
-import amber_realm from "./amber_realm";
-import rekadius_castle from "./rekadius_castle";
-import lady_castle from "./lady_castle";
-import valiant_heaven from "./valiant_heaven";
-import mine_underground from "./mine_underground";
-import ares_sons from "./ares_sons";
-import sanskrit_universe from "./sanskrit_universe";
-import ancient_undead from "./ancient_undead";
-import ancient_galaxy from "./ancient_galaxy";
-import frozen_world from "./frozen_world";
-import sun_tribe from "./sun_tribe";
-import ancient_chaos from "./ancient_chaos";
-import machine_universe from "./machine_universe";
-import ancient_knight from "./ancient_knight";
-import ancient_nature from "./ancient_nature";
-import ancient_beastman from "./ancient_beastman";
-import cathay_empire from "./cathay_empire";
-import eyle_realm from "./eyle_realm";
-import okamoto_clan from "./okamoto_clan";
-import borba_tribe from "./borba_tribe";
-import olaf_empire from "./olaf_empire";
-import zug_tribe from "./zug_tribe";
-import nucnotzo_clan from "./nucnotzo_clan";
-import qomzol_castle from "./qomzol_castle";
-import thurber_guild from "./thurber_guild";
-import elemental_world from "./elemental_world";
-import zhong_mountain from "./zhong_mountain";
-import shizi_mystic from "./shizi_mystic";
-import ancient_shadow from "./ancient_shadow";
-import wyvern_underground from "./wyvern_underground";
-import kathos_clan from "./kathos_clan";
+import harald_rike from "../containers/army/harald_rike";
+import ellice_royaume from "../containers/army/ellice_royaume";
+import titan_universe from "../containers/army/titan_universe";
+import sahl_dynasty from "../containers/army/sahl_dynasty";
+import elemental_universe from "../containers/army/elemental_universe";
+import imkan_heaven from "../containers/army/imkan_heaven";
+import wesley_gangs from "../containers/army/wesley_gangs";
+import arghus_crypt from "../containers/army/arghus_crypt";
+import yiddenda_realm from "../containers/army/yiddenda_realm";
+import bhamka_crypt from "../containers/army/bhamka_crypt";
+import vargan_clan from "../containers/army/vargan_clan";
+import roshri_shadow from "../containers/army/roshri_shadow";
+import cobalt_guild from "../containers/army/cobalt_guild";
+import chicahua_hell from "../containers/army/chicahua_hell";
+import toufiq_niqaba from "../containers/army/toufiq_niqaba";
+import mary_kingdom from "../containers/army/mary_kingdom";
+import nussorlig_realm from "../containers/army/nussorlig_realm";
+import julakgh_kingdom from "../containers/army/julakgh_kingdom";
 
 const army = {
-    jommut_realm,
-    laifigon_empire,
-    xensor_territory,
-    hot_barrens,
-    jommut_realm,
-    acallaris_system,
-    proxima_cloud,
-    ragfu_horde,
-    fagrland_realm,
-    zephyr_world,
-    xultart_horde,
-    ratmen_underground,
-    garanan_void,
-    union_empire,
-    dragon_cave,
-    lily_realm,
-    battlefeet_ground,
-    bone_plague,
-    helete_kingdom,
-    jaghatai_horde,
-    log_horde,
-    marcel_empire,
-    kobold_kingdom,
-    coyote_realm,
+    harald_rike,
+    ellice_royaume,
     titan_universe,
-    council_system,
-    wei_dynasty,
-    griffon_order,
-    hood_guild,
-    virus_darkness,
-    insect_empire,
-    sizon_cave,
-    angel_kingdom,
-    crystal_palace,
-    taneda_house,
-    dimam_realm,
-    jelriz_empire,
-    harding_order,
-    raven_empire,
-    griheia_kingdom,
-    mavred_shadow,
-    hayward_shadow,
-    berrodell_shadow,
-    amber_realm,
-    rekadius_castle,
-    lady_castle,
-    valiant_heaven,
-    mine_underground,
-    ares_sons,
-    sanskrit_universe,
-    ancient_undead,
-    ancient_galaxy,
-    frozen_world,
-    sun_tribe,
-    ancient_chaos,
-    machine_universe,
-    ancient_knight,
-    ancient_nature,
-    ancient_beastman,
-    cathay_empire,
-    eyle_realm,
-    okamoto_clan,
-    borba_tribe,
-    olaf_empire,
-    zug_tribe,
-    nucnotzo_clan,
-    qomzol_castle,
-    thurber_guild,
-    elemental_world,
-    zhong_mountain,
-    shizi_mystic,
-    ancient_shadow,
-    wyvern_underground,
-    kathos_clan
+    sahl_dynasty,
+    elemental_universe,
+    imkan_heaven,
+    wesley_gangs,
+    arghus_crypt,
+    yiddenda_realm,
+    bhamka_crypt,
+    vargan_clan,
+    roshri_shadow,
+    cobalt_guild,
+    chicahua_hell,
+    toufiq_niqaba,
+    mary_kingdom,
+    nussorlig_realm,
+    julakgh_kingdom
 }
 
 export default army;

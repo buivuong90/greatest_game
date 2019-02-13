@@ -1341,414 +1341,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var reac
 
 /***/ }),
 
-/***/ "./src/army/_attr.js":
-/*!***************************!*\
-  !*** ./src/army/_attr.js ***!
-  \***************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  al_rasheed_gene: {\n    name: 'Al-Rasheed Gene',\n    description: '+15% Attack And Defence When Fighting on Desert Land'\n  },\n  prophet_of_world: {\n    name: 'Prophet Of World',\n    description: '+50% Morale For Al-Rasheed Army'\n  },\n  killer_of_shadow: {\n    name: 'Killer Of Shadow',\n    description: '+50% Attack Against Undead Army'\n  }\n});\n\n//# sourceURL=webpack:///./src/army/_attr.js?");
-
-/***/ }),
-
-/***/ "./src/army/acallaris_system.js":
-/*!**************************************!*\
-  !*** ./src/army/acallaris_system.js ***!
-  \**************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'War Collector',\n    size: 1,\n    folder: 'war_collector'\n  }, {\n    name: 'Trash',\n    size: 1,\n    folder: 'trash'\n  }, {\n    name: 'Tracker',\n    size: 1.2,\n    folder: 'tracker'\n  }, {\n    name: 'Experimental Trainee',\n    size: 1.1,\n    folder: 'experimental_trainee'\n  }, {\n    name: 'Experimental Soldier',\n    size: 1.1,\n    folder: 'experimental_soldier'\n  }, {\n    name: 'Mana Stealer',\n    size: 0.9,\n    folder: 'mana_stealer'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Clockwork',\n    size: 1.2,\n    folder: 'clockwork'\n  }, {\n    name: 'Red Soldier',\n    size: 1,\n    folder: 'red_soldier'\n  }, {\n    name: 'Purple Soldier',\n    size: 1,\n    folder: 'purple_soldier'\n  }, {\n    name: 'Purple Gunner',\n    size: 1.03,\n    folder: 'purple_gunner'\n  }, {\n    name: 'Inquisitor',\n    size: 1.02,\n    folder: 'inquisitor'\n  }, {\n    name: 'Judge',\n    size: 1.1,\n    folder: 'judge'\n  }, {\n    name: 'Destroyer',\n    size: 1.4,\n    folder: 'destroyer'\n  }, {\n    name: 'Tinhead',\n    size: 1.07,\n    folder: 'tinhead'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Battle Blacksmith',\n    size: 1.1,\n    folder: 'battle_blacksmith'\n  }, {\n    name: 'Gate Lancer',\n    size: 1.05,\n    folder: 'gate_lancer'\n  }, {\n    name: 'Light Stranger',\n    size: 1.4,\n    folder: 'light_stranger'\n  }, {\n    name: 'Experimental Conjurer',\n    size: 1.5,\n    folder: 'experimental_conjurer'\n  }, {\n    name: 'Anti Stranger',\n    size: 1.4,\n    folder: 'anti_stranger'\n  }, {\n    name: 'High Guard',\n    size: 1.05,\n    folder: 'high_guard'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Stranger',\n    size: 1.5,\n    folder: 'stranger'\n  }, {\n    name: 'Elite Conjurer',\n    size: 1.6,\n    folder: 'elite_conjurer'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Ultimate Sentry',\n    size: 1.7,\n    folder: 'ultimate_sentry'\n  }, {\n    name: 'Titan Stranger',\n    size: 1.8,\n    folder: 'titan_stranger'\n  }, {\n    name: 'Titan RX',\n    size: 1.75,\n    folder: 'titan_rx'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/acallaris_system.js?");
-
-/***/ }),
-
-/***/ "./src/army/amber_realm.js":
-/*!*********************************!*\
-  !*** ./src/army/amber_realm.js ***!
-  \*********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Unicorn Shadow',\n    size: 1.1,\n    folder: 'unicorn_shadow'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/amber_realm.js?");
-
-/***/ }),
-
-/***/ "./src/army/ancient_beastman.js":
-/*!**************************************!*\
-  !*** ./src/army/ancient_beastman.js ***!
-  \**************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Great Hound',\n    size: 1.15,\n    folder: 'great_hound'\n  }, {\n    name: 'Great Hound Elite',\n    size: 1.15,\n    folder: 'great_hound_elite'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Great Lion',\n    size: 1.4,\n    folder: 'great_lion'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/ancient_beastman.js?");
-
-/***/ }),
-
-/***/ "./src/army/ancient_chaos.js":
-/*!***********************************!*\
-  !*** ./src/army/ancient_chaos.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Chaos Nighthunter',\n    size: 1.15,\n    folder: 'chaos_nighthunter'\n  }, {\n    name: 'Chaos Wildhunter',\n    size: 1.05,\n    folder: 'chaos_wildhunter'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Chaos Batiro',\n    size: 1.2,\n    folder: 'chaos_batiro'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Chaos Cthulhu',\n    size: 1.55,\n    folder: 'chaos_cthulhu'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Chaos Dragoneater',\n    size: 1.23,\n    folder: 'chaos_dragoneater'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Chaos Legion',\n    size: 1.5,\n    folder: 'chaos_legion'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/ancient_chaos.js?");
-
-/***/ }),
-
-/***/ "./src/army/ancient_galaxy.js":
-/*!************************************!*\
-  !*** ./src/army/ancient_galaxy.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Pilot Allacaris',\n    size: 1.27,\n    folder: 'pilot_allacaris'\n  }, {\n    name: 'Pilot Catherine',\n    size: 1.05,\n    folder: 'pilot_catherine'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Pilot Clover',\n    size: 1.1,\n    folder: 'pilot_clover'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Pilot Leporis',\n    size: 1.15,\n    folder: 'pilot_leporis'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Ship Boar',\n    size: 1.5,\n    folder: 'ship_boar'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/ancient_galaxy.js?");
-
-/***/ }),
-
-/***/ "./src/army/ancient_knight.js":
-/*!************************************!*\
-  !*** ./src/army/ancient_knight.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Mosse Knight',\n    size: 1.55,\n    folder: 'mosse_knight'\n  }, {\n    name: 'Guerin Knight',\n    size: 1.22,\n    folder: 'guerin_knight'\n  }, {\n    name: 'Isabel Noble',\n    size: 1.03,\n    folder: 'isabel_noble'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Fululus House',\n    size: 1.05,\n    folder: 'fululus_house'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Botolfe Knight',\n    size: 1.11,\n    folder: 'botolfe_knight'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Timid Knight',\n    size: 1.2,\n    folder: 'timid_knight'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Imperial Ship',\n    size: 2.3,\n    folder: 'imperial_ship'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/ancient_knight.js?");
-
-/***/ }),
-
-/***/ "./src/army/ancient_nature.js":
-/*!************************************!*\
-  !*** ./src/army/ancient_nature.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Shadow Boar',\n    size: 1,\n    folder: 'shadow_boar'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Forest Spider',\n    size: 1.2,\n    folder: 'forest_spider'\n  }, {\n    name: 'Forest Runner',\n    size: 1.08,\n    folder: 'forest_runner'\n  }]\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Forest Huntress',\n    size: 1.04,\n    folder: 'forest_huntress'\n  }, {\n    name: 'Forest Sharpshooter',\n    size: 1.1,\n    folder: 'forest_sharpshooter'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/ancient_nature.js?");
-
-/***/ }),
-
-/***/ "./src/army/ancient_shadow.js":
-/*!************************************!*\
-  !*** ./src/army/ancient_shadow.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Shadow Boar',\n    size: 1,\n    folder: 'shadow_boar'\n  }, {\n    name: 'Shadow Minion',\n    size: 1,\n    folder: 'shadow_minion'\n  }, {\n    name: 'Shadow Shaman',\n    size: 1.2,\n    folder: 'shadow_shaman'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Shadow Sorcerer',\n    size: 1.05,\n    folder: 'shadow_sorcerer'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Shadow Knight',\n    size: 1.2,\n    folder: 'shadow_knight'\n  }, {\n    name: 'Shadow Nightelf',\n    size: 1.1,\n    folder: 'shadow_nightelf'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Shadow Dragon Knight',\n    size: 1.6,\n    folder: 'shadow_dragon_knight'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/ancient_shadow.js?");
-
-/***/ }),
-
-/***/ "./src/army/ancient_undead.js":
-/*!************************************!*\
-  !*** ./src/army/ancient_undead.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Ancient Firion',\n    size: 1.02,\n    folder: 'ancient_firion'\n  }, {\n    name: 'Ancient Burch',\n    size: 1.05,\n    folder: 'ancient_burch'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Ancient Nerzas',\n    size: 1.2,\n    folder: 'ancient_nerzas'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Ancient Vail',\n    size: 1.2,\n    folder: 'ancient_vail'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Ancient Scias',\n    size: 1.26,\n    folder: 'ancient_scias'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/ancient_undead.js?");
-
-/***/ }),
-
-/***/ "./src/army/angel_kingdom.js":
-/*!***********************************!*\
-  !*** ./src/army/angel_kingdom.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Halfangel',\n    size: 1.1,\n    folder: 'halfangel'\n  }, {\n    name: 'Halfangel_soldier',\n    size: 1.74,\n    folder: 'halfangel_soldier'\n  }, {\n    name: 'Legion I',\n    size: 1.25,\n    folder: 'legion_i'\n  }, {\n    name: 'Legion II',\n    size: 1.22,\n    folder: 'legion_ii'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Adoel Follower',\n    size: 1.35,\n    folder: 'adoel_follower'\n  }]\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/angel_kingdom.js?");
-
-/***/ }),
-
-/***/ "./src/army/ares_sons.js":
-/*!*******************************!*\
-  !*** ./src/army/ares_sons.js ***!
-  \*******************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Ares Archer',\n    size: 1.04,\n    folder: 'ares_archer'\n  }, {\n    name: 'Ares Soldier',\n    size: 1.04,\n    folder: 'ares_soldier'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Ares Healer',\n    size: 1.02,\n    folder: 'ares_healer'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Ares Guardian',\n    size: 1.2,\n    folder: 'ares_guardian'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Ares Voidguard',\n    size: 1.2,\n    folder: 'ares_voidguard'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/ares_sons.js?");
-
-/***/ }),
-
-/***/ "./src/army/battlefeet_ground.js":
-/*!***************************************!*\
-  !*** ./src/army/battlefeet_ground.js ***!
-  \***************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Smogteeth Warrior',\n    size: 0.8,\n    folder: 'smogteeth_warrior'\n  }, {\n    name: 'Boar',\n    size: 0.7,\n    folder: 'boar'\n  }, {\n    name: 'Smogteeth Trainee',\n    size: 0.8,\n    folder: 'smogteeth_trainee'\n  }, {\n    name: 'Smogteeth Hammer',\n    size: 1,\n    folder: 'smogteeth_hammer'\n  }, {\n    name: 'Armored Boar',\n    size: 0.8,\n    folder: 'armored_boar'\n  }, {\n    name: 'Battle Hog',\n    size: 1.02,\n    folder: 'battle_hog'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Black Bear',\n    size: 1.05,\n    folder: 'black_bear'\n  }, {\n    name: 'Battle Rhino',\n    size: 1.15,\n    folder: 'battle_rhino'\n  }, {\n    name: 'Beastman',\n    size: 1.1,\n    folder: 'beastman'\n  }, {\n    name: 'Beastman Berserker',\n    size: 1.1,\n    folder: 'beastman_berserker'\n  }, {\n    name: 'Toast Warrior',\n    size: 1.15,\n    folder: 'toast_warrior'\n  }, {\n    name: 'Toast Shaman',\n    size: 1.32,\n    folder: 'toast_shaman'\n  }, {\n    name: 'Volcrate',\n    size: 1.08,\n    folder: 'volcrate'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Birdman',\n    size: 1.3,\n    folder: 'birdman'\n  }, {\n    name: 'Battle Croc',\n    size: 1.2,\n    folder: 'battle_croc'\n  }, {\n    name: 'Minotaur Axe',\n    size: 1.5,\n    folder: 'minotaur_axe'\n  }, {\n    name: 'Snakeman Assassin',\n    size: 1.14,\n    folder: 'snakeman_assassin'\n  }, {\n    name: 'Toast Guard',\n    size: 1.17,\n    folder: 'toast_guard'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Minotaur Flail',\n    size: 1.4,\n    folder: 'minotaur_flail'\n  }, {\n    name: 'Minotaur Mage',\n    size: 1.4,\n    folder: 'minotaur_mage'\n  }, {\n    name: 'Octo Mage',\n    size: 1.03,\n    folder: 'octo_mage'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Manticore',\n    size: 2,\n    folder: 'manticore'\n  }, {\n    name: 'Smogteeth King',\n    size: 1.3,\n    folder: 'smogteeth_king'\n  }, {\n    name: 'Champion',\n    size: 1.35,\n    folder: 'champion'\n  }, {\n    name: 'Yeti',\n    size: 1.9,\n    folder: 'yeti'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/battlefeet_ground.js?");
-
-/***/ }),
-
-/***/ "./src/army/berrodell_shadow.js":
-/*!**************************************!*\
-  !*** ./src/army/berrodell_shadow.js ***!
-  \**************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Bomber',\n    size: 0.6,\n    folder: 'bomber'\n  }, {\n    name: 'Marauder Warrior',\n    size: 1,\n    folder: 'marauder_warrior'\n  }, {\n    name: 'Goatman Axe',\n    size: 1.1,\n    folder: 'goatman_axe'\n  }, {\n    name: 'Demon Fatmon',\n    size: 1.1,\n    folder: 'demon_fatmon'\n  }, {\n    name: 'Demon Hound',\n    size: 0.8,\n    folder: 'demon_hound'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Marauder Shield',\n    size: 1.11,\n    folder: 'marauder_shield'\n  }, {\n    name: 'Demon Fatmon Elite',\n    size: 1.18,\n    folder: 'demon_fatmon_elite'\n  }, {\n    name: 'Demon Masker',\n    size: 1.1,\n    folder: 'demon_masker'\n  }, {\n    name: 'Demon Poison',\n    size: 1.1,\n    folder: 'demon_poison'\n  }, {\n    name: 'Scorpion',\n    size: 1.1,\n    folder: 'scorpion'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Demon Guard',\n    size: 1.12,\n    folder: 'demon_guard'\n  }, {\n    name: 'Demon Cyclops',\n    size: 1.12,\n    folder: 'demon_cyclops'\n  }, {\n    name: 'Demon Statue',\n    size: 1.35,\n    folder: 'demon_statue'\n  }, {\n    name: 'Reptile Berserker',\n    size: 1.2,\n    folder: 'reptile_berserker'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Arachnid',\n    size: 1.5,\n    folder: 'arachnid'\n  }, {\n    name: 'Demon Magma',\n    size: 1.6,\n    folder: 'demon_magma'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/berrodell_shadow.js?");
-
-/***/ }),
-
-/***/ "./src/army/bone_plague.js":
-/*!*********************************!*\
-  !*** ./src/army/bone_plague.js ***!
-  \*********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Spider',\n    size: 0.6,\n    folder: 'spider'\n  }, {\n    name: 'Mummy',\n    size: 1,\n    folder: 'mummy'\n  }, {\n    name: 'Shadow Ghoul',\n    size: 1,\n    folder: 'shadow_ghoul'\n  }, {\n    name: 'Ghoul',\n    size: 1,\n    folder: 'ghoul'\n  }, {\n    name: 'Zombie Axe',\n    size: 1,\n    folder: 'zombie_axe'\n  }, {\n    name: 'Zombie Berserker',\n    size: 1,\n    folder: 'zombie_berserker'\n  }, {\n    name: 'Zombie',\n    size: 1,\n    folder: 'zombie'\n  }, {\n    name: 'Skeleton Footman',\n    size: 1,\n    folder: 'skeleton_footman'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Skeleton Archer',\n    size: 1.05,\n    folder: 'skeleton_archer'\n  }, {\n    name: 'Skeleton Mage',\n    size: 1.1,\n    folder: 'skeleton_mage'\n  }, {\n    name: 'Spider Queen',\n    size: 0.8,\n    folder: 'spider_queen'\n  }, {\n    name: 'Skeleton Ballista',\n    size: 0.9,\n    folder: 'skeleton_ballista'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Lich',\n    size: 1.2,\n    folder: 'lich'\n  }, {\n    name: 'Zombie Horror',\n    size: 1.04,\n    folder: 'zombie_horror'\n  }, {\n    name: 'Skeleton Warlord',\n    size: 1.13,\n    folder: 'skeleton_warlord'\n  }, {\n    name: 'Skeleton Reaper',\n    size: 1.26,\n    folder: 'skeleton_reaper'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Skeleton Knight',\n    size: 1.1,\n    folder: 'skeleton_knight'\n  }, {\n    name: 'Battle Lich',\n    size: 1.1,\n    folder: 'battle_lich'\n  }, {\n    name: 'Killer',\n    size: 1.23,\n    folder: 'killer'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Spider Arachne',\n    size: 1.3,\n    folder: 'spider_arachne'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/bone_plague.js?");
-
-/***/ }),
-
-/***/ "./src/army/borba_tribe.js":
-/*!*********************************!*\
-  !*** ./src/army/borba_tribe.js ***!
-  \*********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Chieftain Woman',\n    size: 1.1,\n    folder: 'chieftain_woman'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/borba_tribe.js?");
-
-/***/ }),
-
-/***/ "./src/army/cathay_empire.js":
-/*!***********************************!*\
-  !*** ./src/army/cathay_empire.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Dragon Grunt',\n    size: 1.1,\n    folder: 'dragon_grunt'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Dragon General',\n    size: 1.1,\n    folder: 'dragon_general'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Dragon Prince',\n    size: 1.25,\n    folder: 'dragon_prince'\n  }, {\n    name: 'Dragon Prince Elite',\n    size: 1.29,\n    folder: 'dragon_prince_elite'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Dragon River',\n    size: 3,\n    folder: 'dragon_river'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Dragon God',\n    size: 1.38,\n    folder: 'dragon_god'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/cathay_empire.js?");
-
-/***/ }),
-
-/***/ "./src/army/council_system.js":
-/*!************************************!*\
-  !*** ./src/army/council_system.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Bandit Axe',\n    size: 1,\n    folder: 'bandit_axe'\n  }, {\n    name: 'Bandit Guard',\n    size: 1,\n    folder: 'bandit_guard'\n  }, {\n    name: 'Seeker',\n    size: 1,\n    folder: 'seeker'\n  }, {\n    name: 'Marine',\n    size: 1,\n    folder: 'marine'\n  }, {\n    name: 'Engineer',\n    size: 1,\n    folder: 'engineer'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Master Engineer',\n    size: 1,\n    folder: 'master_engineer'\n  }, {\n    name: 'Light Mystic Bow',\n    size: 1.1,\n    folder: 'light_mystic_bow'\n  }, {\n    name: 'Light Mystic Crossbow',\n    size: 1.1,\n    folder: 'light_mystic_crossbow'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Shield Hammerer',\n    size: 1.1,\n    folder: 'shield_hammerer'\n  }, {\n    name: 'Shield Swordsman',\n    size: 1.1,\n    folder: 'shield_swordsman'\n  }, {\n    name: 'Dragon Slayer',\n    size: 1.05,\n    folder: 'dragon_slayer'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Mystic Bow',\n    size: 1.1,\n    folder: 'mystic_bow'\n  }, {\n    name: 'Mystic Crossbow',\n    size: 1.1,\n    folder: 'mystic_crossbow'\n  }, {\n    name: 'Supreme Jundicator',\n    size: 1.05,\n    folder: 'supreme_jundicator'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Fake Angel',\n    size: 1.35,\n    folder: 'fake_angel'\n  }, {\n    name: 'Ice Angel',\n    size: 1.15,\n    folder: 'ice_angel'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/council_system.js?");
-
-/***/ }),
-
-/***/ "./src/army/coyote_realm.js":
-/*!**********************************!*\
-  !*** ./src/army/coyote_realm.js ***!
-  \**********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Wu Warrior',\n    size: 0.9,\n    folder: 'wu_warrior'\n  }, {\n    name: 'Wu Acolyte',\n    size: 0.98,\n    folder: 'wu_acolyte'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Wu Martial Artist',\n    size: 0.9,\n    folder: 'wu_martial_artist'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Wu Beast Master',\n    size: 1.1,\n    folder: 'wu_beast_master'\n  }, {\n    name: 'Barghest',\n    size: 0.95,\n    folder: 'barghest'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Wolf Alpha',\n    size: 0.87,\n    folder: 'wolf_alpha'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/coyote_realm.js?");
-
-/***/ }),
-
-/***/ "./src/army/crystal_palace.js":
-/*!************************************!*\
-  !*** ./src/army/crystal_palace.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Western Witch',\n    size: 0.95,\n    folder: 'western_witch'\n  }, {\n    name: 'Nature Sorceress',\n    size: 0.98,\n    folder: 'nature_sorceress'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Eastern Blue User',\n    size: 1.18,\n    folder: 'eastern_blue_user'\n  }, {\n    name: 'Western Witch Shadow',\n    size: 1.04,\n    folder: 'western_witch_shadow'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Eastern Soul User',\n    size: 1.03,\n    folder: 'eastern_soul_user'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/crystal_palace.js?");
-
-/***/ }),
-
-/***/ "./src/army/dimam_realm.js":
-/*!*********************************!*\
-  !*** ./src/army/dimam_realm.js ***!
-  \*********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Dwarf Blacksmith',\n    size: 0.9,\n    folder: 'dwarf_blacksmith'\n  }, {\n    name: 'Dwarf Assassin',\n    size: 0.87,\n    folder: 'dwarf_assassin'\n  }, {\n    name: 'Dwarf Soldier',\n    size: 0.9,\n    folder: 'dwarf_soldier'\n  }, {\n    name: 'Dwarf Pickaxe',\n    size: 0.91,\n    folder: 'dwarf_pickaxe'\n  }, {\n    name: 'Dwarf Tombguard',\n    size: 0.91,\n    folder: 'dwarf_tombguard'\n  }, {\n    name: 'Dwarf Tombguard Axe',\n    size: 0.91,\n    folder: 'dwarf_tombguard_axe'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Dwarf Marine',\n    size: 0.91,\n    folder: 'dwarf_marine'\n  }, {\n    name: 'Dwarf Marine Axe',\n    size: 0.91,\n    folder: 'dwarf_marine_axe'\n  }, {\n    name: 'Dwarf Guard',\n    size: 1,\n    folder: 'dwarf_guard'\n  }, {\n    name: 'Dwarf Cleric',\n    size: 1.25,\n    folder: 'dwarf_cleric'\n  }, {\n    name: 'Dwarf Protector',\n    size: 0.9,\n    folder: 'dwarf_protector'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Dwarf Magician',\n    size: 0.89,\n    folder: 'dwarf_magician'\n  }, {\n    name: 'Dwarf Seaguard',\n    size: 0.91,\n    folder: 'dwarf_seaguard'\n  }, {\n    name: 'Dwarf Berserker',\n    size: 0.92,\n    folder: 'dwarf_berserker'\n  }, {\n    name: 'Dwarf Patriot',\n    size: 0.91,\n    folder: 'dwarf_patriot'\n  }, {\n    name: 'Dwarf Patriot Axe',\n    size: 0.91,\n    folder: 'dwarf_patriot_axe'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Dwarf Hammerer',\n    size: 0.96,\n    folder: 'dwarf_hammerer'\n  }, {\n    name: 'Dwarf Champion',\n    size: 0.92,\n    folder: 'dwarf_champion'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/dimam_realm.js?");
-
-/***/ }),
-
-/***/ "./src/army/dragon_cave.js":
-/*!*********************************!*\
-  !*** ./src/army/dragon_cave.js ***!
-  \*********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Gold Wyvern',\n    size: 2.4,\n    folder: 'gold_wyvern'\n  }, {\n    name: 'Skeleton Dragon',\n    size: 1.2,\n    folder: 'skeleton_dragon'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'War Drake',\n    size: 1.1,\n    folder: 'war_drake'\n  }, {\n    name: 'Ghost Dragon',\n    size: 1.04,\n    folder: 'ghost_dragon'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'War Wyvern',\n    size: 2,\n    folder: 'war_wyvern'\n  }, {\n    name: 'Black Hydra',\n    size: 2,\n    folder: 'black_hydra'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Void Dragon',\n    size: 2.4,\n    folder: 'void_dragon'\n  }, {\n    name: 'Great Hydra',\n    size: 1.3,\n    folder: 'great_hydra'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/dragon_cave.js?");
-
-/***/ }),
-
-/***/ "./src/army/elemental_world.js":
-/*!*************************************!*\
-  !*** ./src/army/elemental_world.js ***!
-  \*************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Elemental Smoke',\n    size: 1.3,\n    folder: 'elemental_smoke'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/elemental_world.js?");
-
-/***/ }),
-
-/***/ "./src/army/eyle_realm.js":
-/*!********************************!*\
-  !*** ./src/army/eyle_realm.js ***!
-  \********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Elf Dagger',\n    size: 1.12,\n    folder: 'elf_dagger'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Elf Chakram',\n    size: 1.07,\n    folder: 'elf_chakram'\n  }]\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/eyle_realm.js?");
-
-/***/ }),
-
-/***/ "./src/army/fagrland_realm.js":
-/*!************************************!*\
-  !*** ./src/army/fagrland_realm.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Earth Minion',\n    size: 1,\n    folder: 'earth_minion'\n  }, {\n    name: 'Devourer',\n    size: 1,\n    folder: 'devourer'\n  }, {\n    name: 'Stone Golem',\n    size: 1.13,\n    folder: 'stone_golem'\n  }, {\n    name: 'Soldier Mace',\n    size: 0.9,\n    folder: 'soldier_mace'\n  }, {\n    name: 'Soldier Axe',\n    size: 0.9,\n    folder: 'soldier_axe'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Auto Cutter',\n    size: 1.1,\n    folder: 'auto_cutter'\n  }, {\n    name: 'Fire Soldier',\n    size: 1.2,\n    folder: 'fire_soldier'\n  }, {\n    name: 'Steam Golem',\n    size: 1.35,\n    folder: 'steam_golem'\n  }, {\n    name: 'Topaz Golem',\n    size: 1.35,\n    folder: 'topaz_golem'\n  }, {\n    name: 'Force Golem',\n    size: 1.35,\n    folder: 'force_golem'\n  }, {\n    name: 'Rock Golem',\n    size: 1.35,\n    folder: 'rock_golem'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Guardian Axe',\n    size: 0.95,\n    folder: 'guardian_axe'\n  }, {\n    name: 'Guardian Great Axe',\n    size: 0.95,\n    folder: 'guardian_great_axe'\n  }, {\n    name: 'Guardian Hammer',\n    size: 0.95,\n    folder: 'guardian_hammer'\n  }, {\n    name: 'Nature Golem',\n    size: 1.5,\n    folder: 'nature_golem'\n  }, {\n    name: 'Earth Golem',\n    size: 1.5,\n    folder: 'earth_golem'\n  }, {\n    name: 'Crystal Golem',\n    size: 1.5,\n    folder: 'crystal_golem'\n  }, {\n    name: 'Giant Sword',\n    size: 1.5,\n    folder: 'giant_sword'\n  }, {\n    name: 'Giant Axe',\n    size: 1.5,\n    folder: 'giant_axe'\n  }, {\n    name: 'Stalagmite Golem',\n    size: 1.5,\n    folder: 'stalagmite_golem'\n  }, {\n    name: 'Giant Champion',\n    size: 1.5,\n    folder: 'giant_champion'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Earth Caller',\n    size: 1.5,\n    folder: 'earth_caller'\n  }, {\n    name: 'Water Golem',\n    size: 1.4,\n    folder: 'water_golem'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Castle Spirit',\n    size: 1.8,\n    folder: 'castle_spirit'\n  }, {\n    name: 'Fire Golem',\n    size: 1.8,\n    folder: 'fire_golem'\n  }, {\n    name: 'Earth Titan',\n    size: 1.8,\n    folder: 'earth_titan'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/fagrland_realm.js?");
-
-/***/ }),
-
-/***/ "./src/army/frozen_world.js":
-/*!**********************************!*\
-  !*** ./src/army/frozen_world.js ***!
-  \**********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Frozen Stranger',\n    size: 1.11,\n    folder: 'frozen_stranger'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Frozen Mage',\n    size: 1.06,\n    folder: 'frozen_mage'\n  }]\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/frozen_world.js?");
-
-/***/ }),
-
-/***/ "./src/army/garanan_void.js":
-/*!**********************************!*\
-  !*** ./src/army/garanan_void.js ***!
-  \**********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Skeleton Lizard Female',\n    size: 1,\n    folder: 'skeleton_lizard_female'\n  }, {\n    name: 'Slime Void',\n    size: 1.15,\n    folder: 'slime_void'\n  }, {\n    name: 'Slime Leader',\n    size: 1,\n    folder: 'slime_leader'\n  }, {\n    name: 'Worm',\n    size: 1,\n    folder: 'worm'\n  }, {\n    name: 'Imp',\n    size: 1.15,\n    folder: 'imp'\n  }, {\n    name: 'Imp Fire',\n    size: 1.02,\n    folder: 'imp_fire'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Doppelganger',\n    size: 1.2,\n    folder: 'doppelganger'\n  }, {\n    name: 'Demon Axe',\n    size: 1.1,\n    folder: 'demon_axe'\n  }, {\n    name: 'Demon Gargoyle',\n    size: 1.2,\n    folder: 'demon_gargoyle'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Demon Armored',\n    size: 1.11,\n    folder: 'demon_armored'\n  }, {\n    name: 'Demon Killer',\n    size: 1.15,\n    folder: 'demon_killer'\n  }, {\n    name: 'Demon Lancer',\n    size: 1.35,\n    folder: 'demon_lancer'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Demon Great Axe',\n    size: 1.35,\n    folder: 'demon_great_axe'\n  }, {\n    name: 'Demon Great Weapon',\n    size: 1.35,\n    folder: 'demon_great_weapon'\n  }, {\n    name: 'Slime Queen',\n    size: 1.6,\n    folder: 'slime_queen'\n  }, {\n    name: 'Silencer',\n    size: 1.2,\n    folder: 'silencer'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Demon Shield',\n    size: 1.35,\n    folder: 'demon_shield'\n  }, {\n    name: 'Demon Destroyer',\n    size: 1.5,\n    folder: 'demon_destroyer'\n  }, {\n    name: 'Earth Monster',\n    size: 1.65,\n    folder: 'earth_monster'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/garanan_void.js?");
-
-/***/ }),
-
-/***/ "./src/army/griffon_order.js":
-/*!***********************************!*\
-  !*** ./src/army/griffon_order.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Peasant Archer',\n    size: 1,\n    folder: 'peasant_archer'\n  }, {\n    name: 'Sergeant',\n    size: 1,\n    folder: 'sergeant'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Squire',\n    size: 1.06,\n    folder: 'squire'\n  }, {\n    name: 'Court Maiden',\n    size: 0.97,\n    folder: 'court_maiden'\n  }, {\n    name: 'Longbowman',\n    size: 1,\n    folder: 'longbowman'\n  }, {\n    name: 'Royal Knight',\n    size: 1.02,\n    folder: 'royal_knight'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Plague Doctor',\n    size: 1,\n    folder: 'plague_doctor'\n  }, {\n    name: 'Templar Knight',\n    size: 1.05,\n    folder: 'templar_knight'\n  }, {\n    name: 'Horseman',\n    size: 1.3,\n    folder: 'horseman'\n  }, {\n    name: 'Maiden Knight',\n    size: 1,\n    folder: 'maiden_knight'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Lily Knight',\n    size: 1.1,\n    folder: 'lily_knight'\n  }, {\n    name: 'Messenger',\n    size: 1.01,\n    folder: 'messenger'\n  }, {\n    name: 'Blood Knight',\n    size: 1.03,\n    folder: 'blood_knight'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Court Wizard',\n    size: 1.09,\n    folder: 'court_wizard'\n  }, {\n    name: 'Ice Knight',\n    size: 1.15,\n    folder: 'ice_knight'\n  }, {\n    name: 'Green Knight',\n    size: 1.18,\n    folder: 'green_knight'\n  }, {\n    name: 'Light Virgin',\n    size: 1.05,\n    folder: 'light_virgin'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/griffon_order.js?");
-
-/***/ }),
-
-/***/ "./src/army/griheia_kingdom.js":
-/*!*************************************!*\
-  !*** ./src/army/griheia_kingdom.js ***!
-  \*************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Guard Peasant',\n    size: 1.01,\n    folder: 'guard_peasant'\n  }, {\n    name: 'Guard Mage',\n    size: 1.01,\n    folder: 'guard_mage'\n  }, {\n    name: 'Knight Crossbow',\n    size: 1.08,\n    folder: 'knight_crossbow'\n  }, {\n    name: 'Knight Sword',\n    size: 1.04,\n    folder: 'knight_sword'\n  }, {\n    name: 'Priestess Killer',\n    size: 1.01,\n    folder: 'priestess_killer'\n  }, {\n    name: 'Priestess Sword',\n    size: 1.01,\n    folder: 'priestess_sword'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Priestess Cleric',\n    size: 1.01,\n    folder: 'priestess_cleric'\n  }, {\n    name: 'Priestess Assassin',\n    size: 1.05,\n    folder: 'priestess_assassin'\n  }, {\n    name: 'Guard Doctor',\n    size: 1.03,\n    folder: 'guard_doctor'\n  }, {\n    name: 'Guard Elite Doctor',\n    size: 1.03,\n    folder: 'guard_elite_doctor'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Knight Blue',\n    size: 1.06,\n    folder: 'knight_blue'\n  }, {\n    name: 'Knight Black',\n    size: 1.06,\n    folder: 'knight_black'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Priestess Light',\n    size: 0.97,\n    folder: 'priestess_light'\n  }, {\n    name: 'Priestess Volcano',\n    size: 0.99,\n    folder: 'priestess_volcano'\n  }, {\n    name: 'Priestess Ghost',\n    size: 0.99,\n    folder: 'priestess_ghost'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Knight King',\n    size: 1.14,\n    folder: 'knight_king'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/griheia_kingdom.js?");
-
-/***/ }),
-
-/***/ "./src/army/harding_order.js":
-/*!***********************************!*\
-  !*** ./src/army/harding_order.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Guard Crossbow',\n    size: 1.08,\n    folder: 'guard_crossbow'\n  }, {\n    name: 'Guard Executioner',\n    size: 1.11,\n    folder: 'guard_executioner'\n  }, {\n    name: 'Guard Northman',\n    size: 1.11,\n    folder: 'guard_northman'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Guard Inquisitor',\n    size: 1.1,\n    folder: 'guard_inquisitor'\n  }, {\n    name: 'Guard Mace',\n    size: 1.34,\n    folder: 'guard_mace'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Guard Hammer',\n    size: 1.1,\n    folder: 'guard_hammer'\n  }, {\n    name: 'Guard Swordmaster',\n    size: 1.15,\n    folder: 'guard_swordmaster'\n  }, {\n    name: 'Champion Axe',\n    size: 1.17,\n    folder: 'champion_axe'\n  }, {\n    name: 'Champion Spear',\n    size: 1.19,\n    folder: 'champion_spear'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Champion Guard',\n    size: 1.17,\n    folder: 'champion_guard'\n  }, {\n    name: 'Champion Sword',\n    size: 1.17,\n    folder: 'champion_sword'\n  }, {\n    name: 'Champion Knight',\n    size: 1.32,\n    folder: 'champion_knight'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Titan Armored',\n    size: 1.6,\n    folder: 'titan_armored'\n  }, {\n    name: 'Titan Sun',\n    size: 1.6,\n    folder: 'titan_sun'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/harding_order.js?");
-
-/***/ }),
-
-/***/ "./src/army/hayward_shadow.js":
-/*!************************************!*\
-  !*** ./src/army/hayward_shadow.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Zombie',\n    size: 0.9,\n    folder: 'zombie'\n  }, {\n    name: 'Skeleton Minion',\n    size: 0.9,\n    folder: 'skeleton_minion'\n  }, {\n    name: 'Skeleton Malee',\n    size: 1.07,\n    folder: 'skeleton_malee'\n  }, {\n    name: 'Spider',\n    size: 0.6,\n    folder: 'spider'\n  }, {\n    name: 'Spider White',\n    size: 0.6,\n    folder: 'spider_white'\n  }, {\n    name: 'Bat White',\n    size: 0.4,\n    folder: 'bat_white'\n  }, {\n    name: 'Skeleton Grunt',\n    size: 1,\n    folder: 'skeleton_grunt'\n  }, {\n    name: 'Skeleton Warrior',\n    size: 1.1,\n    folder: 'skeleton_warrior'\n  }, {\n    name: 'Skeleton Archer',\n    size: 1.01,\n    folder: 'skeleton_archer'\n  }, {\n    name: 'Vampire Crawler',\n    size: 0.8,\n    folder: 'vampire_crawler'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Vampire Basic',\n    size: 1.04,\n    folder: 'vampire_basic'\n  }, {\n    name: 'Vampire Madman',\n    size: 1.05,\n    folder: 'vampire_madman'\n  }, {\n    name: 'Vampire Bully',\n    size: 1.12,\n    folder: 'vampire_bully'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Skeleton Red Archer',\n    size: 1.01,\n    folder: 'skeleton_red_archer'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Vampire Bloodthirster',\n    size: 1.18,\n    folder: 'vampire_bloodthirster'\n  }, {\n    name: 'Skeleton Master',\n    size: 1.05,\n    folder: 'skeleton_master'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/hayward_shadow.js?");
-
-/***/ }),
-
-/***/ "./src/army/helete_kingdom.js":
-/*!************************************!*\
-  !*** ./src/army/helete_kingdom.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Amazon Sword',\n    size: 1.13,\n    folder: 'amazon_sword'\n  }, {\n    name: 'Amazon Spear',\n    size: 1.13,\n    folder: 'amazon_spear'\n  }, {\n    name: 'Amazon Warrior',\n    size: 1,\n    folder: 'amazon_warrior'\n  }, {\n    name: 'Amazon Woman',\n    size: 1,\n    folder: 'amazon_woman'\n  }, {\n    name: 'Dwarf Gnome',\n    size: 0.85,\n    folder: 'dwarf_gnome'\n  }, {\n    name: 'Amazon Eastern',\n    size: 1,\n    folder: 'amazon_eastern'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Shadow Forester',\n    size: 1,\n    folder: 'shadow_forester'\n  }, {\n    name: 'Amazon Soldier',\n    size: 1,\n    folder: 'amazon_soldier'\n  }, {\n    name: 'Night Assassin',\n    size: 1,\n    folder: 'night_assassin'\n  }, {\n    name: 'Amazon Dark Wizard',\n    size: 1.02,\n    folder: 'amazon_dark_wizard'\n  }, {\n    name: 'Amazon Barbarian',\n    size: 0.97,\n    folder: 'amazon_barbarian'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Dwarf Lion',\n    size: 0.85,\n    folder: 'dwarf_lion'\n  }, {\n    name: 'Amazon Cleric',\n    size: 1.12,\n    folder: 'amazon_cleric'\n  }, {\n    name: 'Amazon Huntress',\n    size: 1.13,\n    folder: 'amazon_huntress'\n  }, {\n    name: 'Amazon Elite Spear',\n    size: 1.04,\n    folder: 'amazon_elite_spear'\n  }, {\n    name: 'Shadow Witch',\n    size: 1.35,\n    folder: 'shadow_witch'\n  }, {\n    name: 'Dwarf Pirate',\n    size: 0.92,\n    folder: 'dwarf_pirate'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Amazon Maiden',\n    size: 1.11,\n    folder: 'amazon_maiden'\n  }, {\n    name: 'Sabertooth',\n    size: 1.17,\n    folder: 'sabertooth'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'High Priestess',\n    size: 1,\n    folder: 'high_priestess'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/helete_kingdom.js?");
-
-/***/ }),
-
-/***/ "./src/army/hood_guild.js":
-/*!********************************!*\
-  !*** ./src/army/hood_guild.js ***!
-  \********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Hood Pirate',\n    size: 1,\n    folder: 'hood_pirate'\n  }, {\n    name: 'Neron Thug',\n    size: 1,\n    folder: 'neron_thug'\n  }, {\n    name: 'Neron Thug Elite',\n    size: 1,\n    folder: 'neron_thug_elite'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Nature Master',\n    size: 1.01,\n    folder: 'nature_master'\n  }, {\n    name: 'Demon Assassin',\n    size: 1,\n    folder: 'demon_assassin'\n  }, {\n    name: 'Neron Guard',\n    size: 1.01,\n    folder: 'neron_guard'\n  }, {\n    name: 'Neron Guard Elite',\n    size: 1.01,\n    folder: 'neron_guard_elite'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Hood Poison',\n    size: 1.01,\n    folder: 'hood_poison'\n  }, {\n    name: 'Demon Hunter',\n    size: 1,\n    folder: 'demon_hunter'\n  }, {\n    name: 'Neron Baron Elite',\n    size: 1.01,\n    folder: 'neron_baron_elite'\n  }, {\n    name: 'Neron Baron',\n    size: 1.01,\n    folder: 'neron_baron'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Ice Queen',\n    size: 1.1,\n    folder: 'ice_queen'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Hood Master',\n    size: 1.05,\n    folder: 'hood_master'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/hood_guild.js?");
-
-/***/ }),
-
-/***/ "./src/army/hot_barrens.js":
-/*!*********************************!*\
-  !*** ./src/army/hot_barrens.js ***!
-  \*********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Taintedmaple Shaman',\n    size: 0.85,\n    folder: 'taintedmaple_shaman'\n  }, {\n    name: 'Taintedmaple Soldier',\n    size: 0.8,\n    folder: 'taintedmaple_soldier'\n  }, {\n    name: 'Taintedmaple Trainee',\n    size: 0.8,\n    folder: 'taintedmaple_trainee'\n  }, {\n    name: 'Bandit Jack',\n    size: 1,\n    folder: 'bandit_jack'\n  }, {\n    name: 'Bandit Skirmisher',\n    size: 1,\n    folder: 'bandit_skirmisher'\n  }, {\n    name: 'Bandit Ambusher',\n    size: 1,\n    folder: 'bandit_ambusher'\n  }, {\n    name: 'Elementalist',\n    size: 1,\n    folder: 'elementalist'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Taintedmaple Chieftain',\n    size: 0.8,\n    folder: 'taintedmaple_chieftain'\n  }, {\n    name: 'Bandit Captain',\n    size: 1.02,\n    folder: 'bandit_captain'\n  }, {\n    name: 'Wood Ballista',\n    size: 1.1,\n    folder: 'wood_ballista'\n  }, {\n    name: 'Bandit Queen',\n    size: 1.1,\n    folder: 'bandit_queen'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Wanderer',\n    size: 1,\n    folder: 'wanderer'\n  }, {\n    name: 'High Mage',\n    size: 1,\n    folder: 'high_mage'\n  }, {\n    name: 'Shamaness',\n    size: 1.15,\n    folder: 'shamaness'\n  }, {\n    name: 'Dragon Axe',\n    size: 1.1,\n    folder: 'dragon_axe'\n  }, {\n    name: 'Dragon Hammer',\n    size: 1.1,\n    folder: 'dragon_hammer'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Dragon Elite',\n    size: 1.2,\n    folder: 'dragon_elite'\n  }, {\n    name: 'Dragon Double',\n    size: 1.2,\n    folder: 'dragon_double'\n  }, {\n    name: 'Snakeman',\n    size: 1.1,\n    folder: 'snakeman'\n  }, {\n    name: 'White Guardian',\n    size: 1.6,\n    folder: 'white_guardian'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Greater Guardian',\n    size: 1.7,\n    folder: 'greater_guardian'\n  }, {\n    name: 'Ape King',\n    size: 1.8,\n    folder: 'ape_king'\n  }, {\n    name: 'Anubis Son',\n    size: 1.1,\n    folder: 'anubis_son'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/hot_barrens.js?");
-
-/***/ }),
-
 /***/ "./src/army/index.js":
 /*!***************************!*\
   !*** ./src/army/index.js ***!
@@ -1757,115 +1349,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _laifigon_empire__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./laifigon_empire */ \"./src/army/laifigon_empire.js\");\n/* harmony import */ var _xensor_territory__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./xensor_territory */ \"./src/army/xensor_territory.js\");\n/* harmony import */ var _hot_barrens__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./hot_barrens */ \"./src/army/hot_barrens.js\");\n/* harmony import */ var _jommut_realm__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./jommut_realm */ \"./src/army/jommut_realm.js\");\n/* harmony import */ var _acallaris_system__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./acallaris_system */ \"./src/army/acallaris_system.js\");\n/* harmony import */ var _proxima_cloud__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./proxima_cloud */ \"./src/army/proxima_cloud.js\");\n/* harmony import */ var _ragfu_horde__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./ragfu_horde */ \"./src/army/ragfu_horde.js\");\n/* harmony import */ var _fagrland_realm__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./fagrland_realm */ \"./src/army/fagrland_realm.js\");\n/* harmony import */ var _zephyr_world__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./zephyr_world */ \"./src/army/zephyr_world.js\");\n/* harmony import */ var _xultart_horde__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./xultart_horde */ \"./src/army/xultart_horde.js\");\n/* harmony import */ var _ratmen_underground__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./ratmen_underground */ \"./src/army/ratmen_underground.js\");\n/* harmony import */ var _garanan_void__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./garanan_void */ \"./src/army/garanan_void.js\");\n/* harmony import */ var _union_empire__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./union_empire */ \"./src/army/union_empire.js\");\n/* harmony import */ var _dragon_cave__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./dragon_cave */ \"./src/army/dragon_cave.js\");\n/* harmony import */ var _lily_realm__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./lily_realm */ \"./src/army/lily_realm.js\");\n/* harmony import */ var _battlefeet_ground__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./battlefeet_ground */ \"./src/army/battlefeet_ground.js\");\n/* harmony import */ var _bone_plague__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./bone_plague */ \"./src/army/bone_plague.js\");\n/* harmony import */ var _helete_kingdom__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./helete_kingdom */ \"./src/army/helete_kingdom.js\");\n/* harmony import */ var _jaghatai_horde__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./jaghatai_horde */ \"./src/army/jaghatai_horde.js\");\n/* harmony import */ var _log_horde__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./log_horde */ \"./src/army/log_horde.js\");\n/* harmony import */ var _kobold_kingdom__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./kobold_kingdom */ \"./src/army/kobold_kingdom.js\");\n/* harmony import */ var _coyote_realm__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./coyote_realm */ \"./src/army/coyote_realm.js\");\n/* harmony import */ var _titan_universe__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./titan_universe */ \"./src/army/titan_universe.js\");\n/* harmony import */ var _council_system__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./council_system */ \"./src/army/council_system.js\");\n/* harmony import */ var _wei_dynasty__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./wei_dynasty */ \"./src/army/wei_dynasty.js\");\n/* harmony import */ var _griffon_order__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./griffon_order */ \"./src/army/griffon_order.js\");\n/* harmony import */ var _hood_guild__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./hood_guild */ \"./src/army/hood_guild.js\");\n/* harmony import */ var _virus_darkness__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./virus_darkness */ \"./src/army/virus_darkness.js\");\n/* harmony import */ var _insect_empire__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./insect_empire */ \"./src/army/insect_empire.js\");\n/* harmony import */ var _marcel_empire__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./marcel_empire */ \"./src/army/marcel_empire.js\");\n/* harmony import */ var _sizon_cave__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./sizon_cave */ \"./src/army/sizon_cave.js\");\n/* harmony import */ var _angel_kingdom__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./angel_kingdom */ \"./src/army/angel_kingdom.js\");\n/* harmony import */ var _crystal_palace__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./crystal_palace */ \"./src/army/crystal_palace.js\");\n/* harmony import */ var _taneda_house__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./taneda_house */ \"./src/army/taneda_house.js\");\n/* harmony import */ var _dimam_realm__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./dimam_realm */ \"./src/army/dimam_realm.js\");\n/* harmony import */ var _jelriz_empire__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./jelriz_empire */ \"./src/army/jelriz_empire.js\");\n/* harmony import */ var _harding_order__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./harding_order */ \"./src/army/harding_order.js\");\n/* harmony import */ var _raven_empire__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./raven_empire */ \"./src/army/raven_empire.js\");\n/* harmony import */ var _griheia_kingdom__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./griheia_kingdom */ \"./src/army/griheia_kingdom.js\");\n/* harmony import */ var _mavred_shadow__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./mavred_shadow */ \"./src/army/mavred_shadow.js\");\n/* harmony import */ var _hayward_shadow__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./hayward_shadow */ \"./src/army/hayward_shadow.js\");\n/* harmony import */ var _berrodell_shadow__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./berrodell_shadow */ \"./src/army/berrodell_shadow.js\");\n/* harmony import */ var _amber_realm__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./amber_realm */ \"./src/army/amber_realm.js\");\n/* harmony import */ var _rekadius_castle__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./rekadius_castle */ \"./src/army/rekadius_castle.js\");\n/* harmony import */ var _lady_castle__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./lady_castle */ \"./src/army/lady_castle.js\");\n/* harmony import */ var _valiant_heaven__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./valiant_heaven */ \"./src/army/valiant_heaven.js\");\n/* harmony import */ var _mine_underground__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./mine_underground */ \"./src/army/mine_underground.js\");\n/* harmony import */ var _ares_sons__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./ares_sons */ \"./src/army/ares_sons.js\");\n/* harmony import */ var _sanskrit_universe__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./sanskrit_universe */ \"./src/army/sanskrit_universe.js\");\n/* harmony import */ var _ancient_undead__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! ./ancient_undead */ \"./src/army/ancient_undead.js\");\n/* harmony import */ var _ancient_galaxy__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! ./ancient_galaxy */ \"./src/army/ancient_galaxy.js\");\n/* harmony import */ var _frozen_world__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! ./frozen_world */ \"./src/army/frozen_world.js\");\n/* harmony import */ var _sun_tribe__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! ./sun_tribe */ \"./src/army/sun_tribe.js\");\n/* harmony import */ var _ancient_chaos__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! ./ancient_chaos */ \"./src/army/ancient_chaos.js\");\n/* harmony import */ var _machine_universe__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(/*! ./machine_universe */ \"./src/army/machine_universe.js\");\n/* harmony import */ var _ancient_knight__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(/*! ./ancient_knight */ \"./src/army/ancient_knight.js\");\n/* harmony import */ var _ancient_nature__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(/*! ./ancient_nature */ \"./src/army/ancient_nature.js\");\n/* harmony import */ var _ancient_beastman__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(/*! ./ancient_beastman */ \"./src/army/ancient_beastman.js\");\n/* harmony import */ var _cathay_empire__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(/*! ./cathay_empire */ \"./src/army/cathay_empire.js\");\n/* harmony import */ var _eyle_realm__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(/*! ./eyle_realm */ \"./src/army/eyle_realm.js\");\n/* harmony import */ var _okamoto_clan__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(/*! ./okamoto_clan */ \"./src/army/okamoto_clan.js\");\n/* harmony import */ var _borba_tribe__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(/*! ./borba_tribe */ \"./src/army/borba_tribe.js\");\n/* harmony import */ var _olaf_empire__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(/*! ./olaf_empire */ \"./src/army/olaf_empire.js\");\n/* harmony import */ var _zug_tribe__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(/*! ./zug_tribe */ \"./src/army/zug_tribe.js\");\n/* harmony import */ var _nucnotzo_clan__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(/*! ./nucnotzo_clan */ \"./src/army/nucnotzo_clan.js\");\n/* harmony import */ var _qomzol_castle__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(/*! ./qomzol_castle */ \"./src/army/qomzol_castle.js\");\n/* harmony import */ var _thurber_guild__WEBPACK_IMPORTED_MODULE_66__ = __webpack_require__(/*! ./thurber_guild */ \"./src/army/thurber_guild.js\");\n/* harmony import */ var _elemental_world__WEBPACK_IMPORTED_MODULE_67__ = __webpack_require__(/*! ./elemental_world */ \"./src/army/elemental_world.js\");\n/* harmony import */ var _zhong_mountain__WEBPACK_IMPORTED_MODULE_68__ = __webpack_require__(/*! ./zhong_mountain */ \"./src/army/zhong_mountain.js\");\n/* harmony import */ var _shizi_mystic__WEBPACK_IMPORTED_MODULE_69__ = __webpack_require__(/*! ./shizi_mystic */ \"./src/army/shizi_mystic.js\");\n/* harmony import */ var _ancient_shadow__WEBPACK_IMPORTED_MODULE_70__ = __webpack_require__(/*! ./ancient_shadow */ \"./src/army/ancient_shadow.js\");\n/* harmony import */ var _wyvern_underground__WEBPACK_IMPORTED_MODULE_71__ = __webpack_require__(/*! ./wyvern_underground */ \"./src/army/wyvern_underground.js\");\n/* harmony import */ var _kathos_clan__WEBPACK_IMPORTED_MODULE_72__ = __webpack_require__(/*! ./kathos_clan */ \"./src/army/kathos_clan.js\");\nvar _army;\n\nfunction _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar army = (_army = {\n  jommut_realm: _jommut_realm__WEBPACK_IMPORTED_MODULE_3__[\"default\"],\n  laifigon_empire: _laifigon_empire__WEBPACK_IMPORTED_MODULE_0__[\"default\"],\n  xensor_territory: _xensor_territory__WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  hot_barrens: _hot_barrens__WEBPACK_IMPORTED_MODULE_2__[\"default\"]\n}, _defineProperty(_army, \"jommut_realm\", _jommut_realm__WEBPACK_IMPORTED_MODULE_3__[\"default\"]), _defineProperty(_army, \"acallaris_system\", _acallaris_system__WEBPACK_IMPORTED_MODULE_4__[\"default\"]), _defineProperty(_army, \"proxima_cloud\", _proxima_cloud__WEBPACK_IMPORTED_MODULE_5__[\"default\"]), _defineProperty(_army, \"ragfu_horde\", _ragfu_horde__WEBPACK_IMPORTED_MODULE_6__[\"default\"]), _defineProperty(_army, \"fagrland_realm\", _fagrland_realm__WEBPACK_IMPORTED_MODULE_7__[\"default\"]), _defineProperty(_army, \"zephyr_world\", _zephyr_world__WEBPACK_IMPORTED_MODULE_8__[\"default\"]), _defineProperty(_army, \"xultart_horde\", _xultart_horde__WEBPACK_IMPORTED_MODULE_9__[\"default\"]), _defineProperty(_army, \"ratmen_underground\", _ratmen_underground__WEBPACK_IMPORTED_MODULE_10__[\"default\"]), _defineProperty(_army, \"garanan_void\", _garanan_void__WEBPACK_IMPORTED_MODULE_11__[\"default\"]), _defineProperty(_army, \"union_empire\", _union_empire__WEBPACK_IMPORTED_MODULE_12__[\"default\"]), _defineProperty(_army, \"dragon_cave\", _dragon_cave__WEBPACK_IMPORTED_MODULE_13__[\"default\"]), _defineProperty(_army, \"lily_realm\", _lily_realm__WEBPACK_IMPORTED_MODULE_14__[\"default\"]), _defineProperty(_army, \"battlefeet_ground\", _battlefeet_ground__WEBPACK_IMPORTED_MODULE_15__[\"default\"]), _defineProperty(_army, \"bone_plague\", _bone_plague__WEBPACK_IMPORTED_MODULE_16__[\"default\"]), _defineProperty(_army, \"helete_kingdom\", _helete_kingdom__WEBPACK_IMPORTED_MODULE_17__[\"default\"]), _defineProperty(_army, \"jaghatai_horde\", _jaghatai_horde__WEBPACK_IMPORTED_MODULE_18__[\"default\"]), _defineProperty(_army, \"log_horde\", _log_horde__WEBPACK_IMPORTED_MODULE_19__[\"default\"]), _defineProperty(_army, \"marcel_empire\", _marcel_empire__WEBPACK_IMPORTED_MODULE_29__[\"default\"]), _defineProperty(_army, \"kobold_kingdom\", _kobold_kingdom__WEBPACK_IMPORTED_MODULE_20__[\"default\"]), _defineProperty(_army, \"coyote_realm\", _coyote_realm__WEBPACK_IMPORTED_MODULE_21__[\"default\"]), _defineProperty(_army, \"titan_universe\", _titan_universe__WEBPACK_IMPORTED_MODULE_22__[\"default\"]), _defineProperty(_army, \"council_system\", _council_system__WEBPACK_IMPORTED_MODULE_23__[\"default\"]), _defineProperty(_army, \"wei_dynasty\", _wei_dynasty__WEBPACK_IMPORTED_MODULE_24__[\"default\"]), _defineProperty(_army, \"griffon_order\", _griffon_order__WEBPACK_IMPORTED_MODULE_25__[\"default\"]), _defineProperty(_army, \"hood_guild\", _hood_guild__WEBPACK_IMPORTED_MODULE_26__[\"default\"]), _defineProperty(_army, \"virus_darkness\", _virus_darkness__WEBPACK_IMPORTED_MODULE_27__[\"default\"]), _defineProperty(_army, \"insect_empire\", _insect_empire__WEBPACK_IMPORTED_MODULE_28__[\"default\"]), _defineProperty(_army, \"sizon_cave\", _sizon_cave__WEBPACK_IMPORTED_MODULE_30__[\"default\"]), _defineProperty(_army, \"angel_kingdom\", _angel_kingdom__WEBPACK_IMPORTED_MODULE_31__[\"default\"]), _defineProperty(_army, \"crystal_palace\", _crystal_palace__WEBPACK_IMPORTED_MODULE_32__[\"default\"]), _defineProperty(_army, \"taneda_house\", _taneda_house__WEBPACK_IMPORTED_MODULE_33__[\"default\"]), _defineProperty(_army, \"dimam_realm\", _dimam_realm__WEBPACK_IMPORTED_MODULE_34__[\"default\"]), _defineProperty(_army, \"jelriz_empire\", _jelriz_empire__WEBPACK_IMPORTED_MODULE_35__[\"default\"]), _defineProperty(_army, \"harding_order\", _harding_order__WEBPACK_IMPORTED_MODULE_36__[\"default\"]), _defineProperty(_army, \"raven_empire\", _raven_empire__WEBPACK_IMPORTED_MODULE_37__[\"default\"]), _defineProperty(_army, \"griheia_kingdom\", _griheia_kingdom__WEBPACK_IMPORTED_MODULE_38__[\"default\"]), _defineProperty(_army, \"mavred_shadow\", _mavred_shadow__WEBPACK_IMPORTED_MODULE_39__[\"default\"]), _defineProperty(_army, \"hayward_shadow\", _hayward_shadow__WEBPACK_IMPORTED_MODULE_40__[\"default\"]), _defineProperty(_army, \"berrodell_shadow\", _berrodell_shadow__WEBPACK_IMPORTED_MODULE_41__[\"default\"]), _defineProperty(_army, \"amber_realm\", _amber_realm__WEBPACK_IMPORTED_MODULE_42__[\"default\"]), _defineProperty(_army, \"rekadius_castle\", _rekadius_castle__WEBPACK_IMPORTED_MODULE_43__[\"default\"]), _defineProperty(_army, \"lady_castle\", _lady_castle__WEBPACK_IMPORTED_MODULE_44__[\"default\"]), _defineProperty(_army, \"valiant_heaven\", _valiant_heaven__WEBPACK_IMPORTED_MODULE_45__[\"default\"]), _defineProperty(_army, \"mine_underground\", _mine_underground__WEBPACK_IMPORTED_MODULE_46__[\"default\"]), _defineProperty(_army, \"ares_sons\", _ares_sons__WEBPACK_IMPORTED_MODULE_47__[\"default\"]), _defineProperty(_army, \"sanskrit_universe\", _sanskrit_universe__WEBPACK_IMPORTED_MODULE_48__[\"default\"]), _defineProperty(_army, \"ancient_undead\", _ancient_undead__WEBPACK_IMPORTED_MODULE_49__[\"default\"]), _defineProperty(_army, \"ancient_galaxy\", _ancient_galaxy__WEBPACK_IMPORTED_MODULE_50__[\"default\"]), _defineProperty(_army, \"frozen_world\", _frozen_world__WEBPACK_IMPORTED_MODULE_51__[\"default\"]), _defineProperty(_army, \"sun_tribe\", _sun_tribe__WEBPACK_IMPORTED_MODULE_52__[\"default\"]), _defineProperty(_army, \"ancient_chaos\", _ancient_chaos__WEBPACK_IMPORTED_MODULE_53__[\"default\"]), _defineProperty(_army, \"machine_universe\", _machine_universe__WEBPACK_IMPORTED_MODULE_54__[\"default\"]), _defineProperty(_army, \"ancient_knight\", _ancient_knight__WEBPACK_IMPORTED_MODULE_55__[\"default\"]), _defineProperty(_army, \"ancient_nature\", _ancient_nature__WEBPACK_IMPORTED_MODULE_56__[\"default\"]), _defineProperty(_army, \"ancient_beastman\", _ancient_beastman__WEBPACK_IMPORTED_MODULE_57__[\"default\"]), _defineProperty(_army, \"cathay_empire\", _cathay_empire__WEBPACK_IMPORTED_MODULE_58__[\"default\"]), _defineProperty(_army, \"eyle_realm\", _eyle_realm__WEBPACK_IMPORTED_MODULE_59__[\"default\"]), _defineProperty(_army, \"okamoto_clan\", _okamoto_clan__WEBPACK_IMPORTED_MODULE_60__[\"default\"]), _defineProperty(_army, \"borba_tribe\", _borba_tribe__WEBPACK_IMPORTED_MODULE_61__[\"default\"]), _defineProperty(_army, \"olaf_empire\", _olaf_empire__WEBPACK_IMPORTED_MODULE_62__[\"default\"]), _defineProperty(_army, \"zug_tribe\", _zug_tribe__WEBPACK_IMPORTED_MODULE_63__[\"default\"]), _defineProperty(_army, \"nucnotzo_clan\", _nucnotzo_clan__WEBPACK_IMPORTED_MODULE_64__[\"default\"]), _defineProperty(_army, \"qomzol_castle\", _qomzol_castle__WEBPACK_IMPORTED_MODULE_65__[\"default\"]), _defineProperty(_army, \"thurber_guild\", _thurber_guild__WEBPACK_IMPORTED_MODULE_66__[\"default\"]), _defineProperty(_army, \"elemental_world\", _elemental_world__WEBPACK_IMPORTED_MODULE_67__[\"default\"]), _defineProperty(_army, \"zhong_mountain\", _zhong_mountain__WEBPACK_IMPORTED_MODULE_68__[\"default\"]), _defineProperty(_army, \"shizi_mystic\", _shizi_mystic__WEBPACK_IMPORTED_MODULE_69__[\"default\"]), _defineProperty(_army, \"ancient_shadow\", _ancient_shadow__WEBPACK_IMPORTED_MODULE_70__[\"default\"]), _defineProperty(_army, \"wyvern_underground\", _wyvern_underground__WEBPACK_IMPORTED_MODULE_71__[\"default\"]), _defineProperty(_army, \"kathos_clan\", _kathos_clan__WEBPACK_IMPORTED_MODULE_72__[\"default\"]), _army);\n/* harmony default export */ __webpack_exports__[\"default\"] = (army);\n\n//# sourceURL=webpack:///./src/army/index.js?");
-
-/***/ }),
-
-/***/ "./src/army/insect_empire.js":
-/*!***********************************!*\
-  !*** ./src/army/insect_empire.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Spider Void',\n    size: 0.8,\n    folder: 'spider_void'\n  }, {\n    name: 'Spider Fire',\n    size: 0.8,\n    folder: 'spider_fire'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Poison Eater',\n    size: 1.35,\n    folder: 'poison_eater'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Destroyer',\n    size: 1.3,\n    folder: 'destroyer'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'King Lobster',\n    size: 1.55,\n    folder: 'king_lobster'\n  }, {\n    name: 'Spider Shadow',\n    size: 1.1,\n    folder: 'spider_shadow'\n  }, {\n    name: 'Spider Shadow Elite',\n    size: 1.12,\n    folder: 'spider_shadow_elite'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Spider Queen',\n    size: 1.3,\n    folder: 'spider_queen'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/insect_empire.js?");
-
-/***/ }),
-
-/***/ "./src/army/jaghatai_horde.js":
-/*!************************************!*\
-  !*** ./src/army/jaghatai_horde.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Barbarian Tribeman',\n    size: 1.04,\n    folder: 'barbarian_tribeman'\n  }, {\n    name: 'Barbarian Slave',\n    size: 1.04,\n    folder: 'barbarian_slave'\n  }, {\n    name: 'Stone Soldier',\n    size: 1.1,\n    folder: 'stone_soldier'\n  }, {\n    name: 'Wolf',\n    size: 0.73,\n    folder: 'wolf'\n  }, {\n    name: 'Wolf Elite',\n    size: 0.75,\n    folder: 'wolf_elite'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Barbarian Mage',\n    size: 1.1,\n    folder: 'barbarian_mage'\n  }, {\n    name: 'Barbarian Centaur',\n    size: 1.35,\n    folder: 'barbarian_centaur'\n  }, {\n    name: 'Barbarian Raider',\n    size: 0.95,\n    folder: 'barbarian_raider'\n  }, {\n    name: 'Barbarian Halberd',\n    size: 1.44,\n    folder: 'barbarian_halberd'\n  }, {\n    name: 'Barbarian Captain',\n    size: 1.05,\n    folder: 'barbarian_captain'\n  }, {\n    name: 'Barbarian Clown',\n    size: 1.02,\n    folder: 'barbarian_clown'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Barbarian Gladiator',\n    size: 1.12,\n    folder: 'barbarian_gladiator'\n  }, {\n    name: 'Barbarian Axe',\n    size: 1.05,\n    folder: 'barbarian_axe'\n  }, {\n    name: 'Barbarian Elite',\n    size: 1.15,\n    folder: 'barbarian_elite'\n  }, {\n    name: 'Barbarian Assassin',\n    size: 1,\n    folder: 'barbarian_assassin'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Barbarian Champion',\n    size: 1.1,\n    folder: 'barbarian_champion'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Monster',\n    size: 1.7,\n    folder: 'monster'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/jaghatai_horde.js?");
-
-/***/ }),
-
-/***/ "./src/army/jelriz_empire.js":
-/*!***********************************!*\
-  !*** ./src/army/jelriz_empire.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Chaos Void',\n    size: 1.1,\n    folder: 'chaos_void'\n  }, {\n    name: 'Chaos Elemental',\n    size: 1.1,\n    folder: 'chaos_elemental'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Chaos Executioner',\n    size: 1.1,\n    folder: 'chaos_executioner'\n  }, {\n    name: 'Chaos Forester',\n    size: 1.33,\n    folder: 'chaos_forester'\n  }, {\n    name: 'Chaos Beast',\n    size: 1.2,\n    folder: 'chaos_beast'\n  }, {\n    name: 'Chaos Hellhound',\n    size: 1.23,\n    folder: 'chaos_hellhound'\n  }, {\n    name: 'Chaos Succubus',\n    size: 1.03,\n    folder: 'chaos_succubus'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Chaos Golem',\n    size: 1.4,\n    folder: 'chaos_golem'\n  }, {\n    name: 'Chaos Prowler',\n    size: 1.45,\n    folder: 'chaos_prowler'\n  }, {\n    name: 'Chaos Rifthound',\n    size: 1.25,\n    folder: 'chaos_rifthound'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Chaos Elite',\n    size: 1.18,\n    folder: 'chaos_elite'\n  }, {\n    name: 'Chaos Destroyer',\n    size: 1.18,\n    folder: 'chaos_destroyer'\n  }, {\n    name: 'Chaos Knight',\n    size: 1.22,\n    folder: 'chaos_knight'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Chaos Champion',\n    size: 1.2,\n    folder: 'chaos_champion'\n  }, {\n    name: 'Ultimate Monster',\n    size: 1.8,\n    folder: 'ultimate_monster'\n  }, {\n    name: 'Chaos Keyman',\n    size: 1.3,\n    folder: 'chaos_keyman'\n  }, {\n    name: 'Chaos Dragon',\n    size: 1.5,\n    folder: 'chaos_dragon'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/jelriz_empire.js?");
-
-/***/ }),
-
-/***/ "./src/army/jommut_realm.js":
-/*!**********************************!*\
-  !*** ./src/army/jommut_realm.js ***!
-  \**********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Tree Creature',\n    size: 1.08,\n    folder: 'tree_creature'\n  }, {\n    name: 'Hive Dryad',\n    size: 1.05,\n    folder: 'hive_dryad'\n  }, {\n    name: 'Dwarf Warrior',\n    size: 1.05,\n    folder: 'dwarf_warrior'\n  }, {\n    name: 'Dwarf Elder',\n    size: 1.05,\n    folder: 'dwarf_elder'\n  }, {\n    name: 'Dwarf Light Cleric',\n    size: 1.15,\n    folder: 'dwarf_light_cleric'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Dwarf Knight',\n    size: 0.9,\n    folder: 'dwarf_knight'\n  }, {\n    name: 'Dwarf Mage',\n    size: 0.9,\n    folder: 'dwarf_mage'\n  }, {\n    name: 'Dwarf Noble',\n    size: 0.9,\n    folder: 'dwarf_noble'\n  }, {\n    name: 'Dwarf Armored',\n    size: 0.9,\n    folder: 'dwarf_armored'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Dwarf Swordsman',\n    size: 0.96,\n    folder: 'dwarf_swordsman'\n  }, {\n    name: 'Dwarf Bully',\n    size: 0.9,\n    folder: 'dwarf_bully'\n  }, {\n    name: 'Stone Bulldozer',\n    size: 1.5,\n    folder: 'stone_bulldozer'\n  }, {\n    name: 'Dwarf Berserker',\n    size: 1.03,\n    folder: 'dwarf_berserker'\n  }, {\n    name: 'Dwarf Ranger',\n    size: 0.91,\n    folder: 'dwarf_ranger'\n  }, {\n    name: 'Dwarf Black Guard',\n    size: 0.91,\n    folder: 'dwarf_black_guard'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Dwarf Hammerer',\n    size: 0.96,\n    folder: 'dwarf_hammerer'\n  }, {\n    name: 'Dwarf Slayer',\n    size: 1.03,\n    folder: 'dwarf_slayer'\n  }, {\n    name: 'Druid Hunter',\n    size: 1.05,\n    folder: 'druid_hunter'\n  }, {\n    name: 'Stone Priest',\n    size: 0.93,\n    folder: 'stone_priest'\n  }, {\n    name: 'Master Druid',\n    size: 1.05,\n    folder: 'master_druid'\n  }, {\n    name: 'Flying Machine',\n    size: 2,\n    folder: 'flying_machine'\n  }, {\n    name: 'Cannon',\n    size: 1.04,\n    folder: 'cannon'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Magma Golem',\n    size: 1.7,\n    folder: 'magma_golem'\n  }, {\n    name: 'Ice Golem',\n    size: 1.7,\n    folder: 'ice_golem'\n  }, {\n    name: 'Titan',\n    size: 1.7,\n    folder: 'titan'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/jommut_realm.js?");
-
-/***/ }),
-
-/***/ "./src/army/kathos_clan.js":
-/*!*********************************!*\
-  !*** ./src/army/kathos_clan.js ***!
-  \*********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Clan Berserker',\n    size: 1.02,\n    folder: 'clan_berserker'\n  }, {\n    name: 'Clan Halberdier',\n    size: 1.15,\n    folder: 'clan_halberdier'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/kathos_clan.js?");
-
-/***/ }),
-
-/***/ "./src/army/kobold_kingdom.js":
-/*!************************************!*\
-  !*** ./src/army/kobold_kingdom.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Lizard Ranged',\n    size: 1,\n    folder: 'lizard_ranged'\n  }, {\n    name: 'Lizard Soldier',\n    size: 1.1,\n    folder: 'lizard_soldier'\n  }, {\n    name: 'Lizard Jack',\n    size: 1,\n    folder: 'lizard_jack'\n  }, {\n    name: 'Kobold Slinger',\n    size: 1,\n    folder: 'kobold_slinger'\n  }, {\n    name: 'Kobold Spearman',\n    size: 1.07,\n    folder: 'kobold_spearman'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Morlock Warrior',\n    size: 1,\n    folder: 'morlock_warrior'\n  }, {\n    name: 'Kobold Warrior',\n    size: 1,\n    folder: 'kobold_warrior'\n  }, {\n    name: 'Kobold Shaman',\n    size: 1.03,\n    folder: 'kobold_shaman'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Kobold Captain',\n    size: 1.03,\n    folder: 'kobold_captain'\n  }, {\n    name: 'Kobold Soothsayer',\n    size: 1.08,\n    folder: 'kobold_soothsayer'\n  }, {\n    name: 'Basilisk Green',\n    size: 1.4,\n    folder: 'basilisk_green'\n  }, {\n    name: 'Basilisk Greater',\n    size: 1.5,\n    folder: 'basilisk_greater'\n  }, {\n    name: 'Lizard Elite',\n    size: 1,\n    folder: 'lizard_elite'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Kobold Knight',\n    size: 1.1,\n    folder: 'kobold_knight'\n  }, {\n    name: 'Lizard Shaman',\n    size: 1.04,\n    folder: 'lizard_shaman'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Kobold Saint',\n    size: 1.14,\n    folder: 'kobold_saint'\n  }, {\n    name: 'Kobold Wargod',\n    size: 1.1,\n    folder: 'kobold_wargod'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/kobold_kingdom.js?");
-
-/***/ }),
-
-/***/ "./src/army/lady_castle.js":
-/*!*********************************!*\
-  !*** ./src/army/lady_castle.js ***!
-  \*********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/lady_castle.js?");
-
-/***/ }),
-
-/***/ "./src/army/laifigon_empire.js":
-/*!*************************************!*\
-  !*** ./src/army/laifigon_empire.js ***!
-  \*************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Wolf',\n    size: 0.65,\n    folder: 'wolf'\n  }, {\n    name: 'Archer',\n    size: 1,\n    folder: 'archer'\n  }, {\n    name: 'Priest',\n    size: 1,\n    folder: 'priest'\n  }, {\n    name: 'Castle Guard',\n    size: 1,\n    folder: 'castle_guard'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Ranger',\n    size: 1,\n    folder: 'ranger'\n  }, {\n    name: 'Mage Song',\n    size: 1.05,\n    folder: 'mage_song'\n  }, {\n    name: 'Mage Rogue',\n    size: 1,\n    folder: 'mage_rogue'\n  }, {\n    name: 'Tower Crossbow',\n    size: 1,\n    folder: 'tower_crossbow'\n  }, {\n    name: 'Corsair',\n    size: 1,\n    folder: 'corsair'\n  }, {\n    name: 'Frost Magician',\n    size: 1,\n    folder: 'frost_magician'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Mage',\n    size: 1.05,\n    folder: 'mage'\n  }, {\n    name: 'Ballista',\n    size: 1.4,\n    folder: 'ballista'\n  }, {\n    name: 'Tower Ranger',\n    size: 1,\n    folder: 'tower_ranger'\n  }, {\n    name: 'Tower Cannon',\n    size: 1.25,\n    folder: 'tower_cannon'\n  }, {\n    name: 'Fire Mage',\n    size: 1.05,\n    folder: 'fire_mage'\n  }, {\n    name: 'Illusionist',\n    size: 0.93,\n    folder: 'illusionist'\n  }, {\n    name: 'Duelist',\n    size: 1,\n    folder: 'duelist'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Trebuchet',\n    size: 2,\n    folder: 'trebuchet'\n  }, {\n    name: 'Spiked Catapult',\n    size: 1.5,\n    folder: 'spiked_catapult'\n  }, {\n    name: 'Black Knight',\n    size: 1.1,\n    folder: 'black_knight'\n  }, {\n    name: 'Half Orc',\n    size: 1.1,\n    folder: 'half_orc'\n  }, {\n    name: 'Holy Bird',\n    size: 1.35,\n    folder: 'holy_bird'\n  }, {\n    name: 'Sharpshooter',\n    size: 1,\n    folder: 'sharpshooter'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Sword Saint',\n    size: 1.15,\n    folder: 'sword_saint'\n  }, {\n    name: 'Great Alchemist',\n    size: 1.2,\n    folder: 'great_alchemist'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/laifigon_empire.js?");
-
-/***/ }),
-
-/***/ "./src/army/lily_realm.js":
-/*!********************************!*\
-  !*** ./src/army/lily_realm.js ***!
-  \********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Nymph',\n    size: 0.92,\n    folder: 'nymph'\n  }, {\n    name: 'Insect Soldier',\n    size: 0.85,\n    folder: 'insect_soldier'\n  }, {\n    name: 'Spider Toy',\n    size: 0.9,\n    folder: 'spider_toy'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Fairy Soldier',\n    size: 1.05,\n    folder: 'fairy_soldier'\n  }, {\n    name: 'Fairy Forest',\n    size: 0.9,\n    folder: 'fairy_forest'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Fairy Flower',\n    size: 1.03,\n    folder: 'fairy_flower'\n  }, {\n    name: 'Fairy Spider',\n    size: 1,\n    folder: 'fairy_spider'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Scorpion',\n    size: 1.45,\n    folder: 'scorpion'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Archangel',\n    size: 1.3,\n    folder: 'archangel'\n  }, {\n    name: 'Sun Raider',\n    size: 1.03,\n    folder: 'sun_raider'\n  }, {\n    name: 'Sun Elite',\n    size: 1.03,\n    folder: 'sun_elite'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/lily_realm.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _containers_army_harald_rike__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../containers/army/harald_rike */ \"./src/containers/army/harald_rike.js\");\n/* harmony import */ var _containers_army_ellice_royaume__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../containers/army/ellice_royaume */ \"./src/containers/army/ellice_royaume.js\");\n/* harmony import */ var _containers_army_titan_universe__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../containers/army/titan_universe */ \"./src/containers/army/titan_universe.js\");\n/* harmony import */ var _containers_army_sahl_dynasty__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../containers/army/sahl_dynasty */ \"./src/containers/army/sahl_dynasty.js\");\n/* harmony import */ var _containers_army_elemental_universe__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../containers/army/elemental_universe */ \"./src/containers/army/elemental_universe.js\");\n/* harmony import */ var _containers_army_imkan_heaven__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../containers/army/imkan_heaven */ \"./src/containers/army/imkan_heaven.js\");\n/* harmony import */ var _containers_army_wesley_gangs__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../containers/army/wesley_gangs */ \"./src/containers/army/wesley_gangs.js\");\n/* harmony import */ var _containers_army_arghus_crypt__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../containers/army/arghus_crypt */ \"./src/containers/army/arghus_crypt.js\");\n/* harmony import */ var _containers_army_yiddenda_realm__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../containers/army/yiddenda_realm */ \"./src/containers/army/yiddenda_realm.js\");\n/* harmony import */ var _containers_army_bhamka_crypt__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../containers/army/bhamka_crypt */ \"./src/containers/army/bhamka_crypt.js\");\n/* harmony import */ var _containers_army_vargan_clan__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../containers/army/vargan_clan */ \"./src/containers/army/vargan_clan.js\");\n/* harmony import */ var _containers_army_roshri_shadow__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../containers/army/roshri_shadow */ \"./src/containers/army/roshri_shadow.js\");\n/* harmony import */ var _containers_army_cobalt_guild__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../containers/army/cobalt_guild */ \"./src/containers/army/cobalt_guild.js\");\n/* harmony import */ var _containers_army_chicahua_hell__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../containers/army/chicahua_hell */ \"./src/containers/army/chicahua_hell.js\");\n/* harmony import */ var _containers_army_toufiq_niqaba__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../containers/army/toufiq_niqaba */ \"./src/containers/army/toufiq_niqaba.js\");\n/* harmony import */ var _containers_army_mary_kingdom__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../containers/army/mary_kingdom */ \"./src/containers/army/mary_kingdom.js\");\n/* harmony import */ var _containers_army_nussorlig_realm__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ../containers/army/nussorlig_realm */ \"./src/containers/army/nussorlig_realm.js\");\n/* harmony import */ var _containers_army_julakgh_kingdom__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ../containers/army/julakgh_kingdom */ \"./src/containers/army/julakgh_kingdom.js\");\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar army = {\n  harald_rike: _containers_army_harald_rike__WEBPACK_IMPORTED_MODULE_0__[\"default\"],\n  ellice_royaume: _containers_army_ellice_royaume__WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  titan_universe: _containers_army_titan_universe__WEBPACK_IMPORTED_MODULE_2__[\"default\"],\n  sahl_dynasty: _containers_army_sahl_dynasty__WEBPACK_IMPORTED_MODULE_3__[\"default\"],\n  elemental_universe: _containers_army_elemental_universe__WEBPACK_IMPORTED_MODULE_4__[\"default\"],\n  imkan_heaven: _containers_army_imkan_heaven__WEBPACK_IMPORTED_MODULE_5__[\"default\"],\n  wesley_gangs: _containers_army_wesley_gangs__WEBPACK_IMPORTED_MODULE_6__[\"default\"],\n  arghus_crypt: _containers_army_arghus_crypt__WEBPACK_IMPORTED_MODULE_7__[\"default\"],\n  yiddenda_realm: _containers_army_yiddenda_realm__WEBPACK_IMPORTED_MODULE_8__[\"default\"],\n  bhamka_crypt: _containers_army_bhamka_crypt__WEBPACK_IMPORTED_MODULE_9__[\"default\"],\n  vargan_clan: _containers_army_vargan_clan__WEBPACK_IMPORTED_MODULE_10__[\"default\"],\n  roshri_shadow: _containers_army_roshri_shadow__WEBPACK_IMPORTED_MODULE_11__[\"default\"],\n  cobalt_guild: _containers_army_cobalt_guild__WEBPACK_IMPORTED_MODULE_12__[\"default\"],\n  chicahua_hell: _containers_army_chicahua_hell__WEBPACK_IMPORTED_MODULE_13__[\"default\"],\n  toufiq_niqaba: _containers_army_toufiq_niqaba__WEBPACK_IMPORTED_MODULE_14__[\"default\"],\n  mary_kingdom: _containers_army_mary_kingdom__WEBPACK_IMPORTED_MODULE_15__[\"default\"],\n  nussorlig_realm: _containers_army_nussorlig_realm__WEBPACK_IMPORTED_MODULE_16__[\"default\"],\n  julakgh_kingdom: _containers_army_julakgh_kingdom__WEBPACK_IMPORTED_MODULE_17__[\"default\"]\n};\n/* harmony default export */ __webpack_exports__[\"default\"] = (army);\n\n//# sourceURL=webpack:///./src/army/index.js?");
 
 /***/ }),
 
@@ -1877,379 +1361,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  value: 'acallaris_system',\n  name: 'Acallaris System'\n}, {\n  value: 'amber_realm',\n  name: 'Amber Realm'\n}, {\n  value: 'ancient_beastman',\n  name: 'Ancient Beastman'\n}, {\n  value: 'ancient_chaos',\n  name: 'Ancient Chaos'\n}, {\n  value: 'ancient_galaxy',\n  name: 'Ancient Galaxy'\n}, {\n  value: 'ancient_knight',\n  name: 'Ancient Knight'\n}, {\n  value: 'ancient_nature',\n  name: 'Ancient Nature'\n}, {\n  value: 'ancient_shadow',\n  name: 'Ancient Shadow'\n}, {\n  value: 'ancient_undead',\n  name: 'Ancient Undead'\n}, {\n  value: 'angel_kingdom',\n  name: 'Angel Kingdom'\n}, {\n  value: 'ares_sons',\n  name: 'Ares Sons'\n}, {\n  value: 'battlefeet_ground',\n  name: 'Battlefeet Ground'\n}, {\n  value: 'berrodell_shadow',\n  name: 'Berrodell Shadow'\n}, {\n  value: 'bone_plague',\n  name: 'Bone Plague'\n}, {\n  value: 'borba_tribe',\n  name: 'Borba Tribe'\n}, {\n  value: 'cathay_empire',\n  name: 'Cathay Empire'\n}, {\n  value: 'council_system',\n  name: 'Council System'\n}, {\n  value: 'coyote_realm',\n  name: 'Coyote Realm'\n}, {\n  value: 'crystal_palace',\n  name: 'Crystal Palace'\n}, {\n  value: 'dimam_realm',\n  name: 'Dimam Realm'\n}, {\n  value: 'dragon_cave',\n  name: 'Dragon Cave'\n}, {\n  value: 'elemental_world',\n  name: 'Elemental World'\n}, {\n  value: 'eyle_realm',\n  name: 'Eyle Realm'\n}, {\n  value: 'fagrland_realm',\n  name: 'Fagrland Realm'\n}, {\n  value: 'frozen_world',\n  name: 'Frozen World'\n}, {\n  value: 'garanan_void',\n  name: 'Garanan Void'\n}, {\n  value: 'griffon_order',\n  name: 'Griffon Order'\n}, {\n  value: 'griheia_kingdom',\n  name: 'Griheia Kingdom'\n}, {\n  value: 'harding_order',\n  name: 'Harding Order'\n}, {\n  value: 'hayward_shadow',\n  name: 'Hayward Shadow'\n}, {\n  value: 'helete_kingdom',\n  name: 'Helete Kingdom'\n}, {\n  value: 'hood_guild',\n  name: 'Hood Guild'\n}, {\n  value: 'hot_barrens',\n  name: 'Hot Barrens'\n}, {\n  value: 'insect_empire',\n  name: 'Insect Empire'\n}, {\n  value: 'jaghatai_horde',\n  name: 'Jaghatai Horde'\n}, {\n  value: 'jelriz_empire',\n  name: 'Jelriz Empire'\n}, {\n  value: 'jommut_realm',\n  name: 'Jommut Realm'\n}, {\n  value: 'kathos_clan',\n  name: 'Kathos Clan'\n}, {\n  value: 'kobold_kingdom',\n  name: 'Kobold Kingdom'\n}, {\n  value: 'lady_castle',\n  name: 'Lady Castle'\n}, {\n  value: 'laifigon_empire',\n  name: 'Laifigon Empire'\n}, {\n  value: 'lily_realm',\n  name: 'Lily Realm'\n}, {\n  value: 'log_horde',\n  name: 'Log Horde'\n}, {\n  value: 'machine_universe',\n  name: 'Machine Universe'\n}, {\n  value: 'marcel_empire',\n  name: 'Marcel Empire'\n}, {\n  value: 'mavred_shadow',\n  name: 'Mavred Shadow'\n}, {\n  value: 'mine_underground',\n  name: 'Mine Underground'\n}, {\n  value: 'nucnotzo_clan',\n  name: 'Nucnotzo Clan'\n}, {\n  value: 'okamoto_clan',\n  name: 'Okamoto Clan'\n}, {\n  value: 'olaf_empire',\n  name: 'Olaf Empire'\n}, {\n  value: 'proxima_cloud',\n  name: 'Proxima Cloud'\n}, {\n  value: 'qomzol_castle',\n  name: 'Qomzol Castle'\n}, {\n  value: 'ragfu_horde',\n  name: 'Ragfu Horde'\n}, {\n  value: 'ratmen_underground',\n  name: 'Ratmen Underground'\n}, {\n  value: 'raven_empire',\n  name: 'Raven Empire'\n}, {\n  value: 'rekadius_castle',\n  name: 'Rekadius Castle'\n}, {\n  value: 'sanskrit_universe',\n  name: 'Sanskrit Universe'\n}, {\n  value: 'shizi_mystic',\n  name: 'Shizi Mystic'\n}, {\n  value: 'sizon_cave',\n  name: 'Sizon Cave'\n}, {\n  value: 'sun_tribe',\n  name: 'Sun Tribe'\n}, {\n  value: 'taneda_house',\n  name: 'Taneda House'\n}, {\n  value: 'thurber_guild',\n  name: 'Thurber Guild'\n}, {\n  value: 'titan_universe',\n  name: 'Titan Universe'\n}, {\n  value: 'union_empire',\n  name: 'Union Empire'\n}, {\n  value: 'valiant_heaven',\n  name: 'Valiant Heaven'\n}, {\n  value: 'virus_darkness',\n  name: 'Virus Darkness'\n}, {\n  value: 'wei_dynasty',\n  name: 'Wei Dynasty'\n}, {\n  value: 'wyvern_underground',\n  name: 'Wyvern Underground'\n}, {\n  value: 'xensor_territory',\n  name: 'Xensor Territory'\n}, {\n  value: 'xultart_horde',\n  name: 'Xultart Horde'\n}, {\n  value: 'zephyr_world',\n  name: 'Zephyr World'\n}, {\n  value: 'zhong_mountain',\n  name: 'Zhong Mountain'\n}, {\n  value: 'zug_tribe',\n  name: 'Zug Tribe'\n}]);\n\n//# sourceURL=webpack:///./src/army/list.js?");
-
-/***/ }),
-
-/***/ "./src/army/log_horde.js":
-/*!*******************************!*\
-  !*** ./src/army/log_horde.js ***!
-  \*******************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Goblin Archer',\n    size: 1,\n    folder: 'goblin_archer'\n  }, {\n    name: 'Goblin Axe',\n    size: 0.9,\n    folder: 'goblin_axe'\n  }, {\n    name: 'Goblin Warrior',\n    size: 0.9,\n    folder: 'goblin_warrior'\n  }, {\n    name: 'Goblin Scout',\n    size: 0.84,\n    folder: 'goblin_scout'\n  }, {\n    name: 'Goblin Miner',\n    size: 0.84,\n    folder: 'goblin_miner'\n  }, {\n    name: 'Goblin Bomber',\n    size: 0.83,\n    folder: 'goblin_bomber'\n  }, {\n    name: 'Garth Warrior',\n    size: 0.87,\n    folder: 'garth_warrior'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Goblin Pistol',\n    size: 0.84,\n    folder: 'goblin_pistol'\n  }, {\n    name: 'Goblin Shaman',\n    size: 0.95,\n    folder: 'goblin_shaman'\n  }, {\n    name: 'Goblin Berserk',\n    size: 0.83,\n    folder: 'goblin_berserk'\n  }, {\n    name: 'Centaur',\n    size: 1.07,\n    folder: 'centaur'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Orc Warrior',\n    size: 1.2,\n    folder: 'orc_warrior'\n  }, {\n    name: 'Orc Captain',\n    size: 1.1,\n    folder: 'orc_captain'\n  }, {\n    name: 'Orc Pirate',\n    size: 1.04,\n    folder: 'orc_pirate'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Orc Elite',\n    size: 1.07,\n    folder: 'orc_elite'\n  }, {\n    name: 'Orc Giant',\n    size: 1.4,\n    folder: 'orc_giant'\n  }, {\n    name: 'Beastman',\n    size: 1.2,\n    folder: 'beastman'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Orc Champion',\n    size: 1.32,\n    folder: 'orc_champion'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/log_horde.js?");
-
-/***/ }),
-
-/***/ "./src/army/machine_universe.js":
-/*!**************************************!*\
-  !*** ./src/army/machine_universe.js ***!
-  \**************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Machine Hound',\n    size: 1.22,\n    folder: 'machine_hound'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Machine Bee',\n    size: 1.55,\n    folder: 'machine_bee'\n  }, {\n    name: 'Machine Spider',\n    size: 1.2,\n    folder: 'machine_spider'\n  }]\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Machine Dragon',\n    size: 1.5,\n    folder: 'machine_dragon'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/machine_universe.js?");
-
-/***/ }),
-
-/***/ "./src/army/marcel_empire.js":
-/*!***********************************!*\
-  !*** ./src/army/marcel_empire.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/marcel_empire.js?");
-
-/***/ }),
-
-/***/ "./src/army/mavred_shadow.js":
-/*!***********************************!*\
-  !*** ./src/army/mavred_shadow.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Eagle',\n    size: 1.1,\n    folder: 'eagle'\n  }, {\n    name: 'Lioness',\n    size: 0.85,\n    folder: 'lioness'\n  }, {\n    name: 'Rhino',\n    size: 0.9,\n    folder: 'rhino'\n  }, {\n    name: 'Bear Shadow',\n    size: 1.05,\n    folder: 'bear_shadow'\n  }, {\n    name: 'Tiger',\n    size: 0.86,\n    folder: 'tiger'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Elf Scorpion',\n    size: 1.09,\n    folder: 'elf_scorpion'\n  }, {\n    name: 'Demon Flying',\n    size: 1.3,\n    folder: 'demon_flying'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Elf Ranger',\n    size: 1.11,\n    folder: 'elf_ranger'\n  }, {\n    name: 'Naga Warrior',\n    size: 1.1,\n    folder: 'naga_warrior'\n  }, {\n    name: 'Naga Mage',\n    size: 1.1,\n    folder: 'naga_mage'\n  }, {\n    name: 'Veliceraptor',\n    size: 1,\n    folder: 'veliceraptor'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Elf Champion',\n    size: 1.17,\n    folder: 'elf_champion'\n  }, {\n    name: 'Demon Shadow',\n    size: 1.55,\n    folder: 'demon_shadow'\n  }, {\n    name: 'Spinosaurus',\n    size: 1.35,\n    folder: 'spinosaurus'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Elf Mutant Giant',\n    size: 1.5,\n    folder: 'elf_mutant_giant'\n  }, {\n    name: 'Tyrant',\n    size: 1.5,\n    folder: 'tyrant'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/mavred_shadow.js?");
-
-/***/ }),
-
-/***/ "./src/army/mine_underground.js":
-/*!**************************************!*\
-  !*** ./src/army/mine_underground.js ***!
-  \**************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Dwarf Scout',\n    size: 0.9,\n    folder: 'dwarf_scout'\n  }, {\n    name: 'Dwarf Philosopher',\n    size: 0.9,\n    folder: 'dwarf_philosopher'\n  }, {\n    name: 'Dwarf Axeman',\n    size: 0.91,\n    folder: 'dwarf_axeman'\n  }, {\n    name: 'Dwarf Longaxe',\n    size: 0.91,\n    folder: 'dwarf_longaxe'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Dwarf Priest',\n    size: 0.91,\n    folder: 'dwarf_priest'\n  }, {\n    name: 'Dwarf Lion',\n    size: 0.9,\n    folder: 'dwarf_lion'\n  }, {\n    name: 'Dwarf Lion Axe',\n    size: 0.9,\n    folder: 'dwarf_lion_axe'\n  }, {\n    name: 'Dwarf Crossbow',\n    size: 0.91,\n    folder: 'dwarf_crossbow'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Dwarf Royal Guard',\n    size: 0.9,\n    folder: 'dwarf_royal_guard'\n  }, {\n    name: 'Dwarf Royal Heavy',\n    size: 0.9,\n    folder: 'dwarf_royal_heavy'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Dwarf Royal Mace',\n    size: 1,\n    folder: 'dwarf_royal_mace'\n  }, {\n    name: 'Dwarf Champion',\n    size: 1.08,\n    folder: 'dwarf_champion'\n  }, {\n    name: 'Dwarf Maiden',\n    size: 0.96,\n    folder: 'dwarf_maiden'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Dwarf Legendary',\n    size: 0.92,\n    folder: 'dwarf_legendary'\n  }, {\n    name: 'Titan Underground',\n    size: 1.8,\n    folder: 'titan_underground'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/mine_underground.js?");
-
-/***/ }),
-
-/***/ "./src/army/nucnotzo_clan.js":
-/*!***********************************!*\
-  !*** ./src/army/nucnotzo_clan.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Lizard Spearmaster',\n    size: 1,\n    folder: 'lizard_spearmaster'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/nucnotzo_clan.js?");
-
-/***/ }),
-
-/***/ "./src/army/okamoto_clan.js":
-/*!**********************************!*\
-  !*** ./src/army/okamoto_clan.js ***!
-  \**********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Naga Priestess',\n    size: 1.1,\n    folder: 'naga_priestess'\n  }, {\n    name: 'Naga Priestess Elite',\n    size: 1.13,\n    folder: 'naga_priestess_elite'\n  }]\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Human Champion',\n    size: 1.04,\n    folder: 'human_champion'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/okamoto_clan.js?");
-
-/***/ }),
-
-/***/ "./src/army/olaf_empire.js":
-/*!*********************************!*\
-  !*** ./src/army/olaf_empire.js ***!
-  \*********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Prince Skald',\n    size: 1.01,\n    folder: 'prince_skald'\n  }, {\n    name: 'Prince Viking',\n    size: 1.01,\n    folder: 'prince_viking'\n  }, {\n    name: 'Prince Mage',\n    size: 1.01,\n    folder: 'prince_mage'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/olaf_empire.js?");
-
-/***/ }),
-
-/***/ "./src/army/proxima_cloud.js":
-/*!***********************************!*\
-  !*** ./src/army/proxima_cloud.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Spider',\n    size: 0.7,\n    folder: 'spider'\n  }, {\n    name: 'Bone Warrior',\n    size: 1,\n    folder: 'bone_warrior'\n  }, {\n    name: 'Bone Archer',\n    size: 1,\n    folder: 'bone_archer'\n  }, {\n    name: 'Buzzing Terror',\n    size: 0.85,\n    folder: 'buzzing_terror'\n  }, {\n    name: 'Bone Crossbow',\n    size: 1,\n    folder: 'bone_crossbow'\n  }, {\n    name: 'Aqua Slave',\n    size: 1,\n    folder: 'aqua_slave'\n  }, {\n    name: 'Bone Sickle',\n    size: 1,\n    folder: 'bone_sickle'\n  }, {\n    name: 'Bone Apprentice',\n    size: 1,\n    folder: 'bone_apprentice'\n  }, {\n    name: 'Bone Adept',\n    size: 1,\n    folder: 'bone_adept'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Bone Berserker',\n    size: 1,\n    folder: 'bone_berserker'\n  }, {\n    name: 'Dark Reaper',\n    size: 1.1,\n    folder: 'dark_reaper'\n  }, {\n    name: 'Doom',\n    size: 1,\n    folder: 'doom'\n  }, {\n    name: 'Bone Spirit',\n    size: 0.8,\n    folder: 'bone_spirit'\n  }, {\n    name: 'Wraith',\n    size: 1,\n    folder: 'wraith'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Pyramid Sword',\n    size: 1.3,\n    folder: 'pyramid_sword'\n  }, {\n    name: 'Pyramid Killer',\n    size: 1.3,\n    folder: 'pyramid_killer'\n  }, {\n    name: 'Death Knight Crossbow',\n    size: 1.2,\n    folder: 'death_knight_crossbow'\n  }, {\n    name: 'Abomination',\n    size: 1.15,\n    folder: 'abomination'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Light Breaker',\n    size: 1.6,\n    folder: 'light_breaker'\n  }, {\n    name: 'Death Knight',\n    size: 1.2,\n    folder: 'death_knight'\n  }, {\n    name: 'Death Knight Sharpshooter',\n    size: 1.2,\n    folder: 'death_knight_sharpshooter'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Spider Queen',\n    size: 1.35,\n    folder: 'spider_queen'\n  }, {\n    name: 'Dark Golem',\n    size: 1.6,\n    folder: 'dark_golem'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/proxima_cloud.js?");
-
-/***/ }),
-
-/***/ "./src/army/qomzol_castle.js":
-/*!***********************************!*\
-  !*** ./src/army/qomzol_castle.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Bat Giant',\n    size: 1.1,\n    folder: 'bat_giant'\n  }, {\n    name: 'Skeleton',\n    size: 0.95,\n    folder: 'skeleton'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Zombie Sage',\n    size: 0.95,\n    folder: 'zombie_sage'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Death Cavalry',\n    size: 1.55,\n    folder: 'death_cavalry'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Death Knight',\n    size: 1.1,\n    folder: 'death_knight'\n  }, {\n    name: 'Death Necro',\n    size: 1,\n    folder: 'death_necro'\n  }, {\n    name: 'Death Necro Elite',\n    size: 1,\n    folder: 'death_necro_elite'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/qomzol_castle.js?");
-
-/***/ }),
-
-/***/ "./src/army/ragfu_horde.js":
-/*!*********************************!*\
-  !*** ./src/army/ragfu_horde.js ***!
-  \*********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Fire Spider',\n    size: 0.7,\n    folder: 'fire_spider'\n  }, {\n    name: 'Devil Grunt',\n    size: 0.95,\n    folder: 'devil_grunt'\n  }, {\n    name: 'Goblin Scout',\n    size: 0.95,\n    folder: 'goblin_scout'\n  }, {\n    name: 'Orc Warrior',\n    size: 1.05,\n    folder: 'orc_warrior'\n  }, {\n    name: 'Screamer',\n    size: 1.05,\n    folder: 'screamer'\n  }, {\n    name: 'Orc Shaman Trainee',\n    size: 1.05,\n    folder: 'orc_shaman_trainee'\n  }, {\n    name: 'Orc Archer',\n    size: 1.05,\n    folder: 'orc_archer'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Goblin Ranger',\n    size: 0.95,\n    folder: 'goblin_ranger'\n  }, {\n    name: 'Orc Hunter',\n    size: 1.05,\n    folder: 'orc_hunter'\n  }, {\n    name: 'Orc Shaman',\n    size: 1.05,\n    folder: 'orc_shaman'\n  }, {\n    name: 'Mad Hound',\n    size: 1,\n    folder: 'mad_hound'\n  }, {\n    name: 'Sage',\n    size: 1,\n    folder: 'sage'\n  }, {\n    name: 'Gray Ogre',\n    size: 1.3,\n    folder: 'gray_ogre'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Orc Darksword',\n    size: 1.08,\n    folder: 'orc_darksword'\n  }, {\n    name: 'White Guardian',\n    size: 1.1,\n    folder: 'white_guardian'\n  }, {\n    name: 'Orc Berserker',\n    size: 1.1,\n    folder: 'orc_berserker'\n  }, {\n    name: 'Orc Earth Doctor',\n    size: 1.1,\n    folder: 'orc_earth_doctor'\n  }, {\n    name: 'Koloss Hammerer',\n    size: 1.35,\n    folder: 'koloss_hammerer'\n  }, {\n    name: 'Elder Koloss',\n    size: 1.35,\n    folder: 'elder_koloss'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Gray Juggernaut',\n    size: 1.5,\n    folder: 'gray_juggernaut'\n  }, {\n    name: 'Horned Juggernaut',\n    size: 1.5,\n    folder: 'horned_juggernaut'\n  }, {\n    name: 'Protector',\n    size: 1.14,\n    folder: 'protector'\n  }, {\n    name: 'War Leader',\n    size: 1.13,\n    folder: 'war_leader'\n  }, {\n    name: 'Orc Crossbowman',\n    size: 1.08,\n    folder: 'orc_crossbowman'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Cave Troll',\n    size: 1.8,\n    folder: 'cave_troll'\n  }, {\n    name: 'Angry Devil',\n    size: 1.5,\n    folder: 'angry_devil'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/ragfu_horde.js?");
-
-/***/ }),
-
-/***/ "./src/army/ratmen_underground.js":
-/*!****************************************!*\
-  !*** ./src/army/ratmen_underground.js ***!
-  \****************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Plague Rat',\n    size: 0.5,\n    folder: 'plague_rat'\n  }, {\n    name: 'Ratman Trainee',\n    size: 0.85,\n    folder: 'ratman_trainee'\n  }, {\n    name: 'Ratman',\n    size: 0.85,\n    folder: 'ratman'\n  }, {\n    name: 'Ratman Ranged',\n    size: 0.85,\n    folder: 'ratman_ranged'\n  }, {\n    name: 'Ratkin Warrior',\n    size: 0.9,\n    folder: 'ratkin_warrior'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Ratman Magic',\n    size: 0.8,\n    folder: 'ratman_magic'\n  }, {\n    name: 'Ratman Shaman',\n    size: 0.85,\n    folder: 'ratman_shaman'\n  }, {\n    name: 'Ratman Asssasin',\n    size: 0.85,\n    folder: 'ratman_assassin'\n  }, {\n    name: 'Ratkin Guard',\n    size: 0.9,\n    folder: 'ratkin_guard'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Ratman Fire Soldier',\n    size: 0.9,\n    folder: 'ratman_fire_soldier'\n  }, {\n    name: 'Ratkin Elite',\n    size: 0.95,\n    folder: 'ratkin_elite'\n  }, {\n    name: 'Ratkin Shaman',\n    size: 1.1,\n    folder: 'ratkin_shaman'\n  }, {\n    name: 'Ratkin Plague Blade',\n    size: 0.95,\n    folder: 'ratkin_plague_blade'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Ratman Chaos Soldier',\n    size: 1,\n    folder: 'ratman_chaos_soldier'\n  }, {\n    name: 'Ratkin Veteran Gunner',\n    size: 1,\n    folder: 'ratkin_veteran_gunner'\n  }, {\n    name: 'Ratkin Warlord',\n    size: 1.24,\n    folder: 'ratkin_warlord'\n  }, {\n    name: 'Ratkin Lord',\n    size: 1.24,\n    folder: 'ratkin_lord'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Giant Goldfish',\n    size: 1.25,\n    folder: 'giant_goldfish'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/ratmen_underground.js?");
-
-/***/ }),
-
-/***/ "./src/army/raven_empire.js":
-/*!**********************************!*\
-  !*** ./src/army/raven_empire.js ***!
-  \**********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Undead Worm',\n    size: 1.25,\n    folder: 'undead_worm'\n  }, {\n    name: 'Undead Ghost',\n    size: 1.04,\n    folder: 'undead_ghost'\n  }, {\n    name: 'Undead Parasite',\n    size: 1.25,\n    folder: 'undead_parasite'\n  }, {\n    name: 'Undead Cerberus',\n    size: 1.08,\n    folder: 'undead_cerberus'\n  }, {\n    name: 'Undead Crossbow',\n    size: 1.03,\n    folder: 'undead_crossbow'\n  }, {\n    name: 'Undead Sword',\n    size: 1.01,\n    folder: 'undead_sword'\n  }, {\n    name: 'Undead Soldier',\n    size: 1.04,\n    folder: 'undead_soldier'\n  }, {\n    name: 'Undead Doll',\n    size: 1.05,\n    folder: 'undead_doll'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Undead Fire Doll',\n    size: 1.05,\n    folder: 'undead_fire_doll'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Undead Cultist',\n    size: 1.15,\n    folder: 'undead_cultist'\n  }, {\n    name: 'Undead Giant',\n    size: 1.6,\n    folder: 'undead_giant'\n  }, {\n    name: 'Undead Shadow',\n    size: 1.1,\n    folder: 'undead_shadow'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Undead Unicorn',\n    size: 1.1,\n    folder: 'undead_unicorn'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Undead Grandmaster',\n    size: 1.5,\n    folder: 'undead_grandmaster'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/raven_empire.js?");
-
-/***/ }),
-
-/***/ "./src/army/rekadius_castle.js":
-/*!*************************************!*\
-  !*** ./src/army/rekadius_castle.js ***!
-  \*************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Succubus Elite',\n    size: 1.1,\n    folder: 'succubus_elite'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Beholder Yellow',\n    size: 1.3,\n    folder: 'beholder_yellow'\n  }, {\n    name: 'Beholder Black',\n    size: 1.3,\n    folder: 'beholder_black'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/rekadius_castle.js?");
-
-/***/ }),
-
-/***/ "./src/army/sanskrit_universe.js":
-/*!***************************************!*\
-  !*** ./src/army/sanskrit_universe.js ***!
-  \***************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Titan Fire',\n    size: '1.1',\n    folder: 'titan_fire'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/sanskrit_universe.js?");
-
-/***/ }),
-
-/***/ "./src/army/shizi_mystic.js":
-/*!**********************************!*\
-  !*** ./src/army/shizi_mystic.js ***!
-  \**********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Swordsmaster',\n    size: 1.05,\n    folder: 'swordsmaster'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/shizi_mystic.js?");
-
-/***/ }),
-
-/***/ "./src/army/sizon_cave.js":
-/*!********************************!*\
-  !*** ./src/army/sizon_cave.js ***!
-  \********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Demon Scorpion',\n    size: 1.05,\n    folder: 'demon_scorpion'\n  }, {\n    name: 'Skull Killer',\n    size: 0.8,\n    folder: 'skull_killer'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Skull Spear',\n    size: 1.1,\n    folder: 'skull_spear'\n  }, {\n    name: 'Skull Chaos',\n    size: 1.21,\n    folder: 'skull_chaos'\n  }, {\n    name: 'Skull Shaman',\n    size: 1.1,\n    folder: 'skull_shaman'\n  }, {\n    name: 'Demon Guardian',\n    size: 1.11,\n    folder: 'demon_guardian'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Skull Giant',\n    size: 1.35,\n    folder: 'skull_giant'\n  }, {\n    name: 'Skull Blood Mage',\n    size: 1.17,\n    folder: 'skull_blood_mage'\n  }, {\n    name: 'Demon Burner',\n    size: 1.18,\n    folder: 'demon_burner'\n  }, {\n    name: 'Demon Succubus',\n    size: 1.03,\n    folder: 'demon_succubus'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Black Demon',\n    size: 1.23,\n    folder: 'black_demon'\n  }, {\n    name: 'Minotaur White',\n    size: 1.3,\n    folder: 'minotaur_white'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/sizon_cave.js?");
-
-/***/ }),
-
-/***/ "./src/army/sun_tribe.js":
-/*!*******************************!*\
-  !*** ./src/army/sun_tribe.js ***!
-  \*******************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Minion',\n    size: 1.01,\n    folder: 'minion'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Shaman Life',\n    size: 1.2,\n    folder: 'shaman_life'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Beeman',\n    size: 1.49,\n    folder: 'beeman'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Beeman Elite',\n    size: 1.49,\n    folder: 'beeman_elite'\n  }, {\n    name: 'Shaman Death',\n    size: 1.2,\n    folder: 'shaman_death'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/sun_tribe.js?");
-
-/***/ }),
-
-/***/ "./src/army/taneda_house.js":
-/*!**********************************!*\
-  !*** ./src/army/taneda_house.js ***!
-  \**********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Fox Ninja',\n    size: 0.95,\n    folder: 'fox_ninja'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Ninja Sickle',\n    size: 1,\n    folder: 'ninja_sickle'\n  }, {\n    name: 'Ninja Thief',\n    size: 1,\n    folder: 'ninja_thief'\n  }]\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Kabuki User',\n    size: 1.21,\n    folder: 'kabuki_user'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Black Samurai Destroyer',\n    size: 1.2,\n    folder: 'black_samurai_destroyer'\n  }, {\n    name: 'Black Samurai',\n    size: 1.2,\n    folder: 'black_samurai'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/taneda_house.js?");
-
-/***/ }),
-
-/***/ "./src/army/thurber_guild.js":
-/*!***********************************!*\
-  !*** ./src/army/thurber_guild.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Pirate Fatman',\n    size: 1,\n    folder: 'pirate_fatman'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Merc Captain',\n    size: 1,\n    folder: 'merc_captain'\n  }, {\n    name: 'Merc Captain Elite',\n    size: 1,\n    folder: 'merc_captain_elite'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Merc Assassin Elite',\n    size: 1,\n    folder: 'merc_assassin_elite'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/thurber_guild.js?");
-
-/***/ }),
-
-/***/ "./src/army/titan_universe.js":
-/*!************************************!*\
-  !*** ./src/army/titan_universe.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Titan Rune',\n    size: 1.8,\n    folder: 'titan_rune'\n  }, {\n    name: 'Titan Swamp',\n    size: 1.8,\n    folder: 'titan_swamp'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/titan_universe.js?");
-
-/***/ }),
-
-/***/ "./src/army/union_empire.js":
-/*!**********************************!*\
-  !*** ./src/army/union_empire.js ***!
-  \**********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Adelaide Archer',\n    size: 1,\n    folder: 'adelaide_archer'\n  }, {\n    name: 'Adelaide Spearman',\n    size: 1,\n    folder: 'adelaide_spearman'\n  }, {\n    name: 'Adelaide Swordsman',\n    size: 1,\n    folder: 'adelaide_swordsman'\n  }, {\n    name: 'Adelaide Knight',\n    size: 1,\n    folder: 'adelaide_knight'\n  }, {\n    name: 'Adelaide Guard',\n    size: 1,\n    folder: 'adelaide_guard'\n  }, {\n    name: 'Daevian Knight',\n    size: 1,\n    folder: 'daevian_knight'\n  }, {\n    name: 'Daevian Mage',\n    size: 1,\n    folder: 'daevian_mage'\n  }, {\n    name: 'Adelaide Crossbowman',\n    size: 1,\n    folder: 'adelaide_crossbowman'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Wizard',\n    size: 1.17,\n    folder: 'wizard'\n  }, {\n    name: 'Cumbrian Fyrdman',\n    size: 1,\n    folder: 'cumbrian_fyrdman'\n  }, {\n    name: 'Cumbrian Axe',\n    size: 1,\n    folder: 'cumbrian_axe'\n  }, {\n    name: 'Cumbrian Guard',\n    size: 1,\n    folder: 'cumbrian_guard'\n  }, {\n    name: 'Cumbrian Noble',\n    size: 1,\n    folder: 'cumbrian_noble'\n  }, {\n    name: 'Daevian Gunner',\n    size: 1,\n    folder: 'daevian_gunner'\n  }, {\n    name: 'Fyrdman Archer',\n    size: 1,\n    folder: 'fyrdman_archer'\n  }, {\n    name: 'Mercian Veteran',\n    size: 1,\n    folder: 'mercian_veteran'\n  }, {\n    name: 'Mercian Crossbowman',\n    size: 1,\n    folder: 'mercian_crossbowman'\n  }, {\n    name: 'Mercian Gunner',\n    size: 1,\n    folder: 'mercian_gunner'\n  }, {\n    name: 'Adelaide Elite Spearman',\n    size: 1,\n    folder: 'adelaide_elite_spearman'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Battle Mage',\n    size: 1,\n    folder: 'battle_mage'\n  }, {\n    name: 'Mercian Greatsword',\n    size: 1,\n    folder: 'mercian_greatsword'\n  }, {\n    name: 'Daevian Greatsword',\n    size: 1,\n    folder: 'daevian_greatsword'\n  }, {\n    name: 'Chronomancer',\n    size: 1,\n    folder: 'chronomancer'\n  }, {\n    name: 'Knight',\n    size: 1.02,\n    folder: 'knight'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Daevian Pikeman',\n    size: 1,\n    folder: 'daevian_pikeman'\n  }, {\n    name: 'Templar',\n    size: 1.02,\n    folder: 'templar'\n  }, {\n    name: 'Black Templar',\n    size: 1.02,\n    folder: 'black_templar'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/union_empire.js?");
-
-/***/ }),
-
-/***/ "./src/army/valiant_heaven.js":
-/*!************************************!*\
-  !*** ./src/army/valiant_heaven.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Peasant',\n    size: 1,\n    folder: 'peasant'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Princess Mage',\n    size: 0.97,\n    folder: 'princess_mage'\n  }, {\n    name: 'Princess Paladin',\n    size: 0.97,\n    folder: 'princess_paladin'\n  }, {\n    name: 'Princess Warrior',\n    size: 0.97,\n    folder: 'princess_warrior'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Priest White',\n    size: 1,\n    folder: 'priest_white'\n  }, {\n    name: 'Knight Red',\n    size: 1.06,\n    folder: 'knight_red'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/valiant_heaven.js?");
-
-/***/ }),
-
-/***/ "./src/army/virus_darkness.js":
-/*!************************************!*\
-  !*** ./src/army/virus_darkness.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Bat Dragon',\n    size: 1.2,\n    folder: 'bat_dragon'\n  }, {\n    name: 'Bat Vampire',\n    size: 1.2,\n    folder: 'bat_vampire'\n  }, {\n    name: 'Vampiress Trainee',\n    size: 1,\n    folder: 'vampiress_trainee'\n  }, {\n    name: 'Stone Gargoyle',\n    size: 1.03,\n    folder: 'stone_gargoyle'\n  }, {\n    name: 'Spider',\n    size: 0.6,\n    folder: 'spider'\n  }, {\n    name: 'Spider Giant',\n    size: 1,\n    folder: 'spider_giant'\n  }, {\n    name: 'Spider Hunter',\n    size: 0.9,\n    folder: 'spider_hunter'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Vampiress Maid',\n    size: 0.97,\n    folder: 'vampiress_maid'\n  }, {\n    name: 'Vampiress',\n    size: 1,\n    folder: 'vampiress'\n  }, {\n    name: 'Vampire Shadow',\n    size: 1.75,\n    folder: 'vampire_shadow'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Vampire Count',\n    size: 1.02,\n    folder: 'vampire_count'\n  }, {\n    name: 'Vampire Noble',\n    size: 1.16,\n    folder: 'vampire_noble'\n  }, {\n    name: 'Werewolf',\n    size: 1.2,\n    folder: 'werewolf'\n  }, {\n    name: 'Vampire Zombie',\n    size: 1.2,\n    folder: 'vampire_zombie'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Vampire Master',\n    size: 1.08,\n    folder: 'vampire_master'\n  }, {\n    name: 'Vampire Monster',\n    size: 1.3,\n    folder: 'vampire_monster'\n  }, {\n    name: 'Vampiress Assassin',\n    size: 1.05,\n    folder: 'vampiress_assassin'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Alien',\n    size: 1.22,\n    folder: 'alien'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/virus_darkness.js?");
-
-/***/ }),
-
-/***/ "./src/army/wei_dynasty.js":
-/*!*********************************!*\
-  !*** ./src/army/wei_dynasty.js ***!
-  \*********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Tower Guard',\n    size: 1,\n    folder: 'tower_guard'\n  }, {\n    name: 'Tower Soldier',\n    size: 1,\n    folder: 'tower_soldier'\n  }, {\n    name: 'Stone Longbow',\n    size: 1,\n    folder: 'stone_longbow'\n  }, {\n    name: 'Stone Crusher',\n    size: 1,\n    folder: 'stone_crusher'\n  }, {\n    name: 'Stone Guard',\n    size: 1,\n    folder: 'stone_guard'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Tower Longsword',\n    size: 1.07,\n    folder: 'tower_longsword'\n  }, {\n    name: 'Tower Sorceress',\n    size: 1.02,\n    folder: 'tower_sorceress'\n  }, {\n    name: 'Tower Longbow',\n    size: 1.02,\n    folder: 'tower_longbow'\n  }, {\n    name: 'Stone Mage',\n    size: 1.1,\n    folder: 'stone_mage'\n  }, {\n    name: 'Stone Halberd',\n    size: 1,\n    folder: 'stone_halberd'\n  }, {\n    name: 'Stone Assassin',\n    size: 1,\n    folder: 'stone_assassin'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Elf Ranger',\n    size: 1.09,\n    folder: 'elf_ranger'\n  }, {\n    name: 'Elf Seer',\n    size: 1.02,\n    folder: 'elf_seer'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Tower Fortress',\n    size: 1.24,\n    folder: 'tower_fortress'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/wei_dynasty.js?");
-
-/***/ }),
-
-/***/ "./src/army/wyvern_underground.js":
-/*!****************************************!*\
-  !*** ./src/army/wyvern_underground.js ***!
-  \****************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Dwarf Healer',\n    size: 0.82,\n    folder: 'dwarf_healer'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Giant',\n    size: 1.7,\n    folder: 'giant'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/wyvern_underground.js?");
-
-/***/ }),
-
-/***/ "./src/army/xensor_territory.js":
-/*!**************************************!*\
-  !*** ./src/army/xensor_territory.js ***!
-  \**************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Blue Goblin',\n    size: 0.87,\n    folder: 'blue_goblin'\n  }, {\n    name: 'Skeleton Bomber',\n    size: 0.97,\n    folder: 'skeleton_bomber'\n  }, {\n    name: 'Skeleton Grunt',\n    size: 0.97,\n    folder: 'skeleton_grunt'\n  }, {\n    name: 'Dual Skeleton',\n    size: 1,\n    folder: 'dual_skeleton'\n  }, {\n    name: 'Skeleton Jack',\n    size: 1,\n    folder: 'skeleton_jack'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Key Skeleton',\n    size: 1.1,\n    folder: 'key_skeleton'\n  }, {\n    name: 'Skeleton Ranger',\n    size: 1,\n    folder: 'skeleton_ranger'\n  }, {\n    name: 'Basilisk',\n    size: 1.14,\n    folder: 'basilisk'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Skeleton Elite',\n    size: 1.1,\n    folder: 'skeleton_elite'\n  }, {\n    name: 'Skeleton Gunner',\n    size: 1,\n    folder: 'skeleton_gunner'\n  }, {\n    name: 'Small Tyrant',\n    size: 1.2,\n    folder: 'small_tyrant'\n  }, {\n    name: 'Thunder Bringer',\n    size: 1.1,\n    folder: 'thunder_bringer'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Wiser',\n    size: 1.15,\n    folder: 'wiser'\n  }, {\n    name: 'Zombie Guardian',\n    size: 1.6,\n    folder: 'zombie_guardian'\n  }, {\n    name: 'Blood Bringer',\n    size: 1.1,\n    folder: 'blood_bringer'\n  }, {\n    name: 'Fire Drake',\n    size: 1.7,\n    folder: 'fire_drake'\n  }, {\n    name: 'Necromancer',\n    size: 1,\n    folder: 'necromancer'\n  }, {\n    name: 'Evil Mage',\n    size: 1.1,\n    folder: 'evil_mage'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Tyrant',\n    size: 1.5,\n    folder: 'tyrant'\n  }, {\n    name: 'Skeleton Dragon',\n    size: 1.3,\n    folder: 'skeleton_dragon'\n  }, {\n    name: 'Kraken',\n    size: 2.3,\n    folder: 'kraken'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/xensor_territory.js?");
-
-/***/ }),
-
-/***/ "./src/army/xultart_horde.js":
-/*!***********************************!*\
-  !*** ./src/army/xultart_horde.js ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Goblin Spear',\n    size: 0.9,\n    folder: 'goblin_spear'\n  }, {\n    name: 'Goblin Slicer',\n    size: 0.87,\n    folder: 'goblin_slicer'\n  }, {\n    name: 'Goblin Archer',\n    size: 0.9,\n    folder: 'goblin_archer'\n  }, {\n    name: 'Maneater Spear',\n    size: 0.9,\n    folder: 'maneater_spear'\n  }, {\n    name: 'Maneater Slinger',\n    size: 0.9,\n    folder: 'maneater_slinger'\n  }, {\n    name: 'Maneater Ranger',\n    size: 0.91,\n    folder: 'maneater_ranger'\n  }, {\n    name: 'Maneater Assassin',\n    size: 0.92,\n    folder: 'maneater_assassin'\n  }, {\n    name: 'Maneater Cleric',\n    size: 0.94,\n    folder: 'maneater_cleric'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Reptile Axe',\n    size: 1,\n    folder: 'reptile_axe'\n  }, {\n    name: 'Reptile Sword',\n    size: 1,\n    folder: 'reptile_sword'\n  }, {\n    name: 'Goblin Soldier',\n    size: 0.9,\n    folder: 'goblin_soldier'\n  }, {\n    name: 'Goblin Guard',\n    size: 1.02,\n    folder: 'goblin_guard'\n  }, {\n    name: 'Goblin Champion',\n    size: 0.9,\n    folder: 'goblin_champion'\n  }, {\n    name: 'Harpy',\n    size: 0.9,\n    folder: 'harpy'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Troll Forest',\n    size: 1.2,\n    folder: 'troll_forest'\n  }, {\n    name: 'Goblin Elder',\n    size: 0.95,\n    folder: 'goblin_elder'\n  }, {\n    name: 'Goblin Sniper',\n    size: 0.95,\n    folder: 'goblin_sniper'\n  }, {\n    name: 'Harpy Elite',\n    size: 0.9,\n    folder: 'harpy_elite'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Cyclops',\n    size: 1.6,\n    folder: 'cyclops'\n  }, {\n    name: 'Troll Green',\n    size: 1.52,\n    folder: 'troll_green'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Cyclops Elite',\n    size: 1.8,\n    folder: 'cyclops_elite'\n  }, {\n    name: 'Black Dragon',\n    size: 1.8,\n    folder: 'black_dragon'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/xultart_horde.js?");
-
-/***/ }),
-
-/***/ "./src/army/zephyr_world.js":
-/*!**********************************!*\
-  !*** ./src/army/zephyr_world.js ***!
-  \**********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Demon Eye',\n    size: 0.8,\n    folder: 'demon_eye'\n  }, {\n    name: 'Demon Zombie',\n    size: 0.95,\n    folder: 'demon_zombie'\n  }, {\n    name: 'Demon Horned',\n    size: 1.02,\n    folder: 'demon_horned'\n  }, {\n    name: 'Demon Sentinel',\n    size: 1,\n    folder: 'demon_sentinel'\n  }, {\n    name: 'Demon Hellrot',\n    size: 1.13,\n    folder: 'demon_hellrot'\n  }, {\n    name: 'Demon Imp',\n    size: 1.02,\n    folder: 'demon_imp'\n  }, {\n    name: 'Demon Horror',\n    size: 1.04,\n    folder: 'demon_horror'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Lava Hound',\n    size: 1,\n    folder: 'lava_hound'\n  }, {\n    name: 'Demon Blade',\n    size: 1.02,\n    folder: 'demon_blade'\n  }, {\n    name: 'Demon Spider',\n    size: 1.05,\n    folder: 'demon_spider'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Giant Scorpion',\n    size: 1.4,\n    folder: 'giant_scorpion'\n  }, {\n    name: 'Demon Knight',\n    size: 1.18,\n    folder: 'demon_knight'\n  }, {\n    name: 'Demon Dino',\n    size: 1.3,\n    folder: 'demon_dino'\n  }, {\n    name: 'Demon Centaur',\n    size: 1.28,\n    folder: 'demon_centaur'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Demon Baron',\n    size: 1.4,\n    folder: 'demon_baron'\n  }, {\n    name: 'Demon Greater',\n    size: 1.6,\n    folder: 'demon_greater'\n  }, {\n    name: 'Demon Flamer',\n    size: 1.5,\n    folder: 'demon_flamer'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Demon Lord',\n    size: 1.85,\n    folder: 'demon_lord'\n  }, {\n    name: 'Demon Champion',\n    size: 1.5,\n    folder: 'demon_champion'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/zephyr_world.js?");
-
-/***/ }),
-
-/***/ "./src/army/zhong_mountain.js":
-/*!************************************!*\
-  !*** ./src/army/zhong_mountain.js ***!
-  \************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Bandit Strongman',\n    size: 0.95,\n    folder: 'bandit_strongman'\n  }, {\n    name: 'Bandit Blindman',\n    size: 0.95,\n    folder: 'bandit_blindman'\n  }, {\n    name: 'Bear Chained',\n    size: 0.9,\n    folder: 'bear_chained'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Bandit Assassin',\n    size: 1.03,\n    folder: 'bandit_assassin'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/army/zhong_mountain.js?");
-
-/***/ }),
-
-/***/ "./src/army/zug_tribe.js":
-/*!*******************************!*\
-  !*** ./src/army/zug_tribe.js ***!
-  \*******************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _attr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./_attr */ \"./src/army/_attr.js\");\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Ogre Great',\n    size: 1.3,\n    folder: 'ogre_great'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Cyclops Elite',\n    size: 1.9,\n    folder: 'cyclops_elite'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/army/zug_tribe.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  value: 'arghus_crypt',\n  name: 'Arghus Crypt'\n}, {\n  value: 'bhamka_crypt',\n  name: 'Bhamka Crypt'\n}, {\n  value: 'chicahua_hell',\n  name: 'Chicahua Hell'\n}, {\n  value: 'cobalt_guild',\n  name: 'Cobalt Guilt'\n}, {\n  value: 'elemental_universe',\n  name: 'Elemental Universe'\n}, {\n  value: 'ellice_royaume',\n  name: 'Ellice Royaume'\n}, {\n  value: 'harald_rike',\n  name: 'Harald Rike'\n}, {\n  value: 'imkan_heaven',\n  name: 'Imkan Heaven'\n}, {\n  value: 'julakgh_kingdom',\n  name: 'Julakgh Kingdom'\n}, {\n  value: 'mary_kingdom',\n  name: 'Mary Kingdom'\n}, {\n  value: 'nussorlig_realm',\n  name: 'Nussorlig Realm'\n}, {\n  value: 'roshri_shadow',\n  name: 'Roshri Shadow'\n}, {\n  value: 'sahl_dynasty',\n  name: 'Sahl Dynasty'\n}, {\n  value: 'titan_universe',\n  name: 'Titan Universe'\n}, {\n  value: 'toufiq_niqaba',\n  name: 'Toufiq Niqaba'\n}, {\n  value: 'vargan_clan',\n  name: 'Vargan Clan'\n}, {\n  value: 'wesley_gangs',\n  name: 'Wesley Gangs'\n}, {\n  value: 'yiddenda_realm',\n  name: 'Yiddenda Realm'\n}]);\n\n//# sourceURL=webpack:///./src/army/list.js?");
 
 /***/ }),
 
@@ -2265,6 +1377,102 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 
 /***/ }),
 
+/***/ "./src/containers/army/arghus_crypt.js":
+/*!*********************************************!*\
+  !*** ./src/containers/army/arghus_crypt.js ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Skeleton',\n    size: 0.95,\n    folder: 'kbn_7'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Elite Zombie',\n    size: 0.96,\n    folder: 'kbn_13'\n  }]\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Necromancer',\n    size: 1,\n    folder: 'kbn_9'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/arghus_crypt.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/bhamka_crypt.js":
+/*!*********************************************!*\
+  !*** ./src/containers/army/bhamka_crypt.js ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Spitting Spider',\n    size: 0.96,\n    folder: 'h7_6'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Namtaru Queen',\n    size: 1.6,\n    folder: 'h7_4'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/bhamka_crypt.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/chicahua_hell.js":
+/*!**********************************************!*\
+  !*** ./src/containers/army/chicahua_hell.js ***!
+  \**********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Skull Soldier',\n    size: 1.12,\n    folder: 'aom_1'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Skull Elite',\n    size: 1.22,\n    folder: 'aom_2'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Skull God',\n    size: 1.35,\n    folder: 'aom_3'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/chicahua_hell.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/cobalt_guild.js":
+/*!*********************************************!*\
+  !*** ./src/containers/army/cobalt_guild.js ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Master Thief',\n    size: 1,\n    folder: 'momx_5'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/cobalt_guild.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/elemental_universe.js":
+/*!***************************************************!*\
+  !*** ./src/containers/army/elemental_universe.js ***!
+  \***************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Smoke Elemental',\n    size: 1.5,\n    folder: 'momx_1'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/elemental_universe.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/ellice_royaume.js":
+/*!***********************************************!*\
+  !*** ./src/containers/army/ellice_royaume.js ***!
+  \***********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Peasant',\n    size: 1,\n    folder: 'kbn_15'\n  }, {\n    name: 'Princess Paladin',\n    size: 0.95,\n    folder: 'kbn_5'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Princess Mage',\n    size: 0.95,\n    folder: 'kbn_2'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Holy Priest',\n    size: 1,\n    folder: 'kbn_8'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/ellice_royaume.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/harald_rike.js":
+/*!********************************************!*\
+  !*** ./src/containers/army/harald_rike.js ***!
+  \********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Veteran Axe',\n    size: 1.01,\n    folder: 'kbn_1'\n  }, {\n    name: 'Veteran Sword',\n    size: 1.01,\n    folder: 'kbn_4'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Veteran Sjaman',\n    size: 1.01,\n    folder: 'kbn_3'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/harald_rike.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/imkan_heaven.js":
+/*!*********************************************!*\
+  !*** ./src/containers/army/imkan_heaven.js ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Alpha Wolf',\n    size: 0.95,\n    folder: 'momx_2'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/imkan_heaven.js?");
+
+/***/ }),
+
 /***/ "./src/containers/army/index.js":
 /*!**************************************!*\
   !*** ./src/containers/army/index.js ***!
@@ -2274,6 +1482,126 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _army__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../army */ \"./src/army/index.js\");\nfunction _typeof(obj) { if (typeof Symbol === \"function\" && typeof Symbol.iterator === \"symbol\") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === \"function\" && obj.constructor === Symbol && obj !== Symbol.prototype ? \"symbol\" : typeof obj; }; } return _typeof(obj); }\n\nfunction _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError(\"Cannot call a class as a function\"); } }\n\nfunction _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if (\"value\" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }\n\nfunction _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }\n\nfunction _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === \"object\" || typeof call === \"function\")) { return call; } return _assertThisInitialized(self); }\n\nfunction _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError(\"this hasn't been initialised - super() hasn't been called\"); } return self; }\n\nfunction _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }\n\nfunction _inherits(subClass, superClass) { if (typeof superClass !== \"function\" && superClass !== null) { throw new TypeError(\"Super expression must either be null or a function\"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); if (superClass) _setPrototypeOf(subClass, superClass); }\n\nfunction _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }\n\n\n\n\nvar Army =\n/*#__PURE__*/\nfunction (_React$Component) {\n  _inherits(Army, _React$Component);\n\n  function Army(props) {\n    var _this;\n\n    _classCallCheck(this, Army);\n\n    _this = _possibleConstructorReturn(this, _getPrototypeOf(Army).call(this, props));\n    _this.army1 = _this.props.match.params.name1;\n    _this.army2 = _this.props.match.params.name2;\n    _this.state = {\n      list1: _army__WEBPACK_IMPORTED_MODULE_1__[\"default\"][_this.army1],\n      list2: _army__WEBPACK_IMPORTED_MODULE_1__[\"default\"][_this.army2],\n      player1: null,\n      player2: null\n    };\n    return _this;\n  }\n\n  _createClass(Army, [{\n    key: \"componentDidMount\",\n    value: function componentDidMount() {\n      this.offcanvas1 = UIkit.offcanvas($('#offcanvas-army1'));\n      this.offcanvas2 = UIkit.offcanvas($('#offcanvas-army2'), {\n        flip: true\n      });\n    }\n  }, {\n    key: \"componentWillUnmount\",\n    value: function componentWillUnmount() {\n      this.army1 = null;\n      this.army2 = null;\n      this.offcanvas1.$destroy(true);\n      this.offcanvas2.$destroy(true);\n    }\n  }, {\n    key: \"render\",\n    value: function render() {\n      var _this2 = this;\n\n      return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n        className: \"uk-flex uk-flex-between\"\n      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"button\", {\n        className: \"uk-button uk-button-primary\",\n        type: \"button\",\n        \"uk-toggle\": \"target: #offcanvas-army1\"\n      }, this.army1)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"button\", {\n        className: \"uk-button uk-button-primary\",\n        type: \"button\",\n        \"uk-toggle\": \"target: #offcanvas-army2\"\n      }, this.army2))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n        className: \"uk-container\"\n      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n        className: \"uk-height-viewport uk-grid uk-padding uk-padding-remove-left uk-padding-remove-right uk-padding-remove-top uk-flex uk-flex-bottom\",\n        \"uk-grid\": \"true\",\n        \"uk-height-viewport\": \"expand: true\"\n      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n        className: \"uk-width-1-2 uk-flex-right\"\n      }, this.state.player1 ? react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n        className: \"uk-flex uk-flex-center\"\n      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n        \"data-src\": '/' + this.army1 + '/' + this.state.player1.folder + '/main.png',\n        className: \"uk-flip\",\n        style: {\n          height: Number(200 * this.state.player1.size) + 'px'\n        },\n        \"uk-img\": \"true\"\n      })) : null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n        className: \"uk-width-1-2\"\n      }, this.state.player2 ? react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n        className: \"uk-flex uk-flex-center\"\n      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n        \"data-src\": '/' + this.army2 + '/' + this.state.player2.folder + '/main.png',\n        style: {\n          height: Number(200 * this.state.player2.size) + 'px'\n        },\n        \"uk-img\": \"true\"\n      })) : null))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n        id: \"offcanvas-army1\"\n      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n        className: \"uk-offcanvas-bar uk-padding-small-left uk-padding-small-right uk-padding-small-bottom uk-padding-top\"\n      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"button\", {\n        className: \"uk-offcanvas-close\",\n        type: \"button\",\n        \"uk-close\": \"true\"\n      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null, this.state.list1.map(function (item, key) {\n        return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n          key: key,\n          className: \"uk-margin-bottom\"\n        }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h5\", {\n          className: \"uk-text-uppercase\"\n        }, item.name), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n          className: \"uk-grid uk-grid-small\",\n          \"uk-grid\": \"true\"\n        }, item.list.map(function (i, ikey) {\n          return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n            key: ikey,\n            className: \"uk-width-1-2\"\n          }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"a\", {\n            className: \"uk-text-meta uk-text-truncate\",\n            onClick: function onClick() {\n              return _this2.setState({\n                player1: i\n              }, function () {\n                UIkit.offcanvas('#offcanvas-army1').hide();\n              });\n            }\n          }, i.name));\n        })));\n      })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n        id: \"offcanvas-army2\"\n      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n        className: \"uk-offcanvas-bar uk-padding-small-left uk-padding-small-right uk-padding-small-bottom uk-padding-top\"\n      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"button\", {\n        className: \"uk-offcanvas-close\",\n        type: \"button\",\n        \"uk-close\": \"true\"\n      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null, this.state.list2.map(function (item, key) {\n        return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n          key: key,\n          className: \"uk-margin-bottom\"\n        }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h5\", {\n          className: \"uk-text-uppercase\"\n        }, item.name), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n          className: \"uk-grid uk-grid-small\",\n          \"uk-grid\": \"true\"\n        }, item.list.map(function (i, ikey) {\n          return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n            key: ikey,\n            className: \"uk-width-1-2\"\n          }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"a\", {\n            className: \"uk-text-meta uk-text-truncate\",\n            onClick: function onClick() {\n              return _this2.setState({\n                player2: i\n              }, function () {\n                UIkit.offcanvas('#offcanvas-army2').hide();\n              });\n            }\n          }, i.name));\n        })));\n      })))));\n    }\n  }]);\n\n  return Army;\n}(react__WEBPACK_IMPORTED_MODULE_0___default.a.Component);\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Army);\n\n//# sourceURL=webpack:///./src/containers/army/index.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/julakgh_kingdom.js":
+/*!************************************************!*\
+  !*** ./src/containers/army/julakgh_kingdom.js ***!
+  \************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Troll Chieftain',\n    size: 1.5,\n    folder: 'kbn_14'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/julakgh_kingdom.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/mary_kingdom.js":
+/*!*********************************************!*\
+  !*** ./src/containers/army/mary_kingdom.js ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Poison Queen',\n    size: 1.02,\n    folder: 'aom_5'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/mary_kingdom.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/nussorlig_realm.js":
+/*!************************************************!*\
+  !*** ./src/containers/army/nussorlig_realm.js ***!
+  \************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Dwarf Healer',\n    size: 0.8,\n    folder: 'kbn_11'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/nussorlig_realm.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/roshri_shadow.js":
+/*!**********************************************!*\
+  !*** ./src/containers/army/roshri_shadow.js ***!
+  \**********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Shadow Assassin',\n    size: 1.13,\n    folder: 'momx_3'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Minotaur White',\n    size: 1.4,\n    folder: 'momx_4'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/roshri_shadow.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/sahl_dynasty.js":
+/*!*********************************************!*\
+  !*** ./src/containers/army/sahl_dynasty.js ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Small Pyramid',\n    size: 1.5,\n    folder: 'h7_5'\n  }]\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Master Assassin',\n    size: 1.01,\n    folder: 'h7_9'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Great Pyramid',\n    size: 2.6,\n    folder: 'h7_2'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/sahl_dynasty.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/titan_universe.js":
+/*!***********************************************!*\
+  !*** ./src/containers/army/titan_universe.js ***!
+  \***********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Ancient Rock',\n    size: 1.9,\n    folder: 'h7_1'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/titan_universe.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/toufiq_niqaba.js":
+/*!**********************************************!*\
+  !*** ./src/containers/army/toufiq_niqaba.js ***!
+  \**********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Fire Barbarian',\n    size: 1.07,\n    folder: 'aom_4'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/toufiq_niqaba.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/vargan_clan.js":
+/*!********************************************!*\
+  !*** ./src/containers/army/vargan_clan.js ***!
+  \********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Ancient Behemoth',\n    size: 2,\n    folder: 'h7_8'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/vargan_clan.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/wesley_gangs.js":
+/*!*********************************************!*\
+  !*** ./src/containers/army/wesley_gangs.js ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Eye Beholder',\n    size: 1.24,\n    folder: 'kbn_10'\n  }, {\n    name: 'Dirty Captain',\n    size: 1,\n    folder: 'kbn_12'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Elder Hunter',\n    size: 1.03,\n    folder: 'kbn_6'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/wesley_gangs.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/yiddenda_realm.js":
+/*!***********************************************!*\
+  !*** ./src/containers/army/yiddenda_realm.js ***!
+  \***********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Sylvan Ballista',\n    size: 1.4,\n    folder: 'h7_7'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Ancient Treant',\n    size: 2.2,\n    folder: 'h7_10'\n  }, {\n    name: 'Mother Treant',\n    size: 2.2,\n    folder: 'h7_3'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/yiddenda_realm.js?");
 
 /***/ }),
 
