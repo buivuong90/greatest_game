@@ -2,7 +2,11 @@ export default [
     {
         name: 'Level 1',
         list: [
-            
+            {
+                name: 'Blade Dancer',
+                size: 1.3,
+                folder: 'h7_11'
+            }
         ]
     },
     {

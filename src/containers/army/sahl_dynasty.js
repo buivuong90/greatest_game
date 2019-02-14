@@ -12,6 +12,11 @@ export default [
                 name: 'Small Pyramid',
                 size: 1.5,
                 folder: 'h7_5'
+            },
+            {
+                name: 'Master Assassin',
+                size: 1.01,
+                folder: 'h7_9'
             }
         ]
     },
@@ -25,9 +30,9 @@ export default [
         name: 'Level 4',
         list: [
             {
-                name: 'Master Assassin',
-                size: 1.01,
-                folder: 'h7_9'
+                name: 'Assassin Raider',
+                size: 1.4,
+                folder: 'h7_14'
             }
         ]
     },

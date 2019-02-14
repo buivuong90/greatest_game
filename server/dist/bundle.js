@@ -1349,7 +1349,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var reac
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _containers_army_harald_rike__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../containers/army/harald_rike */ \"./src/containers/army/harald_rike.js\");\n/* harmony import */ var _containers_army_ellice_royaume__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../containers/army/ellice_royaume */ \"./src/containers/army/ellice_royaume.js\");\n/* harmony import */ var _containers_army_titan_universe__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../containers/army/titan_universe */ \"./src/containers/army/titan_universe.js\");\n/* harmony import */ var _containers_army_sahl_dynasty__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../containers/army/sahl_dynasty */ \"./src/containers/army/sahl_dynasty.js\");\n/* harmony import */ var _containers_army_elemental_universe__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../containers/army/elemental_universe */ \"./src/containers/army/elemental_universe.js\");\n/* harmony import */ var _containers_army_imkan_heaven__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../containers/army/imkan_heaven */ \"./src/containers/army/imkan_heaven.js\");\n/* harmony import */ var _containers_army_wesley_gangs__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../containers/army/wesley_gangs */ \"./src/containers/army/wesley_gangs.js\");\n/* harmony import */ var _containers_army_arghus_crypt__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../containers/army/arghus_crypt */ \"./src/containers/army/arghus_crypt.js\");\n/* harmony import */ var _containers_army_yiddenda_realm__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../containers/army/yiddenda_realm */ \"./src/containers/army/yiddenda_realm.js\");\n/* harmony import */ var _containers_army_bhamka_crypt__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../containers/army/bhamka_crypt */ \"./src/containers/army/bhamka_crypt.js\");\n/* harmony import */ var _containers_army_vargan_clan__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../containers/army/vargan_clan */ \"./src/containers/army/vargan_clan.js\");\n/* harmony import */ var _containers_army_roshri_shadow__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../containers/army/roshri_shadow */ \"./src/containers/army/roshri_shadow.js\");\n/* harmony import */ var _containers_army_cobalt_guild__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../containers/army/cobalt_guild */ \"./src/containers/army/cobalt_guild.js\");\n/* harmony import */ var _containers_army_chicahua_hell__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../containers/army/chicahua_hell */ \"./src/containers/army/chicahua_hell.js\");\n/* harmony import */ var _containers_army_toufiq_niqaba__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../containers/army/toufiq_niqaba */ \"./src/containers/army/toufiq_niqaba.js\");\n/* harmony import */ var _containers_army_mary_kingdom__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../containers/army/mary_kingdom */ \"./src/containers/army/mary_kingdom.js\");\n/* harmony import */ var _containers_army_nussorlig_realm__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ../containers/army/nussorlig_realm */ \"./src/containers/army/nussorlig_realm.js\");\n/* harmony import */ var _containers_army_julakgh_kingdom__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ../containers/army/julakgh_kingdom */ \"./src/containers/army/julakgh_kingdom.js\");\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar army = {\n  harald_rike: _containers_army_harald_rike__WEBPACK_IMPORTED_MODULE_0__[\"default\"],\n  ellice_royaume: _containers_army_ellice_royaume__WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  titan_universe: _containers_army_titan_universe__WEBPACK_IMPORTED_MODULE_2__[\"default\"],\n  sahl_dynasty: _containers_army_sahl_dynasty__WEBPACK_IMPORTED_MODULE_3__[\"default\"],\n  elemental_universe: _containers_army_elemental_universe__WEBPACK_IMPORTED_MODULE_4__[\"default\"],\n  imkan_heaven: _containers_army_imkan_heaven__WEBPACK_IMPORTED_MODULE_5__[\"default\"],\n  wesley_gangs: _containers_army_wesley_gangs__WEBPACK_IMPORTED_MODULE_6__[\"default\"],\n  arghus_crypt: _containers_army_arghus_crypt__WEBPACK_IMPORTED_MODULE_7__[\"default\"],\n  yiddenda_realm: _containers_army_yiddenda_realm__WEBPACK_IMPORTED_MODULE_8__[\"default\"],\n  bhamka_crypt: _containers_army_bhamka_crypt__WEBPACK_IMPORTED_MODULE_9__[\"default\"],\n  vargan_clan: _containers_army_vargan_clan__WEBPACK_IMPORTED_MODULE_10__[\"default\"],\n  roshri_shadow: _containers_army_roshri_shadow__WEBPACK_IMPORTED_MODULE_11__[\"default\"],\n  cobalt_guild: _containers_army_cobalt_guild__WEBPACK_IMPORTED_MODULE_12__[\"default\"],\n  chicahua_hell: _containers_army_chicahua_hell__WEBPACK_IMPORTED_MODULE_13__[\"default\"],\n  toufiq_niqaba: _containers_army_toufiq_niqaba__WEBPACK_IMPORTED_MODULE_14__[\"default\"],\n  mary_kingdom: _containers_army_mary_kingdom__WEBPACK_IMPORTED_MODULE_15__[\"default\"],\n  nussorlig_realm: _containers_army_nussorlig_realm__WEBPACK_IMPORTED_MODULE_16__[\"default\"],\n  julakgh_kingdom: _containers_army_julakgh_kingdom__WEBPACK_IMPORTED_MODULE_17__[\"default\"]\n};\n/* harmony default export */ __webpack_exports__[\"default\"] = (army);\n\n//# sourceURL=webpack:///./src/army/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _containers_army_harald_rike__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../containers/army/harald_rike */ \"./src/containers/army/harald_rike.js\");\n/* harmony import */ var _containers_army_ellice_royaume__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../containers/army/ellice_royaume */ \"./src/containers/army/ellice_royaume.js\");\n/* harmony import */ var _containers_army_titan_universe__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../containers/army/titan_universe */ \"./src/containers/army/titan_universe.js\");\n/* harmony import */ var _containers_army_sahl_dynasty__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../containers/army/sahl_dynasty */ \"./src/containers/army/sahl_dynasty.js\");\n/* harmony import */ var _containers_army_elemental_universe__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../containers/army/elemental_universe */ \"./src/containers/army/elemental_universe.js\");\n/* harmony import */ var _containers_army_imkan_heaven__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../containers/army/imkan_heaven */ \"./src/containers/army/imkan_heaven.js\");\n/* harmony import */ var _containers_army_wesley_gangs__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../containers/army/wesley_gangs */ \"./src/containers/army/wesley_gangs.js\");\n/* harmony import */ var _containers_army_arghus_crypt__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../containers/army/arghus_crypt */ \"./src/containers/army/arghus_crypt.js\");\n/* harmony import */ var _containers_army_yiddenda_realm__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../containers/army/yiddenda_realm */ \"./src/containers/army/yiddenda_realm.js\");\n/* harmony import */ var _containers_army_bhamka_crypt__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../containers/army/bhamka_crypt */ \"./src/containers/army/bhamka_crypt.js\");\n/* harmony import */ var _containers_army_vargan_clan__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../containers/army/vargan_clan */ \"./src/containers/army/vargan_clan.js\");\n/* harmony import */ var _containers_army_roshri_shadow__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../containers/army/roshri_shadow */ \"./src/containers/army/roshri_shadow.js\");\n/* harmony import */ var _containers_army_cobalt_guild__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../containers/army/cobalt_guild */ \"./src/containers/army/cobalt_guild.js\");\n/* harmony import */ var _containers_army_chicahua_hell__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../containers/army/chicahua_hell */ \"./src/containers/army/chicahua_hell.js\");\n/* harmony import */ var _containers_army_toufiq_niqaba__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../containers/army/toufiq_niqaba */ \"./src/containers/army/toufiq_niqaba.js\");\n/* harmony import */ var _containers_army_mary_kingdom__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../containers/army/mary_kingdom */ \"./src/containers/army/mary_kingdom.js\");\n/* harmony import */ var _containers_army_nussorlig_realm__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ../containers/army/nussorlig_realm */ \"./src/containers/army/nussorlig_realm.js\");\n/* harmony import */ var _containers_army_julakgh_kingdom__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ../containers/army/julakgh_kingdom */ \"./src/containers/army/julakgh_kingdom.js\");\n/* harmony import */ var _containers_army_elyrth_shadow__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ../containers/army/elyrth_shadow */ \"./src/containers/army/elyrth_shadow.js\");\n/* harmony import */ var _containers_army_dular_tribe__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ../containers/army/dular_tribe */ \"./src/containers/army/dular_tribe.js\");\n/* harmony import */ var _containers_army_idu_clan__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ../containers/army/idu_clan */ \"./src/containers/army/idu_clan.js\");\n/* harmony import */ var _containers_army_okan_realm__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ../containers/army/okan_realm */ \"./src/containers/army/okan_realm.js\");\n/* harmony import */ var _containers_army_shadowlimbs_forest__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ../containers/army/shadowlimbs_forest */ \"./src/containers/army/shadowlimbs_forest.js\");\n/* harmony import */ var _containers_army_lale_realm__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ../containers/army/lale_realm */ \"./src/containers/army/lale_realm.js\");\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar army = {\n  harald_rike: _containers_army_harald_rike__WEBPACK_IMPORTED_MODULE_0__[\"default\"],\n  ellice_royaume: _containers_army_ellice_royaume__WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  titan_universe: _containers_army_titan_universe__WEBPACK_IMPORTED_MODULE_2__[\"default\"],\n  sahl_dynasty: _containers_army_sahl_dynasty__WEBPACK_IMPORTED_MODULE_3__[\"default\"],\n  elemental_universe: _containers_army_elemental_universe__WEBPACK_IMPORTED_MODULE_4__[\"default\"],\n  imkan_heaven: _containers_army_imkan_heaven__WEBPACK_IMPORTED_MODULE_5__[\"default\"],\n  wesley_gangs: _containers_army_wesley_gangs__WEBPACK_IMPORTED_MODULE_6__[\"default\"],\n  arghus_crypt: _containers_army_arghus_crypt__WEBPACK_IMPORTED_MODULE_7__[\"default\"],\n  yiddenda_realm: _containers_army_yiddenda_realm__WEBPACK_IMPORTED_MODULE_8__[\"default\"],\n  bhamka_crypt: _containers_army_bhamka_crypt__WEBPACK_IMPORTED_MODULE_9__[\"default\"],\n  vargan_clan: _containers_army_vargan_clan__WEBPACK_IMPORTED_MODULE_10__[\"default\"],\n  roshri_shadow: _containers_army_roshri_shadow__WEBPACK_IMPORTED_MODULE_11__[\"default\"],\n  cobalt_guild: _containers_army_cobalt_guild__WEBPACK_IMPORTED_MODULE_12__[\"default\"],\n  chicahua_hell: _containers_army_chicahua_hell__WEBPACK_IMPORTED_MODULE_13__[\"default\"],\n  toufiq_niqaba: _containers_army_toufiq_niqaba__WEBPACK_IMPORTED_MODULE_14__[\"default\"],\n  mary_kingdom: _containers_army_mary_kingdom__WEBPACK_IMPORTED_MODULE_15__[\"default\"],\n  nussorlig_realm: _containers_army_nussorlig_realm__WEBPACK_IMPORTED_MODULE_16__[\"default\"],\n  julakgh_kingdom: _containers_army_julakgh_kingdom__WEBPACK_IMPORTED_MODULE_17__[\"default\"],\n  elyrth_shadow: _containers_army_elyrth_shadow__WEBPACK_IMPORTED_MODULE_18__[\"default\"],\n  dular_tribe: _containers_army_dular_tribe__WEBPACK_IMPORTED_MODULE_19__[\"default\"],\n  idu_clan: _containers_army_idu_clan__WEBPACK_IMPORTED_MODULE_20__[\"default\"],\n  okan_realm: _containers_army_okan_realm__WEBPACK_IMPORTED_MODULE_21__[\"default\"],\n  shadowlimbs_forest: _containers_army_shadowlimbs_forest__WEBPACK_IMPORTED_MODULE_22__[\"default\"],\n  lale_realm: _containers_army_lale_realm__WEBPACK_IMPORTED_MODULE_23__[\"default\"]\n};\n/* harmony default export */ __webpack_exports__[\"default\"] = (army);\n\n//# sourceURL=webpack:///./src/army/index.js?");
 
 /***/ }),
 
@@ -1361,7 +1361,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _con
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  value: 'arghus_crypt',\n  name: 'Arghus Crypt'\n}, {\n  value: 'bhamka_crypt',\n  name: 'Bhamka Crypt'\n}, {\n  value: 'chicahua_hell',\n  name: 'Chicahua Hell'\n}, {\n  value: 'cobalt_guild',\n  name: 'Cobalt Guilt'\n}, {\n  value: 'elemental_universe',\n  name: 'Elemental Universe'\n}, {\n  value: 'ellice_royaume',\n  name: 'Ellice Royaume'\n}, {\n  value: 'harald_rike',\n  name: 'Harald Rike'\n}, {\n  value: 'imkan_heaven',\n  name: 'Imkan Heaven'\n}, {\n  value: 'julakgh_kingdom',\n  name: 'Julakgh Kingdom'\n}, {\n  value: 'mary_kingdom',\n  name: 'Mary Kingdom'\n}, {\n  value: 'nussorlig_realm',\n  name: 'Nussorlig Realm'\n}, {\n  value: 'roshri_shadow',\n  name: 'Roshri Shadow'\n}, {\n  value: 'sahl_dynasty',\n  name: 'Sahl Dynasty'\n}, {\n  value: 'titan_universe',\n  name: 'Titan Universe'\n}, {\n  value: 'toufiq_niqaba',\n  name: 'Toufiq Niqaba'\n}, {\n  value: 'vargan_clan',\n  name: 'Vargan Clan'\n}, {\n  value: 'wesley_gangs',\n  name: 'Wesley Gangs'\n}, {\n  value: 'yiddenda_realm',\n  name: 'Yiddenda Realm'\n}]);\n\n//# sourceURL=webpack:///./src/army/list.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  value: 'arghus_crypt',\n  name: 'Arghus Crypt'\n}, {\n  value: 'bhamka_crypt',\n  name: 'Bhamka Crypt'\n}, {\n  value: 'chicahua_hell',\n  name: 'Chicahua Hell'\n}, {\n  value: 'cobalt_guild',\n  name: 'Cobalt Guilt'\n}, {\n  value: 'dular_tribe',\n  name: 'Dular Tribe'\n}, {\n  value: 'elemental_universe',\n  name: 'Elemental Universe'\n}, {\n  value: 'ellice_royaume',\n  name: 'Ellice Royaume'\n}, {\n  value: 'elyrth_shadow',\n  name: 'Elyrth Shadow'\n}, {\n  value: 'harald_rike',\n  name: 'Harald Rike'\n}, {\n  value: 'idu_clan',\n  name: 'Idu Clan'\n}, {\n  value: 'imkan_heaven',\n  name: 'Imkan Heaven'\n}, {\n  value: 'julakgh_kingdom',\n  name: 'Julakgh Kingdom'\n}, {\n  value: 'lale_realm',\n  name: 'Lale Realm'\n}, {\n  value: 'mary_kingdom',\n  name: 'Mary Kingdom'\n}, {\n  value: 'nussorlig_realm',\n  name: 'Nussorlig Realm'\n}, {\n  value: 'okan_realm',\n  name: 'Okan Realm'\n}, {\n  value: 'roshri_shadow',\n  name: 'Roshri Shadow'\n}, {\n  value: 'sahl_dynasty',\n  name: 'Sahl Dynasty'\n}, {\n  value: 'shadowlimbs_forest',\n  name: 'Shadowlimbs Forest'\n}, {\n  value: 'titan_universe',\n  name: 'Titan Universe'\n}, {\n  value: 'toufiq_niqaba',\n  name: 'Toufiq Niqaba'\n}, {\n  value: 'vargan_clan',\n  name: 'Vargan Clan'\n}, {\n  value: 'wesley_gangs',\n  name: 'Wesley Gangs'\n}, {\n  value: 'yiddenda_realm',\n  name: 'Yiddenda Realm'\n}]);\n\n//# sourceURL=webpack:///./src/army/list.js?");
 
 /***/ }),
 
@@ -1397,7 +1397,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Spitting Spider',\n    size: 0.96,\n    folder: 'h7_6'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Namtaru Queen',\n    size: 1.6,\n    folder: 'h7_4'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/bhamka_crypt.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Spitting Spider',\n    size: 0.96,\n    folder: 'h7_6'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Archlich',\n    size: 1.15,\n    folder: 'h7_13'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Namtaru Queen',\n    size: 1.6,\n    folder: 'h7_4'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/bhamka_crypt.js?");
 
 /***/ }),
 
@@ -1421,7 +1421,19 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Master Thief',\n    size: 1,\n    folder: 'momx_5'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/cobalt_guild.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Master Thief',\n    size: 1,\n    folder: 'momx_5'\n  }]\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Black Guard',\n    size: 1.02,\n    folder: 'momx_9'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Black Guard Elite',\n    size: 1.02,\n    folder: 'momx_6'\n  }]\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Death Knight',\n    size: 1.02,\n    folder: 'momx_10'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/cobalt_guild.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/dular_tribe.js":
+/*!********************************************!*\
+  !*** ./src/containers/army/dular_tribe.js ***!
+  \********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Firebird Warrior',\n    size: 1.08,\n    folder: 'momx_7'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/dular_tribe.js?");
 
 /***/ }),
 
@@ -1449,6 +1461,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 /***/ }),
 
+/***/ "./src/containers/army/elyrth_shadow.js":
+/*!**********************************************!*\
+  !*** ./src/containers/army/elyrth_shadow.js ***!
+  \**********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Assassin',\n    size: 1.15,\n    folder: 'h7_12'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/elyrth_shadow.js?");
+
+/***/ }),
+
 /***/ "./src/containers/army/harald_rike.js":
 /*!********************************************!*\
   !*** ./src/containers/army/harald_rike.js ***!
@@ -1458,6 +1482,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Veteran Axe',\n    size: 1.01,\n    folder: 'kbn_1'\n  }, {\n    name: 'Veteran Sword',\n    size: 1.01,\n    folder: 'kbn_4'\n  }]\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Veteran Sjaman',\n    size: 1.01,\n    folder: 'kbn_3'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/harald_rike.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/idu_clan.js":
+/*!*****************************************!*\
+  !*** ./src/containers/army/idu_clan.js ***!
+  \*****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Pearl Priestess',\n    size: 1.13,\n    folder: 'momx_8'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/idu_clan.js?");
 
 /***/ }),
 
@@ -1497,6 +1533,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 /***/ }),
 
+/***/ "./src/containers/army/lale_realm.js":
+/*!*******************************************!*\
+  !*** ./src/containers/army/lale_realm.js ***!
+  \*******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'War Dancer',\n    size: 1.06,\n    folder: 'tw2_3'\n  }]\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/lale_realm.js?");
+
+/***/ }),
+
 /***/ "./src/containers/army/mary_kingdom.js":
 /*!*********************************************!*\
   !*** ./src/containers/army/mary_kingdom.js ***!
@@ -1521,6 +1569,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 
 /***/ }),
 
+/***/ "./src/containers/army/okan_realm.js":
+/*!*******************************************!*\
+  !*** ./src/containers/army/okan_realm.js ***!
+  \*******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Okan Champion',\n    size: 1.23,\n    folder: 'tw2_1'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/okan_realm.js?");
+
+/***/ }),
+
 /***/ "./src/containers/army/roshri_shadow.js":
 /*!**********************************************!*\
   !*** ./src/containers/army/roshri_shadow.js ***!
@@ -1529,7 +1589,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Shadow Assassin',\n    size: 1.13,\n    folder: 'momx_3'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Minotaur White',\n    size: 1.4,\n    folder: 'momx_4'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/roshri_shadow.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Shadow Assassin',\n    size: 1.15,\n    folder: 'momx_3'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Minotaur White',\n    size: 1.4,\n    folder: 'momx_4'\n  }]\n}, {\n  name: 'Level 5',\n  list: []\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/roshri_shadow.js?");
 
 /***/ }),
 
@@ -1541,7 +1601,19 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Small Pyramid',\n    size: 1.5,\n    folder: 'h7_5'\n  }]\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Master Assassin',\n    size: 1.01,\n    folder: 'h7_9'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Great Pyramid',\n    size: 2.6,\n    folder: 'h7_2'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/sahl_dynasty.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: [{\n    name: 'Small Pyramid',\n    size: 1.5,\n    folder: 'h7_5'\n  }, {\n    name: 'Master Assassin',\n    size: 1.01,\n    folder: 'h7_9'\n  }]\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: [{\n    name: 'Assassin Raider',\n    size: 1.4,\n    folder: 'h7_14'\n  }]\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Great Pyramid',\n    size: 2.6,\n    folder: 'h7_2'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/sahl_dynasty.js?");
+
+/***/ }),
+
+/***/ "./src/containers/army/shadowlimbs_forest.js":
+/*!***************************************************!*\
+  !*** ./src/containers/army/shadowlimbs_forest.js ***!
+  \***************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: []\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Tree God',\n    size: 2.02,\n    folder: 'tw2_2'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/shadowlimbs_forest.js?");
 
 /***/ }),
 
@@ -1601,7 +1673,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: []\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Sylvan Ballista',\n    size: 1.4,\n    folder: 'h7_7'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Ancient Treant',\n    size: 2.2,\n    folder: 'h7_10'\n  }, {\n    name: 'Mother Treant',\n    size: 2.2,\n    folder: 'h7_3'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/yiddenda_realm.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ([{\n  name: 'Level 1',\n  list: [{\n    name: 'Blade Dancer',\n    size: 1.3,\n    folder: 'h7_11'\n  }]\n}, {\n  name: 'Level 2',\n  list: []\n}, {\n  name: 'Level 3',\n  list: [{\n    name: 'Sylvan Ballista',\n    size: 1.4,\n    folder: 'h7_7'\n  }]\n}, {\n  name: 'Level 4',\n  list: []\n}, {\n  name: 'Level 5',\n  list: [{\n    name: 'Ancient Treant',\n    size: 2.2,\n    folder: 'h7_10'\n  }, {\n    name: 'Mother Treant',\n    size: 2.2,\n    folder: 'h7_3'\n  }]\n}]);\n\n//# sourceURL=webpack:///./src/containers/army/yiddenda_realm.js?");
 
 /***/ }),
 

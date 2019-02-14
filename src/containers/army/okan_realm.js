@@ -2,11 +2,7 @@ export default [
     {
         name: 'Level 1',
         list: [
-            {
-                name: 'Spitting Spider',
-                size: 0.96,
-                folder: 'h7_6'
-            }
+            
         ]
     },
     {
@@ -25,20 +21,16 @@ export default [
         name: 'Level 4',
         list: [
             {
-                name: 'Archlich',
-                size: 1.15,
-                folder: 'h7_13'
+                name: 'Okan Champion',
+                size: 1.23,
+                folder: 'tw2_1'
             }
         ]
     },
     {
         name: 'Level 5',
         list: [
-            {
-                name: 'Namtaru Queen',
-                size: 1.6,
-                folder: 'h7_4'
-            }
+            
         ]
     }
 ]

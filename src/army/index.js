@@ -16,6 +16,12 @@ import toufiq_niqaba from "../containers/army/toufiq_niqaba";
 import mary_kingdom from "../containers/army/mary_kingdom";
 import nussorlig_realm from "../containers/army/nussorlig_realm";
 import julakgh_kingdom from "../containers/army/julakgh_kingdom";
+import elyrth_shadow from "../containers/army/elyrth_shadow";
+import dular_tribe from "../containers/army/dular_tribe";
+import idu_clan from "../containers/army/idu_clan";
+import okan_realm from "../containers/army/okan_realm";
+import shadowlimbs_forest from "../containers/army/shadowlimbs_forest";
+import lale_realm from "../containers/army/lale_realm";
 
 const army = {
     harald_rike,
@@ -35,7 +41,13 @@ const army = {
     toufiq_niqaba,
     mary_kingdom,
     nussorlig_realm,
-    julakgh_kingdom
+    julakgh_kingdom,
+    elyrth_shadow,
+    dular_tribe,
+    idu_clan,
+    okan_realm,
+    shadowlimbs_forest,
+    lale_realm
 }
 
 export default army;
