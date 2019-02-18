@@ -24,7 +24,11 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Dwarf Slayer',
+                size: 1,
+                folder: 'aom_9'
+            }
         ]
     },
     {

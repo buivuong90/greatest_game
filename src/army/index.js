@@ -22,6 +22,8 @@ import idu_clan from "../containers/army/idu_clan";
 import okan_realm from "../containers/army/okan_realm";
 import shadowlimbs_forest from "../containers/army/shadowlimbs_forest";
 import lale_realm from "../containers/army/lale_realm";
+import primordial_concord from "../containers/army/primordial_concord";
+import krolaer_crypt from "../containers/army/krolaer_crypt";
 
 const army = {
     harald_rike,
@@ -47,7 +49,9 @@ const army = {
     idu_clan,
     okan_realm,
     shadowlimbs_forest,
-    lale_realm
+    lale_realm,
+    primordial_concord,
+    krolaer_crypt
 }
 
 export default army;

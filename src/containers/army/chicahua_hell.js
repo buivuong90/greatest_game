@@ -6,13 +6,27 @@ export default [
                 name: 'Skull Soldier',
                 size: 1.12,
                 folder: 'aom_1'
+            },
+            {
+                name: 'Skull Priest',
+                size: 1.12,
+                folder: 'aom_8'
             }
         ]
     },
     {
         name: 'Level 2',
         list: [
-            
+            {
+                name: 'Skull Guardian',
+                size: 1.27,
+                folder: 'aom_6'
+            },
+            {
+                name: 'Skull Elite Guardian',
+                size: 1.27,
+                folder: 'aom_10'
+            }
         ]
     },
     {
