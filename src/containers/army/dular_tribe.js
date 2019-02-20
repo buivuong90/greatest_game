@@ -30,7 +30,16 @@ export default [
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Cyclops',
+                size: 1.7,
+                folder: 'momx_12'
+            },
+            {
+                name: 'Catapult',
+                size: 1.7,
+                folder: 'momx_16'
+            }
         ]
     }
 ]

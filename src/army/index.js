@@ -24,6 +24,8 @@ import shadowlimbs_forest from "../containers/army/shadowlimbs_forest";
 import lale_realm from "../containers/army/lale_realm";
 import primordial_concord from "../containers/army/primordial_concord";
 import krolaer_crypt from "../containers/army/krolaer_crypt";
+import paladin_armada from "../containers/army/paladin_armada";
+import soldish_tribe from "../containers/army/soldish_tribe";
 
 const army = {
     harald_rike,
@@ -51,7 +53,9 @@ const army = {
     shadowlimbs_forest,
     lale_realm,
     primordial_concord,
-    krolaer_crypt
+    krolaer_crypt,
+    paladin_armada,
+    soldish_tribe
 }
 
 export default army;

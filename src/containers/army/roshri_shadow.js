@@ -3,6 +3,11 @@ export default [
         name: 'Level 1',
         list: [
             {
+                name: 'Chakram Dancer',
+                size: 1.04,
+                folder: 'momx_11'
+            },
+            {
                 name: 'Shadow Assassin',
                 size: 1.15,
                 folder: 'momx_3'
@@ -18,7 +23,11 @@ export default [
     {
         name: 'Level 3',
         list: [
-            
+            {
+                name: 'Dark Prophet',
+                size: 1.1,
+                folder: 'momx_14'
+            }
         ]
     },
     {

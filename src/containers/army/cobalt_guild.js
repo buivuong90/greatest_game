@@ -26,6 +26,11 @@ export default [
                 name: 'Black Guard Elite',
                 size: 1.02,
                 folder: 'momx_6'
+            },
+            {
+                name: 'Dark Wizard',
+                size: 1,
+                folder: 'momx_15'
             }
         ]
     },

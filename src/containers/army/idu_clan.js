@@ -6,6 +6,11 @@ export default [
                 name: 'Pearl Priestess',
                 size: 1.13,
                 folder: 'momx_8'
+            },
+            {
+                name: 'Peart Maiden',
+                size: 1.16,
+                folder: 'momx_13'
             }
         ]
     },

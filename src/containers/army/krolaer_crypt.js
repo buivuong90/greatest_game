@@ -31,6 +31,21 @@ export default [
                 name: 'Overseer',
                 size: 1.3,
                 folder: 'wmt_3'
+            },
+            {
+                name: 'Death Ripper',
+                size: 1.5,
+                folder: 'wmt_10'
+            },
+            {
+                name: 'Defiler',
+                size: 1.5,
+                folder: 'wmt_11'
+            },
+            {
+                name: 'Night Wretch',
+                size: 1.5,
+                folder: 'wmt_12'
             }
         ]
     },
@@ -56,6 +71,11 @@ export default [
                 name: 'Archlich',
                 size: 1.4,
                 folder: 'wmt_6'
+            },
+            {
+                name: 'Reaper',
+                size: 1.65,
+                folder: 'wmt_13'
             }
         ]
     },
@@ -66,6 +86,11 @@ export default [
                 name: 'Extreme Archlich',
                 size: 2.1,
                 folder: 'wmt_8'
+            },
+            {
+                name: 'Slayer',
+                size: 1.7,
+                folder: 'wmt_14'
             }
         ]
     }
