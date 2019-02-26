@@ -3,9 +3,19 @@ export default [
         name: 'Level 1',
         list: [
             {
+                name: 'Bandit Thief',
+                size: 1,
+                folder: 'momx_19'
+            },
+            {
                 name: 'Master Thief',
                 size: 1,
                 folder: 'momx_5'
+            },
+            {
+                name: 'Wolf Hound Elite',
+                size: 0.9,
+                folder: 'momx_24'
             }
         ]
     },
@@ -16,6 +26,11 @@ export default [
                 name: 'Black Guard',
                 size: 1.02,
                 folder: 'momx_9'
+            },
+            {
+                name: 'Rogue Wizard',
+                size: '1.01',
+                folder: 'momx_17'
             }
         ]
     },
@@ -47,7 +62,11 @@ export default [
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Paokai',
+                size: 1.4,
+                folder: 'momx_22'
+            }
         ]
     }
 ]

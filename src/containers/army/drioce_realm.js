@@ -2,11 +2,7 @@ export default [
     {
         name: 'Level 1',
         list: [
-            {
-                name: 'Ancient Rock',
-                size: 1.9,
-                folder: 'h7_1'
-            }
+            
         ]
     },
     {
@@ -18,7 +14,11 @@ export default [
     {
         name: 'Level 3',
         list: [
-            
+            {
+                name: 'Veteran Maiden',
+                size: 1.08,
+                folder: 'smi_5'
+            }
         ]
     },
     {
@@ -30,11 +30,7 @@ export default [
     {
         name: 'Level 5',
         list: [
-            {
-                name: 'Titan Of Time',
-                size: 1.8,
-                folder: 'smi_9'
-            }
+            
         ]
     }
 ]

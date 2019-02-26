@@ -26,6 +26,15 @@ import primordial_concord from "../containers/army/primordial_concord";
 import krolaer_crypt from "../containers/army/krolaer_crypt";
 import paladin_armada from "../containers/army/paladin_armada";
 import soldish_tribe from "../containers/army/soldish_tribe";
+import felose_arcane from "../containers/army/felose_arcane";
+import antiochus_empire from "../containers/army/antiochus_empire";
+import gregvolk_chaos from "../containers/army/gregvolk_chaos";
+import lathagain_impire from "../containers/army/lathagain_impire";
+import drioce_realm from "../containers/army/drioce_realm";
+import uvniah_shadow from "../containers/army/uvniah_shadow";
+import xuelong_heaven from "../containers/army/xuelong_heaven";
+import zhihao_tiantang from "../containers/army/zhihao_tiantang";
+import haahmiah_heaven from "../containers/army/haahmiah_heaven";
 
 const army = {
     harald_rike,
@@ -55,7 +64,16 @@ const army = {
     primordial_concord,
     krolaer_crypt,
     paladin_armada,
-    soldish_tribe
+    soldish_tribe,
+    felose_arcane,
+    antiochus_empire,
+    gregvolk_chaos,
+    lathagain_impire,
+    drioce_realm,
+    uvniah_shadow,
+    xuelong_heaven,
+    zhihao_tiantang,
+    haahmiah_heaven
 }
 
 export default army;

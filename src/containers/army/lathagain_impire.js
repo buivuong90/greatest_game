@@ -2,11 +2,7 @@ export default [
     {
         name: 'Level 1',
         list: [
-            {
-                name: 'Ancient Rock',
-                size: 1.9,
-                folder: 'h7_1'
-            }
+            
         ]
     },
     {
@@ -18,23 +14,27 @@ export default [
     {
         name: 'Level 3',
         list: [
-            
+            {
+                name: 'Bear Huntress',
+                size: 1.02,
+                folder: 'smi_4'
+            }
         ]
     },
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Spear Queen',
+                size: 1.07,
+                folder: 'smi_8'
+            }
         ]
     },
     {
         name: 'Level 5',
         list: [
-            {
-                name: 'Titan Of Time',
-                size: 1.8,
-                folder: 'smi_9'
-            }
+            
         ]
     }
 ]

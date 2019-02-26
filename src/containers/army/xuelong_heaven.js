@@ -3,19 +3,19 @@ export default [
         name: 'Level 1',
         list: [
             {
-                name: 'Shark Warrior',
-                size: 1.05,
-                folder: 'momx_23'
+                name: 'Eagle',
+                size: 0.9,
+                folder: 'smi_14'
             },
             {
-                name: 'Pearl Priestess',
-                size: 1.13,
-                folder: 'momx_8'
+                name: 'Battle Ox',
+                size: 1.03,
+                folder: 'smi_15'
             },
             {
-                name: 'Peart Maiden',
-                size: 1.16,
-                folder: 'momx_13'
+                name: 'Tiger',
+                size: 0.95,
+                folder: 'smi_16'
             }
         ]
     },
@@ -29,9 +29,9 @@ export default [
         name: 'Level 3',
         list: [
             {
-                name: 'Bonsai Knight',
-                size: 1.01,
-                folder: 'momx_25'
+                name: 'Qilin',
+                size: 2.5,
+                folder: 'smi_10'
             }
         ]
     },
@@ -39,9 +39,9 @@ export default [
         name: 'Level 4',
         list: [
             {
-                name: 'Kensei',
-                size: 1.43,
-                folder: 'momx_21'
+                name: 'Monkey King',
+                size: 1.05,
+                folder: 'smi_13'
             }
         ]
     },

@@ -2,17 +2,17 @@ export default [
     {
         name: 'Level 1',
         list: [
-            {
-                name: 'Ancient Rock',
-                size: 1.9,
-                folder: 'h7_1'
-            }
+            
         ]
     },
     {
         name: 'Level 2',
         list: [
-            
+            {
+                name: 'Terra Captain',
+                size: 1.03,
+                folder: 'smi_12'
+            }
         ]
     },
     {
@@ -31,9 +31,9 @@ export default [
         name: 'Level 5',
         list: [
             {
-                name: 'Titan Of Time',
-                size: 1.8,
-                folder: 'smi_9'
+                name: 'Earth Mother',
+                size: 1.7,
+                folder: 'smi_11'
             }
         ]
     }

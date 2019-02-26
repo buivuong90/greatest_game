@@ -3,16 +3,20 @@ export default [
         name: 'Level 1',
         list: [
             {
-                name: 'Ancient Rock',
-                size: 1.9,
-                folder: 'h7_1'
+                name: 'Dragon Killer',
+                size: 1.1,
+                folder: 'smi_7'
             }
         ]
     },
     {
         name: 'Level 2',
         list: [
-            
+            {
+                name: 'Dragon Warrior',
+                size: 1.15,
+                folder: 'smi_3'
+            }
         ]
     },
     {
@@ -30,11 +34,7 @@ export default [
     {
         name: 'Level 5',
         list: [
-            {
-                name: 'Titan Of Time',
-                size: 1.8,
-                folder: 'smi_9'
-            }
+            
         ]
     }
 ]

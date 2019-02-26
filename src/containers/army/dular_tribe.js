@@ -8,7 +8,11 @@ export default [
     {
         name: 'Level 2',
         list: [
-            
+            {
+                name: 'Sky Shaman',
+                size: 1.11,
+                folder: 'momx_20'
+            }
         ]
     },
     {
@@ -18,6 +22,11 @@ export default [
                 name: 'Firebird Warrior',
                 size: 1.08,
                 folder: 'momx_7'
+            },
+            {
+                name: 'Strong Man',
+                size: 1.1,
+                folder: 'momx_18'
             }
         ]
     },

@@ -2,26 +2,31 @@ export default [
     {
         name: 'Level 1',
         list: [
-            {
-                name: 'Assassin',
-                size: 1.15,
-                folder: 'h7_12'
-            }
+            
         ]
     },
     {
         name: 'Level 2',
         list: [
-            
+            {
+                name: 'Abbot',
+                size: 1.17,
+                folder: 'h7_19'
+            }
         ]
     },
     {
         name: 'Level 3',
         list: [
             {
-                name: 'Souless',
-                size: 1.2,
-                folder: 'h7_22'
+                name: 'Watcher',
+                size: 0.96,
+                folder: 'h7_23'
+            },
+            {
+                name: 'Warden',
+                size: 0.99,
+                folder: 'h7_18'
             }
         ]
     },
@@ -34,11 +39,7 @@ export default [
     {
         name: 'Level 5',
         list: [
-            {
-                name: 'Shadow Dragon',
-                size: 2,
-                folder: 'h7_17'
-            }
+            
         ]
     }
 ]
