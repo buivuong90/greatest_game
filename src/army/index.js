@@ -19,13 +19,9 @@ import julakgh_kingdom from "../containers/army/julakgh_kingdom";
 import elyrth_shadow from "../containers/army/elyrth_shadow";
 import dular_tribe from "../containers/army/dular_tribe";
 import idu_clan from "../containers/army/idu_clan";
-import okan_realm from "../containers/army/okan_realm";
-import shadowlimbs_forest from "../containers/army/shadowlimbs_forest";
-import lale_realm from "../containers/army/lale_realm";
 import primordial_concord from "../containers/army/primordial_concord";
 import krolaer_crypt from "../containers/army/krolaer_crypt";
 import paladin_armada from "../containers/army/paladin_armada";
-import soldish_tribe from "../containers/army/soldish_tribe";
 import felose_arcane from "../containers/army/felose_arcane";
 import antiochus_empire from "../containers/army/antiochus_empire";
 import gregvolk_chaos from "../containers/army/gregvolk_chaos";
@@ -35,6 +31,10 @@ import uvniah_shadow from "../containers/army/uvniah_shadow";
 import xuelong_heaven from "../containers/army/xuelong_heaven";
 import zhihao_tiantang from "../containers/army/zhihao_tiantang";
 import haahmiah_heaven from "../containers/army/haahmiah_heaven";
+import kusari_guild from "../containers/army/kusari_guild";
+import outlandish_land from "../containers/army/outlandish_land";
+import molon_great_empire from "../containers/army/molon_great_empire";
+import severinus_great_empire from "../containers/army/severinus_great_empire";
 
 const army = {
     harald_rike,
@@ -58,13 +58,9 @@ const army = {
     elyrth_shadow,
     dular_tribe,
     idu_clan,
-    okan_realm,
-    shadowlimbs_forest,
-    lale_realm,
     primordial_concord,
     krolaer_crypt,
     paladin_armada,
-    soldish_tribe,
     felose_arcane,
     antiochus_empire,
     gregvolk_chaos,
@@ -73,7 +69,11 @@ const army = {
     uvniah_shadow,
     xuelong_heaven,
     zhihao_tiantang,
-    haahmiah_heaven
+    haahmiah_heaven,
+    kusari_guild,
+    outlandish_land,
+    molon_great_empire,
+    severinus_great_empire
 }
 
 export default army;
