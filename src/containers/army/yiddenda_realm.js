@@ -4,7 +4,7 @@ export default [
         list: [
             {
                 name: 'Blade Dancer',
-                size: 1.3,
+                size: 1.33,
                 folder: 'h7_11'
             }
         ]

@@ -6,6 +6,16 @@ export default [
                 name: 'Skeleton',
                 size: 0.95,
                 folder: 'kbn_7'
+            },
+            {
+                name: 'Zombie',
+                size: 0.96,
+                folder: 'kbn_19'
+            },
+            {
+                name: 'Veteran Zombie',
+                size: 0.96,
+                folder: 'kbn_17'
             }
         ]
     },

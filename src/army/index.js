@@ -35,6 +35,21 @@ import kusari_guild from "../containers/army/kusari_guild";
 import outlandish_land from "../containers/army/outlandish_land";
 import molon_great_empire from "../containers/army/molon_great_empire";
 import severinus_great_empire from "../containers/army/severinus_great_empire";
+import xamin_crypt from "../containers/army/xamin_crypt";
+import chasseur_castle from "../containers/army/chasseur_castle";
+import emmett_wildland from "../containers/army/emmett_wildland";
+import deathbloom_crypt from "../containers/army/deathbloom_crypt";
+import ogorath_hell from "../containers/army/ogorath_hell";
+import usiel_machina from "../containers/army/usiel_machina";
+import bamus_chaos from "../containers/army/bamus_chaos";
+import trureel_crypt from "../containers/army/trureel_crypt";
+import nudma_sea from "../containers/army/nudma_sea";
+import troccus_forest from "../containers/army/troccus_forest";
+import hutch_empire from "../containers/army/hutch_empire";
+import ozzy_land from "../containers/army/ozzy_land";
+import slaif_magic from "../containers/army/slaif_magic";
+import krutzlech_pyramid from "../containers/army/krutzlech_pyramid";
+import magnus_shadow from "../containers/army/magnus_shadow";
 
 const army = {
     harald_rike,
@@ -73,7 +88,22 @@ const army = {
     kusari_guild,
     outlandish_land,
     molon_great_empire,
-    severinus_great_empire
+    severinus_great_empire,
+    xamin_crypt,
+    chasseur_castle,
+    emmett_wildland,
+    deathbloom_crypt,
+    ogorath_hell,
+    usiel_machina,
+    bamus_chaos,
+    trureel_crypt,
+    nudma_sea,
+    troccus_forest,
+    hutch_empire,
+    ozzy_land,
+    slaif_magic,
+    krutzlech_pyramid,
+    magnus_shadow
 }
 
 export default army;

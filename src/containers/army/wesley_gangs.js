@@ -8,17 +8,16 @@ export default [
     {
         name: 'Level 2',
         list: [
-            
+            {
+                name: 'Elite Merc',
+                size: 1,
+                folder: 'kbn_18'
+            }
         ]
     },
     {
         name: 'Level 3',
         list: [
-            {
-                name: 'Eye Beholder',
-                size: 1.24,
-                folder: 'kbn_10'
-            },
             {
                 name: 'Dirty Captain',
                 size: 1,

@@ -30,7 +30,11 @@ export default [
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Zeppelin',
+                size: 2,
+                folder: 'kbn_21'
+            }
         ]
     }
 ]

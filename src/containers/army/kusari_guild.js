@@ -26,6 +26,11 @@ export default [
                 name: 'Great Sister',
                 size: 1.04,
                 folder: 'hof1_3'
+            },
+            {
+                name: 'Song Mage',
+                size: 1.05,
+                folder: 'hof1_16'
             }
         ]
     },
