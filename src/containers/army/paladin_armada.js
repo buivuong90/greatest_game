@@ -3,6 +3,11 @@ export default [
         name: 'Level 1',
         list: [
             {
+                name: 'Trencher',
+                size: 1.01,
+                folder: 'wmt_21'
+            },
+            {
                 name: 'Judge',
                 size: 1,
                 folder: 'wmt_16'

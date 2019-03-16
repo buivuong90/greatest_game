@@ -3,6 +3,11 @@ export default [
         name: 'Level 1',
         list: [
             {
+                name: 'Sea Monster',
+                size: 1,
+                folder: 'h7_35'
+            },
+            {
                 name: 'Assassin',
                 size: 1.15,
                 folder: 'h7_12'

@@ -28,6 +28,11 @@ export default [
         name: 'Level 3',
         list: [
             {
+                name: 'Vampire',
+                size: 1.05,
+                folder: 'h7_32'
+            },
+            {
                 name: 'Armoured Daughter',
                 size: 1.03,
                 folder: 'h7_21'
@@ -41,6 +46,11 @@ export default [
                 name: 'Archlich',
                 size: 1.15,
                 folder: 'h7_13'
+            },
+            {
+                name: 'Vampire Knight',
+                size: 1.05,
+                folder: 'h7_30'
             }
         ]
     },

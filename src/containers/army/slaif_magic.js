@@ -13,9 +13,19 @@ export default [
                 folder: 'pcq_9'
             },
             {
+                name: 'Water Elemental',
+                size: 1,
+                folder: 'pcq_16'
+            },
+            {
                 name: 'Air Elemental',
                 size: 1,
                 folder: 'pcq_8'
+            },
+            {
+                name: 'Fire Elemental',
+                size: 1,
+                folder: 'pcq_10'
             }
         ]
     },
@@ -28,7 +38,11 @@ export default [
     {
         name: 'Level 3',
         list: [
-            
+            {
+                name: 'Undead Mage',
+                size: 1,
+                folder: 'pcq_18'
+            }
         ]
     },
     {

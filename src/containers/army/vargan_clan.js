@@ -37,7 +37,11 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Venom Wyvern',
+                size: 2.7,
+                folder: 'h7_28'
+            }
         ]
     },
     {

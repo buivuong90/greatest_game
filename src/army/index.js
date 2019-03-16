@@ -50,6 +50,13 @@ import ozzy_land from "../containers/army/ozzy_land";
 import slaif_magic from "../containers/army/slaif_magic";
 import krutzlech_pyramid from "../containers/army/krutzlech_pyramid";
 import magnus_shadow from "../containers/army/magnus_shadow";
+import spike_empire from "../containers/army/spike_empire";
+import caihui_dynasty from "../containers/army/caihui_dynasty";
+import dingwen_dynasty from "../containers/army/dingwen_dynasty";
+import shuren_country from "../containers/army/shuren_country";
+import liujian_dynasty from "../containers/army/liujian_dynasty";
+import ciargidh_crypt from "../containers/army/ciargidh_crypt";
+import ashmight_fire from "../containers/army/ashmight_fire";
 
 const army = {
     harald_rike,
@@ -103,7 +110,14 @@ const army = {
     ozzy_land,
     slaif_magic,
     krutzlech_pyramid,
-    magnus_shadow
+    magnus_shadow,
+    spike_empire,
+    caihui_dynasty,
+    dingwen_dynasty,
+    shuren_country,
+    liujian_dynasty,
+    ciargidh_crypt,
+    ashmight_fire
 }
 
 export default army;

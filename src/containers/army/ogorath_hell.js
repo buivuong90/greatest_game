@@ -8,6 +8,11 @@ export default [
                 folder: 'aak_9'
             },
             {
+                name: 'Skeleton Archer',
+                size: 0.93,
+                folder: 'aak_12'
+            },
+            {
                 name: 'Skeleton Warrior',
                 size: 1.01,
                 folder: 'aak_10'
@@ -31,6 +36,11 @@ export default [
                 name: 'Crane Tank',
                 size: 1.14,
                 folder: 'aak_2'
+            },
+            {
+                name: 'Wraith Spectre',
+                size: 1.02,
+                folder: 'aak_14'
             }
         ]
     },
@@ -41,6 +51,16 @@ export default [
                 name: 'Elemental Soldier',
                 size: 1.14,
                 folder: 'aak_7'
+            },
+            {
+                name: 'Head Necromancer',
+                size: 0.95,
+                folder: 'aak_11'
+            },
+            {
+                name: 'Terror Spectre',
+                size: 1.02,
+                folder: 'aak_13'
             }
         ]
     },
