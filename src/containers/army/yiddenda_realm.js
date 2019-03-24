@@ -28,7 +28,11 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Ancient Rock',
+                size: 1.9,
+                folder: 'h7_1'
+            }
         ]
     },
     {

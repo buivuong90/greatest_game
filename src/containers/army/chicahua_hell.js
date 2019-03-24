@@ -3,6 +3,11 @@ export default [
         name: 'Level 1',
         list: [
             {
+                name: 'Crab',
+                size: 0.95,
+                folder: 'aom_15'
+            },
+            {
                 name: 'Skull Soldier',
                 size: 1.12,
                 folder: 'aom_1'

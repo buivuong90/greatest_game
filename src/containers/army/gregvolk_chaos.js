@@ -22,7 +22,11 @@ export default [
     {
         name: 'Level 3',
         list: [
-            
+            {
+                name: 'Magma Killer',
+                size: 1.12,
+                folder: 'smi_20'
+            }
         ]
     },
     {

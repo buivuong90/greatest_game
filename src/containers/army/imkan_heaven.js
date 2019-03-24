@@ -2,7 +2,11 @@ export default [
     {
         name: 'Level 1',
         list: [
-            
+            {
+                name: 'Elite Wolf',
+                size: 0.85,
+                folder: 'momx_31'
+            }
         ]
     },
     {

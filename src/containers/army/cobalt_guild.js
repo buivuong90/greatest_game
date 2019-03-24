@@ -13,6 +13,11 @@ export default [
                 folder: 'momx_5'
             },
             {
+                name: 'Wolf Hound',
+                size: 0.9,
+                folder: 'momx_29'
+            },
+            {
                 name: 'Wolf Hound Elite',
                 size: 0.9,
                 folder: 'momx_24'
@@ -46,6 +51,11 @@ export default [
                 name: 'Dark Wizard',
                 size: 1,
                 folder: 'momx_15'
+            },
+            {
+                name: 'Poison Wizard',
+                size: 1,
+                folder: 'momx_27'
             }
         ]
     },

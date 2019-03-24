@@ -34,7 +34,11 @@ export default [
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Shadow Cyclops',
+                size: 1.7,
+                folder: 'kbn_22'
+            }
         ]
     }
 ]

@@ -2,17 +2,17 @@ export default [
     {
         name: 'Level 1',
         list: [
-            {
-                name: 'Ancient Rock',
-                size: 1.9,
-                folder: 'h7_1'
-            }
+            
         ]
     },
     {
         name: 'Level 2',
         list: [
-            
+            {
+                name: 'Titan Of Fire',
+                size: 1.35,
+                folder: 'smi_17'
+            }
         ]
     },
     {

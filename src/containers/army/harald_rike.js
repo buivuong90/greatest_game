@@ -39,7 +39,11 @@ export default [
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Yeti',
+                size: 1.8,
+                folder: 'kbn_23'
+            }
         ]
     }
 ]

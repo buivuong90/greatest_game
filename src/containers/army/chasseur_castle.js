@@ -52,13 +52,26 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Chained King',
+                size: 1.2,
+                folder: 'rk_24'
+            },
+            {
+                name: 'Sword Master',
+                size: 1.12,
+                folder: 'rk_26'
+            }
         ]
     },
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Sung Knight',
+                size: 1.1,
+                folder: 'rk_25'
+            }
         ]
     }
 ]

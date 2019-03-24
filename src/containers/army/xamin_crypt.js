@@ -11,6 +11,11 @@ export default [
                 name: 'Priest Stick',
                 size: 1.01,
                 folder: 'rk_9'
+            },
+            {
+                name: 'Rebellion Spear',
+                size: 1.01,
+                folder: 'rk_27'
             }
         ]
     },
@@ -18,8 +23,18 @@ export default [
         name: 'Level 2',
         list: [
             {
+                name: 'Maid Poison',
+                size: 1.04,
+                folder: 'rk_19'
+            },
+            {
+                name: 'Maid Dagger',
+                size: 1.04,
+                folder: 'rk_18'
+            },
+            {
                 name: 'Prisoner Cross',
-                size: 1.2,
+                size: 1.25,
                 folder: 'rk_5'
             }
         ]

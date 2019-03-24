@@ -57,6 +57,14 @@ import shuren_country from "../containers/army/shuren_country";
 import liujian_dynasty from "../containers/army/liujian_dynasty";
 import ciargidh_crypt from "../containers/army/ciargidh_crypt";
 import ashmight_fire from "../containers/army/ashmight_fire";
+import irzhak_skull from "../containers/army/irzhak_skull";
+import tore_crypt from "../containers/army/tore_crypt";
+import bukin_spaceship from "../containers/army/bukin_spaceship";
+import mourncaller_chaos from "../containers/army/mourncaller_chaos";
+import ziling_shou from "../containers/army/ziling_shou";
+import xbalanque_tribe from "../containers/army/xbalanque_tribe";
+import orestes_state from "../containers/army/orestes_state";
+import khamavant_raajy from "../containers/army/khamavant_raajy";
 
 const army = {
     harald_rike,
@@ -117,7 +125,15 @@ const army = {
     shuren_country,
     liujian_dynasty,
     ciargidh_crypt,
-    ashmight_fire
+    ashmight_fire,
+    irzhak_skull,
+    tore_crypt,
+    bukin_spaceship,
+    mourncaller_chaos,
+    ziling_shou,
+    xbalanque_tribe,
+    orestes_state,
+    khamavant_raajy
 }
 
 export default army;

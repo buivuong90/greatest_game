@@ -3,6 +3,11 @@ export default [
         name: 'Level 1',
         list: [
             {
+                name: 'Abomination Hand',
+                size: 0.93,
+                folder: 'tro_12'
+            },
+            {
                 name: 'Abomination Spirit',
                 size: 0.95,
                 folder: 'tro_10'

@@ -37,7 +37,16 @@ export default [
     {
         name: 'Level 3',
         list: [
-            
+            {
+                name: 'Big Hammer',
+                size: 1.15,
+                folder: 'rk_21'
+            },
+            {
+                name: 'Big Mace',
+                size: 1.15,
+                folder: 'rk_23'
+            }
         ]
     },
     {
@@ -49,7 +58,16 @@ export default [
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Great Shaman',
+                size: 1.15,
+                folder: 'rk_20'
+            },
+            {
+                name: 'Champion',
+                size: 1.15,
+                folder: 'rk_22'
+            }
         ]
     }
 ]

@@ -9,6 +9,16 @@ export default [
         name: 'Level 2',
         list: [
             {
+                name: 'Forest Shaman',
+                size: 1.11,
+                folder: 'momx_28'
+            },
+            {
+                name: 'Earth Shaman',
+                size: 1.11,
+                folder: 'momx_26'
+            },
+            {
                 name: 'Sky Shaman',
                 size: 1.11,
                 folder: 'momx_20'

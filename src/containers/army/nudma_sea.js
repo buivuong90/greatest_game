@@ -28,6 +28,11 @@ export default [
                 name: 'Nudma Leader',
                 size: 1.5,
                 folder: 'tro_9'
+            },
+            {
+                name: 'Nudma Face',
+                size: 1.5,
+                folder: 'tro_13'
             }
         ]
     },
