@@ -3,6 +3,11 @@ export default [
         name: 'Level 1',
         list: [
             {
+                name: 'Bat',
+                size: 0.82,
+                folder: 'kbn_26'
+            },
+            {
                 name: 'Skeleton',
                 size: 0.95,
                 folder: 'kbn_7'

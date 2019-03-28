@@ -3,9 +3,29 @@ export default [
         name: 'Level 1',
         list: [
             {
+                name: 'Ratman Trainee',
+                size: 0.85,
+                folder: 'hof1_26'
+            },
+            {
+                name: 'Ratman Ranged',
+                size: 0.91,
+                folder: 'hof1_29'
+            },
+            {
                 name: 'Lizardman Trainee',
                 size: 0.9,
                 folder: 'hof1_15'
+            },
+            {
+                name: 'Ratman Warrior',
+                size: 0.86,
+                folder: 'hof1_22'
+            },
+            {
+                name: 'Ratman Shaman',
+                size: 0.84,
+                folder: 'hof1_28'
             }
         ]
     },
@@ -21,6 +41,11 @@ export default [
                 name: 'Lizardman Malee',
                 size: 1.3,
                 folder: 'hof1_13'
+            },
+            {
+                name: 'Ratman Armoured',
+                size: 0.9,
+                folder: 'hof1_24'
             }
         ]
     },
@@ -36,6 +61,11 @@ export default [
                 name: 'Hell Rat',
                 size: 0.91,
                 folder: 'hof1_8'
+            },
+            {
+                name: 'Minotaur Mage',
+                size: 1.45,
+                folder: 'hof1_18'
             }
         ]
     },

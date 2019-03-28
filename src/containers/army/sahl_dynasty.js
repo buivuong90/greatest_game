@@ -56,6 +56,11 @@ export default [
                 name: 'Master Djinn',
                 size: 1.2,
                 folder: 'h7_34'
+            },
+            {
+                name: 'Efreeti',
+                size: 1.2,
+                folder: 'h7_33'
             }
         ]
     },
@@ -63,14 +68,19 @@ export default [
         name: 'Level 5',
         list: [
             {
-                name: 'Efreeti',
-                size: 1.2,
-                folder: 'h7_33'
-            },
-            {
                 name: 'Great Pyramid',
                 size: 2.6,
                 folder: 'h7_2'
+            },
+            {
+                name: 'Arcane Bird',
+                size: 2,
+                folder: 'h7_37'
+            },
+            {
+                name: 'Titan',
+                size: 2,
+                folder: 'h7_42'
             }
         ]
     }

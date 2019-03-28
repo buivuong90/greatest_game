@@ -17,7 +17,11 @@ export default [
     {
         name: 'Level 2',
         list: [
-            
+            {
+                name: 'Tracker',
+                size: 1.1,
+                folder: 'h7_40'
+            }
         ]
     },
     {
@@ -43,6 +47,11 @@ export default [
                 name: 'Shadow Dragon',
                 size: 2,
                 folder: 'h7_17'
+            },
+            {
+                name: 'Black Dragon',
+                size: 2.4,
+                folder: 'h7_41'
             }
         ]
     }

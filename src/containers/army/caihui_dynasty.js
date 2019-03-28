@@ -18,9 +18,14 @@ export default [
                 folder: 'stct_9'
             },
             {
-                name: 'Minion Guard',
+                name: 'Minion North Guard',
                 size: 1.06,
                 folder: 'stct_2'
+            },
+            {
+                name: 'Minion South Guard',
+                size: 1.07,
+                folder: 'stct_12'
             },
             {
                 name: 'Minion Warrior',

@@ -33,12 +33,9 @@ import zhihao_tiantang from "../containers/army/zhihao_tiantang";
 import haahmiah_heaven from "../containers/army/haahmiah_heaven";
 import kusari_guild from "../containers/army/kusari_guild";
 import outlandish_land from "../containers/army/outlandish_land";
-import molon_great_empire from "../containers/army/molon_great_empire";
-import severinus_great_empire from "../containers/army/severinus_great_empire";
 import xamin_crypt from "../containers/army/xamin_crypt";
 import chasseur_castle from "../containers/army/chasseur_castle";
 import emmett_wildland from "../containers/army/emmett_wildland";
-import deathbloom_crypt from "../containers/army/deathbloom_crypt";
 import ogorath_hell from "../containers/army/ogorath_hell";
 import usiel_machina from "../containers/army/usiel_machina";
 import bamus_chaos from "../containers/army/bamus_chaos";
@@ -65,6 +62,12 @@ import ziling_shou from "../containers/army/ziling_shou";
 import xbalanque_tribe from "../containers/army/xbalanque_tribe";
 import orestes_state from "../containers/army/orestes_state";
 import khamavant_raajy from "../containers/army/khamavant_raajy";
+import uchenac_crypt from "../containers/army/uchenac_crypt";
+import dipany_school from "../containers/army/dipany_school";
+import perigors_church from "../containers/army/perigors_church";
+import zechchenoa_clan from "../containers/army/zechchenoa_clan";
+import nebula_system from "../containers/army/nebula_system";
+import olympus_summit from "../containers/army/olympus_summit";
 
 const army = {
     harald_rike,
@@ -102,12 +105,9 @@ const army = {
     haahmiah_heaven,
     kusari_guild,
     outlandish_land,
-    molon_great_empire,
-    severinus_great_empire,
     xamin_crypt,
     chasseur_castle,
     emmett_wildland,
-    deathbloom_crypt,
     ogorath_hell,
     usiel_machina,
     bamus_chaos,
@@ -133,7 +133,13 @@ const army = {
     ziling_shou,
     xbalanque_tribe,
     orestes_state,
-    khamavant_raajy
+    khamavant_raajy,
+    uchenac_crypt,
+    dipany_school,
+    perigors_church,
+    zechchenoa_clan,
+    nebula_system,
+    olympus_summit
 }
 
 export default army;

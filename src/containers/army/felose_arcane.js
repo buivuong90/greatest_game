@@ -2,7 +2,11 @@ export default [
     {
         name: 'Level 1',
         list: [
-            
+            {
+                name: 'The Clown',
+                size: 1.03,
+                folder: 'smi_23'
+            }
         ]
     },
     {
@@ -12,6 +16,11 @@ export default [
                 name: 'The Witch',
                 size: 1.07,
                 folder: 'smi_1'
+            },
+            {
+                name: 'Two Face',
+                size: 1.03,
+                folder: 'smi_27'
             }
         ]
     },

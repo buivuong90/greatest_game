@@ -22,6 +22,11 @@ export default [
                 name: 'Master Assassin',
                 size: 1.05,
                 folder: 'kbn_20'
+            },
+            {
+                name: 'Black Beholder',
+                size: 1.24,
+                folder: 'kbn_27'
             }
         ]
     },

@@ -6,6 +6,11 @@ export default [
                 name: 'Dwarf Healer',
                 size: 0.8,
                 folder: 'kbn_11'
+            },
+            {
+                name: 'Dwarf Pirate',
+                size: 0.88,
+                folder: 'kbn_24'
             }
         ]
     },

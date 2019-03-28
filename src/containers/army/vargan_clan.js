@@ -48,6 +48,11 @@ export default [
         name: 'Level 5',
         list: [
             {
+                name: 'Behemoth',
+                size: 1.85,
+                folder: 'h7_39'
+            },
+            {
                 name: 'Ancient Behemoth',
                 size: 2,
                 folder: 'h7_8'

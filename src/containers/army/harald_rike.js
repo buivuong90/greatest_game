@@ -17,6 +17,11 @@ export default [
                 name: 'Veteran Sword',
                 size: 1.01,
                 folder: 'kbn_4'
+            },
+            {
+                name: 'Big Axe',
+                size: 1.08,
+                folder: 'kbn_25'
             }
         ]
     },

@@ -8,7 +8,11 @@ export default [
     {
         name: 'Level 2',
         list: [
-            
+            {
+                name: 'Golden Ranger',
+                size: 1.01,
+                folder: 'stct_13'
+            }
         ]
     },
     {
@@ -16,7 +20,7 @@ export default [
         list: [
             {
                 name: 'White Assassin',
-                size: 1.09,
+                size: 1.14,
                 folder: 'stct_8'
             }
         ]
