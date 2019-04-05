@@ -14,7 +14,11 @@ export default [
     {
         name: 'Level 3',
         list: [
-            
+            {
+                name: 'Beeman',
+                size: 1.45,
+                folder: 'smi_37'
+            }
         ]
     },
     {

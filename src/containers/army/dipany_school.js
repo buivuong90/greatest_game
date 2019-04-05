@@ -24,7 +24,11 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Grand Mage',
+                size: 1.05,
+                folder: 'saw_7'
+            }
         ]
     },
     {

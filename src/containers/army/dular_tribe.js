@@ -2,12 +2,31 @@ export default [
     {
         name: 'Level 1',
         list: [
-            
+            {
+                name: 'Panther',
+                size: 1,
+                folder: 'momx_39'
+            },
+            {
+                name: 'Armoured Panther',
+                size: 1,
+                folder: 'momx_37'
+            },
+            {
+                name: 'Shamaness',
+                size: 1.03,
+                folder: 'momx_40'
+            }
         ]
     },
     {
         name: 'Level 2',
         list: [
+            {
+                name: 'Healer',
+                size: 0.96,
+                folder: 'momx_47'
+            },
             {
                 name: 'Forest Shaman',
                 size: 1.11,
@@ -37,13 +56,22 @@ export default [
                 name: 'Strong Man',
                 size: 1.1,
                 folder: 'momx_18'
+            },
+            {
+                name: 'Tribe Chieftain',
+                size: 1.1,
+                folder: 'momx_45'
             }
         ]
     },
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Birdman',
+                size: 1.25,
+                folder: 'momx_32'
+            }
         ]
     },
     {

@@ -17,13 +17,21 @@ export default [
     {
         name: 'Level 2',
         list: [
-            
+            {
+                name: 'Monkey Warrior',
+                size: 0.97,
+                folder: 'aom_35'
+            }
         ]
     },
     {
         name: 'Level 3',
         list: [
-            
+            {
+                name: 'Kabuki Warrior',
+                size: 1.23,
+                folder: 'aom_26'
+            }
         ]
     },
     {

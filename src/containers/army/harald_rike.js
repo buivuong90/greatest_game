@@ -38,7 +38,11 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Golden Viking',
+                size: 1.11,
+                folder: 'kbn_29'
+            }
         ]
     },
     {

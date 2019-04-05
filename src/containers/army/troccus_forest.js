@@ -2,7 +2,11 @@ export default [
     {
         name: 'Level 1',
         list: [
-            
+            {
+                name: 'Minion Treant',
+                size: 1.01,
+                folder: 'pcq_39'
+            }
         ]
     },
     {

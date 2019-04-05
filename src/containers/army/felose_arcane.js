@@ -27,7 +27,11 @@ export default [
     {
         name: 'Level 3',
         list: [
-            
+            {
+                name: 'Ice Magician',
+                size: 1.04,
+                folder: 'smi_32'
+            }
         ]
     },
     {

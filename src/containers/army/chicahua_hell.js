@@ -13,6 +13,11 @@ export default [
                 folder: 'aom_1'
             },
             {
+                name: 'Skull Axe Thrower',
+                size: 1.12,
+                folder: 'aom_21'
+            },
+            {
                 name: 'Skull Priest',
                 size: 1.12,
                 folder: 'aom_8'
@@ -22,6 +27,11 @@ export default [
     {
         name: 'Level 2',
         list: [
+            {
+                name: 'Skull Elite Spear',
+                size: 1.12,
+                folder: 'aom_23'
+            },
             {
                 name: 'Skull Guardian',
                 size: 1.27,
@@ -37,6 +47,11 @@ export default [
     {
         name: 'Level 3',
         list: [
+            {
+                name: 'Skull Master',
+                size: 1.15,
+                folder: 'aom_27'
+            },
             {
                 name: 'Skull Elite',
                 size: 1.22,

@@ -11,6 +11,16 @@ export default [
                 name: 'Soldier',
                 size: 1.07,
                 folder: 'smi_30'
+            },
+            {
+                name: 'Swordsman',
+                size: 1.18,
+                folder: 'smi_35'
+            },
+            {
+                name: 'Ranger',
+                size: 1.18,
+                folder: 'smi_36'
             }
         ]
     },
@@ -32,7 +42,11 @@ export default [
     {
         name: 'Level 3',
         list: [
-            
+            {
+                name: 'Gold Fury',
+                size: 1.9,
+                folder: 'smi_33'
+            }
         ]
     },
     {

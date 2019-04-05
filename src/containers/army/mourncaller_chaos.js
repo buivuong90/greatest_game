@@ -2,7 +2,16 @@ export default [
     {
         name: 'Level 1',
         list: [
-            
+            {
+                name: 'Monster',
+                size: 1.4,
+                folder: 'aom_29'
+            },
+            {
+                name: 'Burner',
+                size: 1.3,
+                folder: 'aom_28'
+            }
         ]
     },
     {

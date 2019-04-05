@@ -3,15 +3,30 @@ export default [
         name: 'Level 1',
         list: [
             {
-                name: 'Zombie',
+                name: 'Ghoul',
                 size: 1,
-                folder: 'pcq_11'
+                folder: 'pcq_32'
+            },
+            {
+                name: 'Heralder',
+                size: 1,
+                folder: 'pcq_30'
+            },
+            {
+                name: 'Skeleton Archer',
+                size: 1.01,
+                folder: 'pcq_24'
             }
         ]
     },
     {
         name: 'Level 2',
         list: [
+            {
+                name: 'Zombie',
+                size: 1,
+                folder: 'pcq_11'
+            },
             {
                 name: 'Wight',
                 size: 1.07,
@@ -41,6 +56,16 @@ export default [
                 name: 'Skull Catapult',
                 size: 1.5,
                 folder: 'pcq_21'
+            },
+            {
+                name: 'Phantom Warrior',
+                size: 1.05,
+                folder: 'pcq_28'
+            },
+            {
+                name: 'Death Guard',
+                size: 1.17,
+                folder: 'pcq_34'
             }
         ]
     },

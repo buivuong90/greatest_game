@@ -6,6 +6,11 @@ export default [
                 name: 'Dragon Killer',
                 size: 1.1,
                 folder: 'smi_7'
+            },
+            {
+                name: 'Mutant Two Face',
+                size: 1.08,
+                folder: 'smi_34'
             }
         ]
     },

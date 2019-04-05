@@ -23,16 +23,30 @@ export default [
         name: 'Level 2',
         list: [
             {
+                name: 'Dwarf Pirate',
+                size: 0.95,
+                folder: 'aom_19'
+            },
+            {
                 name: 'Demon Mage',
                 size: 1.33,
                 folder: 'aom_14'
+            },
+            {
+                name: 'Dwarf Mage',
+                size: 0.91,
+                folder: 'aom_20'
             }
         ]
     },
     {
         name: 'Level 3',
         list: [
-            
+            {
+                name: 'Dwarf Guard',
+                size: 1,
+                folder: 'aom_22'
+            }
         ]
     },
     {

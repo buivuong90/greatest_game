@@ -48,10 +48,6 @@ import slaif_magic from "../containers/army/slaif_magic";
 import krutzlech_pyramid from "../containers/army/krutzlech_pyramid";
 import magnus_shadow from "../containers/army/magnus_shadow";
 import spike_empire from "../containers/army/spike_empire";
-import caihui_dynasty from "../containers/army/caihui_dynasty";
-import dingwen_dynasty from "../containers/army/dingwen_dynasty";
-import shuren_country from "../containers/army/shuren_country";
-import liujian_dynasty from "../containers/army/liujian_dynasty";
 import ciargidh_crypt from "../containers/army/ciargidh_crypt";
 import ashmight_fire from "../containers/army/ashmight_fire";
 import irzhak_skull from "../containers/army/irzhak_skull";
@@ -68,6 +64,15 @@ import perigors_church from "../containers/army/perigors_church";
 import zechchenoa_clan from "../containers/army/zechchenoa_clan";
 import nebula_system from "../containers/army/nebula_system";
 import olympus_summit from "../containers/army/olympus_summit";
+import eilif_norse from "../containers/army/eilif_norse";
+import grolmuid_realm from "../containers/army/grolmuid_realm";
+import drabroth_dragon from "../containers/army/drabroth_dragon";
+import morte_crypt from "../containers/army/morte_crypt";
+import richolda_moon from "../containers/army/richolda_moon";
+import ingolfr_moon from "../containers/army/ingolfr_moon";
+import thuktux_cave from "../containers/army/thuktux_cave";
+import lang_moon from "../containers/army/lang_moon";
+import paghorim_clan from "../containers/army/paghorim_clan";
 
 const army = {
     harald_rike,
@@ -120,10 +125,6 @@ const army = {
     krutzlech_pyramid,
     magnus_shadow,
     spike_empire,
-    caihui_dynasty,
-    dingwen_dynasty,
-    shuren_country,
-    liujian_dynasty,
     ciargidh_crypt,
     ashmight_fire,
     irzhak_skull,
@@ -139,7 +140,16 @@ const army = {
     perigors_church,
     zechchenoa_clan,
     nebula_system,
-    olympus_summit
+    olympus_summit,
+    eilif_norse,
+    grolmuid_realm,
+    drabroth_dragon,
+    morte_crypt,
+    richolda_moon,
+    ingolfr_moon,
+    thuktux_cave,
+    lang_moon,
+    paghorim_clan
 }
 
 export default army;

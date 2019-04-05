@@ -30,6 +30,11 @@ export default [
                 name: 'Archangel',
                 size: 2,
                 folder: 'aom_7'
+            },
+            {
+                name: 'Prime Angel',
+                size: 1.95,
+                folder: 'aom_24'
             }
         ]
     }

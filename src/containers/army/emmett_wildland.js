@@ -16,6 +16,11 @@ export default [
                 name: 'Peasant Guard',
                 size: 1,
                 folder: 'rk_3'
+            },
+            {
+                name: 'Peasant Captain',
+                size: 1,
+                folder: 'rk_4'
             }
         ]
     },
@@ -23,14 +28,24 @@ export default [
         name: 'Level 2',
         list: [
             {
-                name: 'Peasant Captain',
-                size: 1,
-                folder: 'rk_4'
+                name: 'Mercenary Pike',
+                size: 1.01,
+                folder: 'rk_34'
+            },
+            {
+                name: 'Mercenary Sword',
+                size: 1.01,
+                folder: 'rk_36'
             },
             {
                 name: 'Mercenary Axe Thrower',
                 size: 1.01,
                 folder: 'rk_17'
+            },
+            {
+                name: 'Mercenary Crossbow',
+                size: 1.15,
+                folder: 'rk_38'
             }
         ]
     },
@@ -52,7 +67,16 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Big General',
+                size: 1.2,
+                folder: 'rk_46'
+            },
+            {
+                name: 'Great Duke',
+                size: 1.2,
+                folder: 'rk_31'
+            }
         ]
     },
     {

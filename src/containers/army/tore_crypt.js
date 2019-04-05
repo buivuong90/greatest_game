@@ -6,6 +6,16 @@ export default [
                 name: 'Zombie Warrior',
                 size: 1,
                 folder: 'saw_2'
+            },
+            {
+                name: 'Zombie Archer',
+                size: 1,
+                folder: 'saw_12'
+            },
+            {
+                name: 'Armoured Zombie',
+                size: 1.06,
+                folder: 'saw_8'
             }
         ]
     },
@@ -16,6 +26,11 @@ export default [
                 name: 'Zombie Shield',
                 size: 1.06,
                 folder: 'saw_3'
+            },
+            {
+                name: 'Golden Zombie',
+                size: 1.06,
+                folder: 'saw_10'
             }
         ]
     },

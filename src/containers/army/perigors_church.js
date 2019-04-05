@@ -36,6 +36,16 @@ export default [
                 name: 'Terrant Mace',
                 size: 1.17,
                 folder: 'wmt_52'
+            },
+            {
+                name: 'Maiden',
+                size: 1.07,
+                folder: 'wmt_54'
+            },
+            {
+                name: 'Priest',
+                size: 1.13,
+                folder: 'wmt_55'
             }
         ]
     },
@@ -57,13 +67,31 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Repenter',
+                size: 1.6,
+                folder: 'wmt_57'
+            },
+            {
+                name: 'Revenger',
+                size: 1.6,
+                folder: 'wmt_58'
+            }
         ]
     },
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Crusader',
+                size: 1.82,
+                folder: 'wmt_56'
+            },
+            {
+                name: 'Vanquisher',
+                size: 1.82,
+                folder: 'wmt_59'
+            }
         ]
     }
 ]

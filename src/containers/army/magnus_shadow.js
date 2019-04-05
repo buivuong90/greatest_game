@@ -33,7 +33,11 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Night Cavalry',
+                size: 1.63,
+                folder: 'kbn_28'
+            }
         ]
     },
     {
