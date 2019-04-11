@@ -2,7 +2,11 @@ export default [
     {
         name: 'Level 1',
         list: [
-            
+            {
+                name: 'Machine Bee',
+                size: 1.47,
+                folder: 'smi_47'
+            }
         ]
     },
     {

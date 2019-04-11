@@ -19,6 +19,11 @@ export default [
         name: 'Level 3',
         list: [
             {
+                name: 'Soul Seeker',
+                size: 1.06,
+                folder: 'saw_16'
+            },
+            {
                 name: 'Berserker Shaman',
                 size: 1.06,
                 folder: 'saw_13'

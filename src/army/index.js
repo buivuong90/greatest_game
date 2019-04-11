@@ -73,6 +73,16 @@ import ingolfr_moon from "../containers/army/ingolfr_moon";
 import thuktux_cave from "../containers/army/thuktux_cave";
 import lang_moon from "../containers/army/lang_moon";
 import paghorim_clan from "../containers/army/paghorim_clan";
+import gereminus_order from "../containers/army/gereminus_order";
+import tellmunoth_demon from "../containers/army/tellmunoth_demon";
+import shunsuke_clan from "../containers/army/shunsuke_clan";
+import xazis_crypt from "../containers/army/xazis_crypt";
+import gnung_tribe from "../containers/army/gnung_tribe";
+import chelx_tribe from "../containers/army/chelx_tribe";
+import ambergut_realm from "../containers/army/ambergut_realm";
+import utis_universe from "../containers/army/utis_universe";
+import burntongue_hell from "../containers/army/burntongue_hell";
+import tervus_dark from "../containers/army/tervus_dark";
 
 const army = {
     harald_rike,
@@ -149,7 +159,17 @@ const army = {
     ingolfr_moon,
     thuktux_cave,
     lang_moon,
-    paghorim_clan
+    paghorim_clan,
+    gereminus_order,
+    tellmunoth_demon,
+    shunsuke_clan,
+    xazis_crypt,
+    gnung_tribe,
+    chelx_tribe,
+    ambergut_realm,
+    utis_universe,
+    burntongue_hell,
+    tervus_dark
 }
 
 export default army;

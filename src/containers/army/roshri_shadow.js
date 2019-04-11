@@ -43,6 +43,11 @@ export default [
         name: 'Level 3',
         list: [
             {
+                name: 'Dark Magician',
+                size: 1.09,
+                folder: 'momx_51'
+            },
+            {
                 name: 'Sword Owl',
                 size: 1.1,
                 folder: 'momx_30'

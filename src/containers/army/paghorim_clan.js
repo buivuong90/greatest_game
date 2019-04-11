@@ -24,7 +24,11 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Wyvern',
+                size: 1.4,
+                folder: 'pcq_58'
+            }
         ]
     },
     {

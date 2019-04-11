@@ -16,6 +16,11 @@ export default [
                 name: 'Skeleton Archer',
                 size: 1.01,
                 folder: 'pcq_24'
+            },
+            {
+                name: 'Spirit Master',
+                size: 1,
+                folder: 'pcq_42'
             }
         ]
     },

@@ -2,7 +2,21 @@ export default [
     {
         name: 'Level 1',
         list: [
-            
+            {
+                name: 'Ranger',
+                size: 1.15,
+                folder: 'smi_46'
+            },
+            {
+                name: 'Axeman',
+                size: 1.15,
+                folder: 'smi_45'
+            },
+            {
+                name: 'Captain',
+                size: 1.33,
+                folder: 'smi_44'
+            }
         ]
     },
     {
@@ -28,6 +42,11 @@ export default [
                 name: 'Juggernaut',
                 size: 1.5,
                 folder: 'smi_19'
+            },
+            {
+                name: 'Ancient Bee',
+                size: 1.46,
+                folder: 'smi_43'
             }
         ]
     },

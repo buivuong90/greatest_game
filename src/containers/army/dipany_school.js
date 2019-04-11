@@ -15,9 +15,9 @@ export default [
         name: 'Level 3',
         list: [
             {
-                name: 'Sky Mage',
-                size: 1.03,
-                folder: 'saw_6'
+                name: 'Woodman',
+                size: 1.5,
+                folder: 'saw_21'
             }
         ]
     },
@@ -25,16 +25,25 @@ export default [
         name: 'Level 4',
         list: [
             {
-                name: 'Grand Mage',
-                size: 1.05,
-                folder: 'saw_7'
+                name: 'Sky Mage',
+                size: 1.03,
+                folder: 'saw_6'
             }
         ]
     },
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Grand Mage',
+                size: 1.05,
+                folder: 'saw_7'
+            },
+            {
+                name: 'King Tree',
+                size: 1.9,
+                folder: 'saw_26'
+            }
         ]
     }
 ]

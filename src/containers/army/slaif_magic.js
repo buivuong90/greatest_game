@@ -32,7 +32,16 @@ export default [
     {
         name: 'Level 2',
         list: [
-            
+            {
+                name: 'Slime',
+                size: 0.85,
+                folder: 'pcq_55'
+            },
+            {
+                name: 'Medusa Sword',
+                size: 1.7,
+                folder: 'pcq_48'
+            }
         ]
     },
     {
@@ -40,7 +49,7 @@ export default [
         list: [
             {
                 name: 'Undead Mage',
-                size: 1,
+                size: 1.02,
                 folder: 'pcq_18'
             }
         ]
@@ -48,13 +57,21 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Monk',
+                size: 1.06,
+                folder: 'pcq_51'
+            }
         ]
     },
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Chaos Snail',
+                size: 1.7,
+                folder: 'pcq_46'
+            }
         ]
     }
 ]
