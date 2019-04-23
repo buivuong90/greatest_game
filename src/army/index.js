@@ -83,6 +83,11 @@ import ambergut_realm from "../containers/army/ambergut_realm";
 import utis_universe from "../containers/army/utis_universe";
 import burntongue_hell from "../containers/army/burntongue_hell";
 import tervus_dark from "../containers/army/tervus_dark";
+import hihhekike_sky from "../containers/army/hihhekike_sky";
+import dagiel_imperial from "../containers/army/dagiel_imperial";
+import vemre_cave from "../containers/army/vemre_cave";
+import javed_desert from "../containers/army/javed_desert";
+import styr_land from "../containers/army/styr_land";
 
 const army = {
     harald_rike,
@@ -169,7 +174,12 @@ const army = {
     ambergut_realm,
     utis_universe,
     burntongue_hell,
-    tervus_dark
+    tervus_dark,
+    hihhekike_sky,
+    dagiel_imperial,
+    vemre_cave,
+    javed_desert,
+    styr_land
 }
 
 export default army;
