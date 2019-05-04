@@ -88,6 +88,13 @@ import dagiel_imperial from "../containers/army/dagiel_imperial";
 import vemre_cave from "../containers/army/vemre_cave";
 import javed_desert from "../containers/army/javed_desert";
 import styr_land from "../containers/army/styr_land";
+import xothkug_tribe from "../containers/army/xothkug_tribe";
+import innen_wood from "../containers/army/innen_wood";
+import thallilgiot_realm from "../containers/army/thallilgiot_realm";
+import zadimus_crypt from "../containers/army/zadimus_crypt";
+import devin_castle from "../containers/army/devin_castle";
+import mozzof_tower from "../containers/army/mozzof_tower";
+import quot_skaven from "../containers/army/quot_skaven";
 
 const army = {
     harald_rike,
@@ -179,7 +186,14 @@ const army = {
     dagiel_imperial,
     vemre_cave,
     javed_desert,
-    styr_land
+    styr_land,
+    xothkug_tribe,
+    innen_wood,
+    thallilgiot_realm,
+    zadimus_crypt,
+    devin_castle,
+    mozzof_tower,
+    quot_skaven
 }
 
 export default army;

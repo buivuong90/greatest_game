@@ -11,6 +11,16 @@ export default [
                 name: 'Javelineer',
                 size: 1.33,
                 folder: 'pcq_36'
+            },
+            {
+                name: 'Elementalist',
+                size: 1.21,
+                folder: 'pcq_59'
+            },
+            {
+                name: 'Magician',
+                size: 1.43,
+                folder: 'pcq_62'
             }
         ]
     },
@@ -26,6 +36,11 @@ export default [
                 name: 'Drake',
                 size: 1.6,
                 folder: 'pcq_27'
+            },
+            {
+                name: 'Mage',
+                size: 1.52,
+                folder: 'pcq_60'
             },
             {
                 name: 'Spellsword',
@@ -71,6 +86,11 @@ export default [
                 name: 'Drake Rider',
                 size: 2.2,
                 folder: 'pcq_25'
+            },
+            {
+                name: 'Dracolich',
+                size: 1.5,
+                folder: 'pcq_61'
             }
         ]
     }
