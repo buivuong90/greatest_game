@@ -37,10 +37,6 @@ import xamin_crypt from "../containers/army/xamin_crypt";
 import chasseur_castle from "../containers/army/chasseur_castle";
 import emmett_wildland from "../containers/army/emmett_wildland";
 import ogorath_hell from "../containers/army/ogorath_hell";
-import usiel_machina from "../containers/army/usiel_machina";
-import bamus_chaos from "../containers/army/bamus_chaos";
-import trureel_crypt from "../containers/army/trureel_crypt";
-import nudma_sea from "../containers/army/nudma_sea";
 import troccus_forest from "../containers/army/troccus_forest";
 import hutch_empire from "../containers/army/hutch_empire";
 import ozzy_land from "../containers/army/ozzy_land";
@@ -61,7 +57,6 @@ import khamavant_raajy from "../containers/army/khamavant_raajy";
 import uchenac_crypt from "../containers/army/uchenac_crypt";
 import dipany_school from "../containers/army/dipany_school";
 import perigors_church from "../containers/army/perigors_church";
-import zechchenoa_clan from "../containers/army/zechchenoa_clan";
 import nebula_system from "../containers/army/nebula_system";
 import olympus_summit from "../containers/army/olympus_summit";
 import eilif_norse from "../containers/army/eilif_norse";
@@ -95,6 +90,8 @@ import zadimus_crypt from "../containers/army/zadimus_crypt";
 import devin_castle from "../containers/army/devin_castle";
 import mozzof_tower from "../containers/army/mozzof_tower";
 import quot_skaven from "../containers/army/quot_skaven";
+import aldertwig_realm from "../containers/army/aldertwig_realm";
+import illeti_heaven from "../containers/army/illeti_heaven";
 
 const army = {
     harald_rike,
@@ -136,10 +133,6 @@ const army = {
     chasseur_castle,
     emmett_wildland,
     ogorath_hell,
-    usiel_machina,
-    bamus_chaos,
-    trureel_crypt,
-    nudma_sea,
     troccus_forest,
     hutch_empire,
     ozzy_land,
@@ -160,7 +153,6 @@ const army = {
     uchenac_crypt,
     dipany_school,
     perigors_church,
-    zechchenoa_clan,
     nebula_system,
     olympus_summit,
     eilif_norse,
@@ -193,7 +185,9 @@ const army = {
     zadimus_crypt,
     devin_castle,
     mozzof_tower,
-    quot_skaven
+    quot_skaven,
+    aldertwig_realm,
+    illeti_heaven
 }
 
 export default army;

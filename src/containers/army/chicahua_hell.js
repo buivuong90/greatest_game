@@ -28,6 +28,11 @@ export default [
         name: 'Level 2',
         list: [
             {
+                name: 'Skull Shaman',
+                size: 1.12,
+                folder: 'aom_38'
+            },
+            {
                 name: 'Skull Elite Spear',
                 size: 1.12,
                 folder: 'aom_23'
@@ -38,9 +43,9 @@ export default [
                 folder: 'aom_6'
             },
             {
-                name: 'Skull Elite Guardian',
+                name: 'Skull Crazy',
                 size: 1.27,
-                folder: 'aom_10'
+                folder: 'aom_39'
             }
         ]
     },
@@ -48,21 +53,35 @@ export default [
         name: 'Level 3',
         list: [
             {
+                name: 'Skull Elite Guardian',
+                size: 1.27,
+                folder: 'aom_10'
+            },
+            {
                 name: 'Skull Master',
                 size: 1.15,
                 folder: 'aom_27'
             },
             {
-                name: 'Skull Elite',
-                size: 1.22,
-                folder: 'aom_2'
+                name: 'Skull Ghost',
+                size: 1,
+                folder: 'aom_37'
             }
         ]
     },
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Skull Elite',
+                size: 1.22,
+                folder: 'aom_2'
+            },
+            {
+                name: 'Skull Titan',
+                size: 1.35,
+                folder: 'aom_40'
+            }
         ]
     },
     {
