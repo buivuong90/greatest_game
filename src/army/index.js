@@ -1,11 +1,7 @@
-import harald_rike from "../containers/army/harald_rike";
-import ellice_royaume from "../containers/army/ellice_royaume";
 import titan_universe from "../containers/army/titan_universe";
 import sahl_dynasty from "../containers/army/sahl_dynasty";
 import elemental_universe from "../containers/army/elemental_universe";
 import imkan_heaven from "../containers/army/imkan_heaven";
-import wesley_gangs from "../containers/army/wesley_gangs";
-import arghus_crypt from "../containers/army/arghus_crypt";
 import yiddenda_realm from "../containers/army/yiddenda_realm";
 import bhamka_crypt from "../containers/army/bhamka_crypt";
 import vargan_clan from "../containers/army/vargan_clan";
@@ -14,8 +10,6 @@ import cobalt_guild from "../containers/army/cobalt_guild";
 import chicahua_hell from "../containers/army/chicahua_hell";
 import toufiq_niqaba from "../containers/army/toufiq_niqaba";
 import mary_kingdom from "../containers/army/mary_kingdom";
-import nussorlig_realm from "../containers/army/nussorlig_realm";
-import julakgh_kingdom from "../containers/army/julakgh_kingdom";
 import elyrth_shadow from "../containers/army/elyrth_shadow";
 import dular_tribe from "../containers/army/dular_tribe";
 import idu_clan from "../containers/army/idu_clan";
@@ -41,8 +35,6 @@ import troccus_forest from "../containers/army/troccus_forest";
 import hutch_empire from "../containers/army/hutch_empire";
 import ozzy_land from "../containers/army/ozzy_land";
 import slaif_magic from "../containers/army/slaif_magic";
-import krutzlech_pyramid from "../containers/army/krutzlech_pyramid";
-import magnus_shadow from "../containers/army/magnus_shadow";
 import spike_empire from "../containers/army/spike_empire";
 import ciargidh_crypt from "../containers/army/ciargidh_crypt";
 import ashmight_fire from "../containers/army/ashmight_fire";
@@ -65,39 +57,32 @@ import drabroth_dragon from "../containers/army/drabroth_dragon";
 import morte_crypt from "../containers/army/morte_crypt";
 import richolda_moon from "../containers/army/richolda_moon";
 import ingolfr_moon from "../containers/army/ingolfr_moon";
-import thuktux_cave from "../containers/army/thuktux_cave";
-import lang_moon from "../containers/army/lang_moon";
 import paghorim_clan from "../containers/army/paghorim_clan";
 import gereminus_order from "../containers/army/gereminus_order";
 import tellmunoth_demon from "../containers/army/tellmunoth_demon";
 import shunsuke_clan from "../containers/army/shunsuke_clan";
 import xazis_crypt from "../containers/army/xazis_crypt";
 import gnung_tribe from "../containers/army/gnung_tribe";
-import chelx_tribe from "../containers/army/chelx_tribe";
-import ambergut_realm from "../containers/army/ambergut_realm";
-import utis_universe from "../containers/army/utis_universe";
 import burntongue_hell from "../containers/army/burntongue_hell";
 import tervus_dark from "../containers/army/tervus_dark";
 import hihhekike_sky from "../containers/army/hihhekike_sky";
 import dagiel_imperial from "../containers/army/dagiel_imperial";
-import vemre_cave from "../containers/army/vemre_cave";
 import javed_desert from "../containers/army/javed_desert";
 import styr_land from "../containers/army/styr_land";
 import xothkug_tribe from "../containers/army/xothkug_tribe";
 import thallilgiot_realm from "../containers/army/thallilgiot_realm";
 import zadimus_crypt from "../containers/army/zadimus_crypt";
-import devin_castle from "../containers/army/devin_castle";
 import aldertwig_realm from "../containers/army/aldertwig_realm";
+import legic_guild from "../containers/army/legic_guild";
+import vubzes_crypt from "../containers/army/vubzes_crypt";
+import qhimmuls_planet from "../containers/army/qhimmuls_planet";
+import elarinya_kingdom from "../containers/army/elarinya_kingdom";
 
 const army = {
-    harald_rike,
-    ellice_royaume,
     titan_universe,
     sahl_dynasty,
     elemental_universe,
     imkan_heaven,
-    wesley_gangs,
-    arghus_crypt,
     yiddenda_realm,
     bhamka_crypt,
     vargan_clan,
@@ -106,8 +91,6 @@ const army = {
     chicahua_hell,
     toufiq_niqaba,
     mary_kingdom,
-    nussorlig_realm,
-    julakgh_kingdom,
     elyrth_shadow,
     dular_tribe,
     idu_clan,
@@ -133,8 +116,6 @@ const army = {
     hutch_empire,
     ozzy_land,
     slaif_magic,
-    krutzlech_pyramid,
-    magnus_shadow,
     spike_empire,
     ciargidh_crypt,
     ashmight_fire,
@@ -157,29 +138,26 @@ const army = {
     morte_crypt,
     richolda_moon,
     ingolfr_moon,
-    thuktux_cave,
-    lang_moon,
     paghorim_clan,
     gereminus_order,
     tellmunoth_demon,
     shunsuke_clan,
     xazis_crypt,
     gnung_tribe,
-    chelx_tribe,
-    ambergut_realm,
-    utis_universe,
     burntongue_hell,
     tervus_dark,
     hihhekike_sky,
     dagiel_imperial,
-    vemre_cave,
     javed_desert,
     styr_land,
     xothkug_tribe,
     thallilgiot_realm,
     zadimus_crypt,
-    devin_castle,
-    aldertwig_realm
+    aldertwig_realm,
+    legic_guild,
+    vubzes_crypt,
+    qhimmuls_planet,
+    elarinya_kingdom
 }
 
 export default army;

@@ -3,6 +3,11 @@ export default [
         name: 'Level 1',
         list: [
             {
+                name: 'Bandit Archer',
+                size: 1,
+                folder: 'momx_57'
+            },
+            {
                 name: 'Bandit Thief',
                 size: 1,
                 folder: 'momx_19'
@@ -11,16 +16,6 @@ export default [
                 name: 'Master Thief',
                 size: 1,
                 folder: 'momx_5'
-            },
-            {
-                name: 'Wolf Hound',
-                size: 0.9,
-                folder: 'momx_29'
-            },
-            {
-                name: 'Wolf Hound Elite',
-                size: 0.9,
-                folder: 'momx_24'
             }
         ]
     },
@@ -28,14 +23,24 @@ export default [
         name: 'Level 2',
         list: [
             {
-                name: 'Black Guard',
+                name: 'Militia',
                 size: 1.02,
-                folder: 'momx_9'
+                folder: 'momx_60'
             },
             {
-                name: 'Rogue Wizard',
-                size: '1.01',
-                folder: 'momx_17'
+                name: 'Militia Archer',
+                size: 1.02,
+                folder: 'momx_65'
+            },
+            {
+                name: 'Bandit Marskman',
+                size: 1,
+                folder: 'momx_59'
+            },
+            {
+                name: 'Thief Archer',
+                size: 1,
+                folder: 'momx_61'
             }
         ]
     },
@@ -43,19 +48,19 @@ export default [
         name: 'Level 3',
         list: [
             {
+                name: 'Black Guard',
+                size: 1.02,
+                folder: 'momx_9'
+            },
+            {
                 name: 'Black Guard Elite',
                 size: 1.02,
                 folder: 'momx_6'
             },
             {
-                name: 'Dark Wizard',
+                name: 'Thief Champion',
                 size: 1,
-                folder: 'momx_15'
-            },
-            {
-                name: 'Poison Wizard',
-                size: 1,
-                folder: 'momx_27'
+                folder: 'momx_58'
             }
         ]
     },
@@ -63,9 +68,19 @@ export default [
         name: 'Level 4',
         list: [
             {
+                name: 'Knight Archer',
+                size: 1.05,
+                folder: 'momx_64'
+            },
+            {
                 name: 'Death Knight',
-                size: 1.02,
+                size: 1.04,
                 folder: 'momx_10'
+            },
+            {
+                name: 'Silver Knight',
+                size: 1.05,
+                folder: 'momx_62'
             }
         ]
     },
@@ -73,9 +88,9 @@ export default [
         name: 'Level 5',
         list: [
             {
-                name: 'Paokai',
-                size: 1.4,
-                folder: 'momx_22'
+                name: 'Blood Knight',
+                size: 1.05,
+                folder: 'momx_63'
             }
         ]
     }

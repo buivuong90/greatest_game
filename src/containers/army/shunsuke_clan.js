@@ -52,19 +52,51 @@ export default [
     {
         name: 'Level 3',
         list: [
-            
+            {
+                name: 'Samurai Archer',
+                size: 1.08,
+                folder: 'saw_58'
+            },
+            {
+                name: 'Samurai Guard',
+                size: 1.08,
+                folder: 'saw_59'
+            },
+            {
+                name: 'Samurai Hammer',
+                size: 1.08,
+                folder: 'saw_60'
+            }
         ]
     },
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Samurai Master',
+                size: 1.08,
+                folder: 'saw_61'
+            },
+            {
+                name: 'Pre Champion',
+                size: 1.16,
+                folder: 'saw_56'
+            }
         ]
     },
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Champion Shield',
+                size: 1.16,
+                folder: 'saw_55'
+            },
+            {
+                name: 'Champion Striker',
+                size: 1.16,
+                folder: 'saw_57'
+            }
         ]
     }
 ]
