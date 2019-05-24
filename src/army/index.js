@@ -7,13 +7,9 @@ import bhamka_crypt from "../containers/army/bhamka_crypt";
 import vargan_clan from "../containers/army/vargan_clan";
 import roshri_shadow from "../containers/army/roshri_shadow";
 import cobalt_guild from "../containers/army/cobalt_guild";
-import chicahua_hell from "../containers/army/chicahua_hell";
-import toufiq_niqaba from "../containers/army/toufiq_niqaba";
-import mary_kingdom from "../containers/army/mary_kingdom";
 import elyrth_shadow from "../containers/army/elyrth_shadow";
 import dular_tribe from "../containers/army/dular_tribe";
 import idu_clan from "../containers/army/idu_clan";
-import primordial_concord from "../containers/army/primordial_concord";
 import krolaer_crypt from "../containers/army/krolaer_crypt";
 import paladin_armada from "../containers/army/paladin_armada";
 import felose_arcane from "../containers/army/felose_arcane";
@@ -41,8 +37,6 @@ import ashmight_fire from "../containers/army/ashmight_fire";
 import irzhak_skull from "../containers/army/irzhak_skull";
 import tore_crypt from "../containers/army/tore_crypt";
 import bukin_spaceship from "../containers/army/bukin_spaceship";
-import mourncaller_chaos from "../containers/army/mourncaller_chaos";
-import ziling_shou from "../containers/army/ziling_shou";
 import xbalanque_tribe from "../containers/army/xbalanque_tribe";
 import orestes_state from "../containers/army/orestes_state";
 import khamavant_raajy from "../containers/army/khamavant_raajy";
@@ -65,18 +59,14 @@ import xazis_crypt from "../containers/army/xazis_crypt";
 import gnung_tribe from "../containers/army/gnung_tribe";
 import burntongue_hell from "../containers/army/burntongue_hell";
 import tervus_dark from "../containers/army/tervus_dark";
-import hihhekike_sky from "../containers/army/hihhekike_sky";
 import dagiel_imperial from "../containers/army/dagiel_imperial";
 import javed_desert from "../containers/army/javed_desert";
-import styr_land from "../containers/army/styr_land";
 import xothkug_tribe from "../containers/army/xothkug_tribe";
 import thallilgiot_realm from "../containers/army/thallilgiot_realm";
 import zadimus_crypt from "../containers/army/zadimus_crypt";
-import aldertwig_realm from "../containers/army/aldertwig_realm";
 import legic_guild from "../containers/army/legic_guild";
-import vubzes_crypt from "../containers/army/vubzes_crypt";
 import qhimmuls_planet from "../containers/army/qhimmuls_planet";
-import elarinya_kingdom from "../containers/army/elarinya_kingdom";
+import vagan_tribe from "../containers/army/vagan_tribe";
 
 const army = {
     titan_universe,
@@ -88,13 +78,9 @@ const army = {
     vargan_clan,
     roshri_shadow,
     cobalt_guild,
-    chicahua_hell,
-    toufiq_niqaba,
-    mary_kingdom,
     elyrth_shadow,
     dular_tribe,
     idu_clan,
-    primordial_concord,
     krolaer_crypt,
     paladin_armada,
     felose_arcane,
@@ -122,8 +108,6 @@ const army = {
     irzhak_skull,
     tore_crypt,
     bukin_spaceship,
-    mourncaller_chaos,
-    ziling_shou,
     xbalanque_tribe,
     orestes_state,
     khamavant_raajy,
@@ -146,18 +130,14 @@ const army = {
     gnung_tribe,
     burntongue_hell,
     tervus_dark,
-    hihhekike_sky,
     dagiel_imperial,
     javed_desert,
-    styr_land,
     xothkug_tribe,
     thallilgiot_realm,
     zadimus_crypt,
-    aldertwig_realm,
     legic_guild,
-    vubzes_crypt,
     qhimmuls_planet,
-    elarinya_kingdom
+    vagan_tribe
 }
 
 export default army;
