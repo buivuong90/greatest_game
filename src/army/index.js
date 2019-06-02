@@ -34,14 +34,10 @@ import slaif_magic from "../containers/army/slaif_magic";
 import spike_empire from "../containers/army/spike_empire";
 import ciargidh_crypt from "../containers/army/ciargidh_crypt";
 import ashmight_fire from "../containers/army/ashmight_fire";
-import irzhak_skull from "../containers/army/irzhak_skull";
-import tore_crypt from "../containers/army/tore_crypt";
 import bukin_spaceship from "../containers/army/bukin_spaceship";
 import xbalanque_tribe from "../containers/army/xbalanque_tribe";
 import orestes_state from "../containers/army/orestes_state";
 import khamavant_raajy from "../containers/army/khamavant_raajy";
-import uchenac_crypt from "../containers/army/uchenac_crypt";
-import dipany_school from "../containers/army/dipany_school";
 import perigors_church from "../containers/army/perigors_church";
 import nebula_system from "../containers/army/nebula_system";
 import olympus_summit from "../containers/army/olympus_summit";
@@ -50,23 +46,19 @@ import grolmuid_realm from "../containers/army/grolmuid_realm";
 import drabroth_dragon from "../containers/army/drabroth_dragon";
 import morte_crypt from "../containers/army/morte_crypt";
 import richolda_moon from "../containers/army/richolda_moon";
-import ingolfr_moon from "../containers/army/ingolfr_moon";
 import paghorim_clan from "../containers/army/paghorim_clan";
 import gereminus_order from "../containers/army/gereminus_order";
-import tellmunoth_demon from "../containers/army/tellmunoth_demon";
-import shunsuke_clan from "../containers/army/shunsuke_clan";
 import xazis_crypt from "../containers/army/xazis_crypt";
 import gnung_tribe from "../containers/army/gnung_tribe";
 import burntongue_hell from "../containers/army/burntongue_hell";
-import tervus_dark from "../containers/army/tervus_dark";
 import dagiel_imperial from "../containers/army/dagiel_imperial";
-import javed_desert from "../containers/army/javed_desert";
 import xothkug_tribe from "../containers/army/xothkug_tribe";
 import thallilgiot_realm from "../containers/army/thallilgiot_realm";
 import zadimus_crypt from "../containers/army/zadimus_crypt";
 import legic_guild from "../containers/army/legic_guild";
 import qhimmuls_planet from "../containers/army/qhimmuls_planet";
 import vagan_tribe from "../containers/army/vagan_tribe";
+import bradhos_crypt from "../containers/army/bradhos_crypt";
 
 const army = {
     titan_universe,
@@ -105,14 +97,10 @@ const army = {
     spike_empire,
     ciargidh_crypt,
     ashmight_fire,
-    irzhak_skull,
-    tore_crypt,
     bukin_spaceship,
     xbalanque_tribe,
     orestes_state,
     khamavant_raajy,
-    uchenac_crypt,
-    dipany_school,
     perigors_church,
     nebula_system,
     olympus_summit,
@@ -121,23 +109,19 @@ const army = {
     drabroth_dragon,
     morte_crypt,
     richolda_moon,
-    ingolfr_moon,
     paghorim_clan,
     gereminus_order,
-    tellmunoth_demon,
-    shunsuke_clan,
     xazis_crypt,
     gnung_tribe,
     burntongue_hell,
-    tervus_dark,
     dagiel_imperial,
-    javed_desert,
     xothkug_tribe,
     thallilgiot_realm,
     zadimus_crypt,
     legic_guild,
     qhimmuls_planet,
-    vagan_tribe
+    vagan_tribe,
+    bradhos_crypt
 }
 
 export default army;

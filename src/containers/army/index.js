@@ -30,10 +30,10 @@ class Army extends React.Component{
             <div>
                 <div className="uk-flex uk-flex-between">
                     <div>
-                        <button className="uk-button uk-button-primary" type="button" uk-toggle="target: #offcanvas-army1">{this.army1}</button>
+                        <button className="uk-button uk-button-primary" style={{zIndex: '99999'}} type="button" uk-toggle="target: #offcanvas-army1">{this.army1}</button>
                     </div>
                     <div>
-                        <button className="uk-button uk-button-primary" type="button" uk-toggle="target: #offcanvas-army2">{this.army2}</button>
+                        <button className="uk-button uk-button-primary" style={{zIndex: '99999'}} type="button" uk-toggle="target: #offcanvas-army2">{this.army2}</button>
                     </div>
                 </div>
                 <div className="uk-container">
@@ -44,9 +44,15 @@ class Army extends React.Component{
                             {
                                 this.state.player1
                                 ?
-                                    <div className="uk-flex uk-flex-center">
-                                        <img data-src={'/'+this.army1+'/'+this.state.player1.folder+'/main.png'} className="uk-flip"
-                                            style={{height: Number(200*this.state.player1.size)+'px'}} uk-img="true"/>
+                                    <div>
+                                        <div className="uk-position-left uk-overlay uk-flex uk-flex-middle uk-text-success"
+                                            style={{top: 50}}>
+                                            Heath:&nbsp;<span className="uk-text-primary uk-text-bold">{this.state.player1.health}</span>
+                                        </div>
+                                        <div className="uk-flex uk-flex-center">
+                                            <img data-src={'/'+this.army1+'/'+this.state.player1.folder+'/main.png'} className="uk-flip"
+                                                style={{height: Number(200*this.state.player1.size)+'px'}} uk-img="true"/>
+                                        </div>
                                     </div>
                                 : null
                             }
@@ -55,9 +61,15 @@ class Army extends React.Component{
                             {
                                 this.state.player2
                                 ?
-                                    <div className="uk-flex uk-flex-center">
-                                        <img data-src={'/'+this.army2+'/'+this.state.player2.folder+'/main.png'}
-                                            style={{height: Number(200*this.state.player2.size)+'px'}} uk-img="true"/>
+                                    <div>
+                                        <div className="uk-position-right uk-overlay uk-flex uk-flex-middle uk-text-success"
+                                            style={{top: 50}}>
+                                            Heath:&nbsp;<span className="uk-text-primary uk-text-bold">{this.state.player2.health}</span>
+                                        </div>
+                                        <div className="uk-flex uk-flex-center">
+                                            <img data-src={'/'+this.army2+'/'+this.state.player2.folder+'/main.png'}
+                                                style={{height: Number(200*this.state.player2.size)+'px'}} uk-img="true"/>
+                                        </div>
                                     </div>
                                 : null
                             }

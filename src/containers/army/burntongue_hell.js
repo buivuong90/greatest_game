@@ -1,3 +1,5 @@
+import C from "./_config";
+
 export default [
     {
         name: 'Level 1',
@@ -5,22 +7,26 @@ export default [
             {
                 name: 'Bearer',
                 size: 0.95,
-                folder: 'aak_48'
+                folder: 'aak_48',
+                health: C.base_health.imp
             },
             {
                 name: 'Fire Spitter',
                 size: 1.06,
-                folder: 'aak_45'
+                folder: 'aak_45',
+                health: C.base_health.imp+C.armor.light
             },
             {
                 name: 'Shaman',
                 size: 0.98,
-                folder: 'aak_53'
+                folder: 'aak_53',
+                health: C.base_health.imp+C.armor.light
             },
             {
                 name: 'Priest',
                 size: 1.33,
-                folder: 'aak_54'
+                folder: 'aak_54',
+                health: C.base_health.imp
             }
         ]
     },
@@ -30,12 +36,14 @@ export default [
             {
                 name: 'Organist',
                 size: 1.4,
-                folder: 'aak_57'
+                folder: 'aak_57',
+                health: C.base_health.imp+C.armor.light
             },
             {
                 name: 'Abyss Warrior',
                 size: 0.95,
-                folder: 'aak_43'
+                folder: 'aak_43',
+                health: C.base_health.imp+C.armor.light+C.extra
             },
             {
                 name: 'Reaper Trident',
