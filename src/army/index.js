@@ -27,13 +27,7 @@ import xamin_crypt from "../containers/army/xamin_crypt";
 import chasseur_castle from "../containers/army/chasseur_castle";
 import emmett_wildland from "../containers/army/emmett_wildland";
 import ogorath_hell from "../containers/army/ogorath_hell";
-import troccus_forest from "../containers/army/troccus_forest";
-import hutch_empire from "../containers/army/hutch_empire";
-import ozzy_land from "../containers/army/ozzy_land";
-import slaif_magic from "../containers/army/slaif_magic";
 import spike_empire from "../containers/army/spike_empire";
-import ciargidh_crypt from "../containers/army/ciargidh_crypt";
-import ashmight_fire from "../containers/army/ashmight_fire";
 import bukin_spaceship from "../containers/army/bukin_spaceship";
 import xbalanque_tribe from "../containers/army/xbalanque_tribe";
 import orestes_state from "../containers/army/orestes_state";
@@ -42,11 +36,8 @@ import perigors_church from "../containers/army/perigors_church";
 import nebula_system from "../containers/army/nebula_system";
 import olympus_summit from "../containers/army/olympus_summit";
 import eilif_norse from "../containers/army/eilif_norse";
-import grolmuid_realm from "../containers/army/grolmuid_realm";
-import drabroth_dragon from "../containers/army/drabroth_dragon";
 import morte_crypt from "../containers/army/morte_crypt";
 import richolda_moon from "../containers/army/richolda_moon";
-import paghorim_clan from "../containers/army/paghorim_clan";
 import gereminus_order from "../containers/army/gereminus_order";
 import xazis_crypt from "../containers/army/xazis_crypt";
 import gnung_tribe from "../containers/army/gnung_tribe";
@@ -59,6 +50,7 @@ import legic_guild from "../containers/army/legic_guild";
 import qhimmuls_planet from "../containers/army/qhimmuls_planet";
 import vagan_tribe from "../containers/army/vagan_tribe";
 import bradhos_crypt from "../containers/army/bradhos_crypt";
+import joleth_sky from "../containers/army/joleth_sky";
 
 const army = {
     titan_universe,
@@ -90,13 +82,7 @@ const army = {
     chasseur_castle,
     emmett_wildland,
     ogorath_hell,
-    troccus_forest,
-    hutch_empire,
-    ozzy_land,
-    slaif_magic,
     spike_empire,
-    ciargidh_crypt,
-    ashmight_fire,
     bukin_spaceship,
     xbalanque_tribe,
     orestes_state,
@@ -105,11 +91,8 @@ const army = {
     nebula_system,
     olympus_summit,
     eilif_norse,
-    grolmuid_realm,
-    drabroth_dragon,
     morte_crypt,
     richolda_moon,
-    paghorim_clan,
     gereminus_order,
     xazis_crypt,
     gnung_tribe,
@@ -121,7 +104,8 @@ const army = {
     legic_guild,
     qhimmuls_planet,
     vagan_tribe,
-    bradhos_crypt
+    bradhos_crypt,
+    joleth_sky
 }
 
 export default army;
