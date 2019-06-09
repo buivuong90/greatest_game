@@ -14,11 +14,7 @@ export default [
     {
         name: 'Level 3',
         list: [
-            {
-                name: 'Great Bird',
-                size: 1.7,
-                folder: 'smi_24'
-            }
+            
         ]
     },
     {
@@ -34,11 +30,7 @@ export default [
     {
         name: 'Level 5',
         list: [
-            {
-                name: 'Phoenix',
-                size: 1.8,
-                folder: 'smi_26'
-            }
+            
         ]
     }
 ]

@@ -34,6 +34,9 @@ import qhimmuls_planet from "../containers/army/qhimmuls_planet";
 import vagan_tribe from "../containers/army/vagan_tribe";
 import bradhos_crypt from "../containers/army/bradhos_crypt";
 import joleth_sky from "../containers/army/joleth_sky";
+import hanako_clan from "../containers/army/hanako_clan";
+import wukong_forest from "../containers/army/wukong_forest";
+import rasimnu_empire from "../containers/army/rasimnu_empire";
 
 const army = {
     titan_universe,
@@ -71,7 +74,10 @@ const army = {
     qhimmuls_planet,
     vagan_tribe,
     bradhos_crypt,
-    joleth_sky
+    joleth_sky,
+    hanako_clan,
+    wukong_forest,
+    rasimnu_empire
 }
 
 export default army;
