@@ -17,6 +17,7 @@ export default [
     {value: 'krolaer_crypt', name: 'Krolaer Crypt'},
     {value: 'kusari_guild', name: 'Kusari Guild'},
     {value: 'lathagain_impire', name: 'Lathagain Impire'},
+    {value: 'macgill_wildland', name: 'Macgill Wildland'},
     {value: 'nebula_system', name: 'Nebula System'},
     {value: 'ogorath_hell', name: 'Ogorath Hell'},
     {value: 'olympus_summit', name: 'Olympus Summit'},

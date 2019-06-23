@@ -37,6 +37,7 @@ import joleth_sky from "../containers/army/joleth_sky";
 import hanako_clan from "../containers/army/hanako_clan";
 import wukong_forest from "../containers/army/wukong_forest";
 import rasimnu_empire from "../containers/army/rasimnu_empire";
+import macgill_wildland from "../containers/army/macgill_wildland";
 
 const army = {
     titan_universe,
@@ -77,7 +78,8 @@ const army = {
     joleth_sky,
     hanako_clan,
     wukong_forest,
-    rasimnu_empire
+    rasimnu_empire,
+    macgill_wildland
 }
 
 export default army;
