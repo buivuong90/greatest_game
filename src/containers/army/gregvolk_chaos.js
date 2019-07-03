@@ -4,23 +4,18 @@ export default [
         list: [
             {
                 name: 'Demon Soldier',
-                size: 1.24,
+                size: 1.2,
                 folder: 'smi_42'
             },
             {
                 name: 'Demon Captain',
-                size: 1.26,
+                size: 1.21,
                 folder: 'smi_41'
             },
             {
-                name: 'Dragon Killer',
-                size: 1.1,
-                folder: 'smi_7'
-            },
-            {
-                name: 'Mutant Two Face',
-                size: 1.08,
-                folder: 'smi_34'
+                name: 'Demon Butler',
+                size: 1.13,
+                folder: 'smi_246'
             }
         ]
     },
@@ -28,20 +23,35 @@ export default [
         name: 'Level 2',
         list: [
             {
-                name: 'Dragon Warrior',
-                size: 1.15,
-                folder: 'smi_3'
+                name: 'Strong',
+                size: 1.2,
+                folder: 'smi_244'
             },
             {
-                name: 'Cthulhu Flying',
-                size: 1.54,
-                folder: 'smi_40'
+                name: 'Horned Demon',
+                size: 1.24,
+                folder: 'smi_245'
+            },
+            {
+                name: 'Daemon',
+                size: 1.14,
+                folder: 'smi_251'
             }
         ]
     },
     {
         name: 'Level 3',
         list: [
+            {
+                name: 'Dragon Killer',
+                size: 1.13,
+                folder: 'smi_7'
+            },
+            {
+                name: 'Vampire Killer',
+                size: 1.18,
+                folder: 'smi_248'
+            },
             {
                 name: 'Magma Killer',
                 size: 1.12,
@@ -52,13 +62,36 @@ export default [
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Berserker',
+                size: 1.05,
+                folder: 'smi_249'
+            },
+            {
+                name: 'Chaos Bird',
+                size: 1.5,
+                folder: 'smi_247'
+            },
+            {
+                name: 'Veteran Daemon',
+                size: 1.16,
+                folder: 'smi_250'
+            },
+            {
+                name: 'Daemon General',
+                size: 1.2,
+                folder: 'smi_252'
+            }
         ]
     },
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Daemon Prince',
+                size: 1.3,
+                folder: 'smi_243'
+            }
         ]
     }
 ]

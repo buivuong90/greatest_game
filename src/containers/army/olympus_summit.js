@@ -3,24 +3,19 @@ export default [
         name: 'Level 1',
         list: [
             {
-                name: 'Archer',
-                size: 1.07,
-                folder: 'smi_31'
-            },
-            {
                 name: 'Soldier',
-                size: 1.07,
-                folder: 'smi_30'
+                size: 1.25,
+                folder: 'smi_195'
             },
             {
-                name: 'Swordsman',
-                size: 1.18,
-                folder: 'smi_35'
+                name: 'White Lion',
+                size: 1.03,
+                folder: 'smi_196'
             },
             {
-                name: 'Ranger',
-                size: 1.18,
-                folder: 'smi_36'
+                name: 'Sun Soldier',
+                size: 1.05,
+                folder: 'smi_202'
             }
         ]
     },
@@ -28,14 +23,24 @@ export default [
         name: 'Level 2',
         list: [
             {
-                name: 'Captain',
-                size: 1.17,
-                folder: 'smi_28'
+                name: 'Sun Veteran',
+                size: 1.05,
+                folder: 'smi_205'
             },
             {
-                name: 'Elite Captain',
-                size: 1.17,
-                folder: 'smi_29'
+                name: 'Wrestler',
+                size: 1.05,
+                folder: 'smi_198'
+            },
+            {
+                name: 'Guard',
+                size: 1.05,
+                folder: 'smi_194'
+            },
+            {
+                name: 'Wind Messenger',
+                size: 1.25,
+                folder: 'smi_203'
             }
         ]
     },
@@ -43,22 +48,50 @@ export default [
         name: 'Level 3',
         list: [
             {
-                name: 'Gold Fury',
-                size: 1.9,
-                folder: 'smi_33'
+                name: 'Fire Messenger',
+                size: 1.15,
+                folder: 'smi_193'
+            },
+            {
+                name: 'Sea Guard',
+                size: 1.17,
+                folder: 'smi_199'
             }
         ]
     },
     {
         name: 'Level 4',
         list: [
-            
+            {
+                name: 'Gold Fury',
+                size: 1.9,
+                folder: 'smi_33'
+            },
+            {
+                name: 'Champion',
+                size: 1.05,
+                folder: 'smi_197'
+            }
         ]
     },
     {
         name: 'Level 5',
         list: [
-            
+            {
+                name: 'Sea Champion',
+                size: 1.17,
+                folder: 'smi_200'
+            },
+            {
+                name: 'Thunder Master',
+                size: 1.1,
+                folder: 'smi_201'
+            },
+            {
+                name: 'Father',
+                size: 1.1,
+                folder: 'smi_204'
+            }
         ]
     }
 ]

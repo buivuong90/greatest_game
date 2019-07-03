@@ -38,6 +38,11 @@ import hanako_clan from "../containers/army/hanako_clan";
 import wukong_forest from "../containers/army/wukong_forest";
 import rasimnu_empire from "../containers/army/rasimnu_empire";
 import macgill_wildland from "../containers/army/macgill_wildland";
+import centauri_system from "../containers/army/centauri_system";
+import madlen_cave from "../containers/army/madlen_cave";
+import ichuz_chaos from "../containers/army/ichuz_chaos";
+import helenos_state from "../containers/army/helenos_state";
+import shethafe_realm from "../containers/army/shethafe_realm";
 
 const army = {
     titan_universe,
@@ -79,7 +84,12 @@ const army = {
     hanako_clan,
     wukong_forest,
     rasimnu_empire,
-    macgill_wildland
+    macgill_wildland,
+    centauri_system,
+    madlen_cave,
+    ichuz_chaos,
+    helenos_state,
+    shethafe_realm
 }
 
 export default army;
